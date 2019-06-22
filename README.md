@@ -89,5 +89,5 @@ TopMoviesSpider().jsonToTxt()
 ```
 
 ### 截图
-![excel图](https://github.com/2249038142/grapDoubanTop250/image/excel.png)
-![json图](https://github.com/2249038142/grapDoubanTop250/image/json.png)
+![excel图](https://github.com/2249038142/grapDoubanTop250/tree/master/image/excel.png)
+![json图](https://github.com/2249038142/grapDoubanTop250/tree/master/image/json.png)
