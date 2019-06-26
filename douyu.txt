@@ -1,0 +1,4801 @@
+{
+  "room_name": "【PIGFF】最后一把质量局",
+  "author_name": "pigff",
+  "room_cate": "一起看"
+}{
+  "room_name": "【BC组】15:30 黄金赛第七季小组赛",
+  "author_name": "黄金大奖赛",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "⭐龍捲瘋のAK暴力美学",
+  "author_name": "龍捲瘋",
+  "room_cate": "和平精英"
+}{
+  "room_name": "村服吕布，越挫越勇，心态平和正在上星星中",
+  "author_name": "八神君Lpp",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "第一男刀：三级不单杀请举报主播！",
+  "author_name": "智勋勋勋勋",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "重播| 世冠选拔赛 ROX vs GOG",
+  "author_name": "王者荣耀官方赛事",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "LPL夏季赛6月25日重播",
+  "author_name": "英雄联盟赛事",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "对不起大家，我摊牌史上最废没有之一！",
+  "author_name": "暴怒团丶海蛎",
+  "room_cate": "欢乐麻将"
+}{
+  "room_name": "【林蒙】进来学技术",
+  "author_name": "林蒙m",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "先云顶之弈，1点排位",
+  "author_name": "孙悟空丨兰林汉",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "3分钟办卡抽1000一直抽",
+  "author_name": "刘皇叔是个弟弟",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "余小C：云顶之弈30%吃鸡教学！！！",
+  "author_name": "余小C真的很强",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "新版本抢先体验！攀爬系统，大更新！！！",
+  "author_name": "神秘嘉宾橙子",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "甄姬单排教你快速上荣耀。",
+  "author_name": "甄知棒",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "狐狸：更新先打一会！",
+  "author_name": "狐狸不太Sao",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "zzc：峡谷上1000",
+  "author_name": "zzc啊哦额",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "难受，想哭！！",
+  "author_name": "我是大坤坤啊",
+  "room_cate": "DNF"
+}{
+  "room_name": "嘿 是你的小可爱鸭",
+  "author_name": "姗宝lavender",
+  "room_cate": "颜值"
+}{
+  "room_name": "第一李白 在线1V5疯狂屠杀~",
+  "author_name": "李天赐ERTC",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "暴躁杠开集锦，这才叫麻将！！！",
+  "author_name": "靓旭",
+  "room_cate": "欢乐麻将"
+}{
+  "room_name": "请问这里是炉石区声音最大的直播间咩~",
+  "author_name": "恩基爱萌萌哒的狗贼",
+  "room_cate": "炉石传说"
+}{
+  "room_name": "金牌讲师:今天挑战20局第一！吃鸡",
+  "author_name": "仙凡哥哥丶",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "新版本体验！正式服维护",
+  "author_name": "80God",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "云顶棋王~9把7鸡~4连鸡达成~",
+  "author_name": "爷大干",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "暴击李白王者局测试伤害  注意这是测试",
+  "author_name": "可爱的灰太白",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "【1v4】新版本洞穴探险！",
+  "author_name": "QL羽七",
+  "room_cate": "和平精英"
+}{
+  "room_name": "無极   粉丝劫？劫！～",
+  "author_name": "傲宇彡战狂",
+  "room_cate": "逆水寒"
+}{
+  "room_name": "第一露娜80-100单排不上百星不上播",
+  "author_name": "月下无限连小啊鹏",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "【PDL】夏季发展联赛 预选赛6.25",
+  "author_name": "斗鱼绝地赛事",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "猪猪影院：精彩电影不容错过",
+  "author_name": "骚乖可爱宝贝朴",
+  "room_cate": "一起看"
+}{
+  "room_name": "来这里开心就好！ 74960",
+  "author_name": "叫我老陈就好了",
+  "room_cate": "DOTA2"
+}{
+  "room_name": "叫我官人、21.00.-23.00抽奖",
+  "author_name": "DJ叫我官人",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "云顶之奕 教学模式 一天十鸡",
+  "author_name": "狼牙山凯哥",
+  "room_cate": "云顶之弈"
+}{
+  "room_name": "亲戚来临，今天咱就吹吹牛!",
+  "author_name": "阿梨small",
+  "room_cate": "颜值"
+}{
+  "room_name": "东东：你就就是那个玩船长的？",
+  "author_name": "普朗东丷",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "陈翔六点半，每周更新为你加速！",
+  "author_name": "陈翔六点半",
+  "room_cate": "鱼教"
+}{
+  "room_name": "杭州酒吧敞篷车寻找小姐姐",
+  "author_name": "航海朱丶",
+  "room_cate": "户外"
+}{
+  "room_name": "恭喜斗鱼签约战队eStarPro夺冠！",
+  "author_name": "斗鱼KPL荣耀战场",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "【PEL】第二阶段第六周",
+  "author_name": "imba绝地求生频道",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "国服赵云大讲堂 二指禅操作",
+  "author_name": "声优赵猥琐",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "因为你 我愿意～",
+  "author_name": "靖哥哥很皮",
+  "room_cate": "颜值"
+}{
+  "room_name": "抓抓抓抓泥鳅",
+  "author_name": "微山湖捕鱼武工队",
+  "room_cate": "乡野"
+}{
+  "room_name": "【五指摄手】认证号一钢四！冲击40杀！",
+  "author_name": "林熙Lxxi",
+  "room_cate": "和平精英"
+}{
+  "room_name": "我来说说公道话 巨婴美食娱乐",
+  "author_name": "雪纳瑞三口之家",
+  "room_cate": "美食"
+}{
+  "room_name": "聊聊近期新品",
+  "author_name": "科技美学中国",
+  "room_cate": "数码科技"
+}{
+  "room_name": "最近有点惨，抽奖解毒吧。。。",
+  "author_name": "丶砍你焉用菜刀",
+  "room_cate": "三国杀"
+}{
+  "room_name": "云顶之弈·棋妙冒险中年人 今日鸡标6/7",
+  "author_name": "中年人拳师七号",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "峡谷之巅。 3487376",
+  "author_name": "辛巴imb丶丶",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "话痨绅：关于8.2的准备工作",
+  "author_name": "AC绅士向",
+  "room_cate": "魔兽世界"
+}{
+  "room_name": "打会儿枪到下午去健身",
+  "author_name": "单车老师不迟到",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "天才打野少女~！",
+  "author_name": "小九哩",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "CFML季后赛6月23日QJ-WF",
+  "author_name": "CF手游官方直播间",
+  "room_cate": "CF手游"
+}{
+  "room_name": "锤子：联赛的杀戮时刻",
+  "author_name": "CSGO解说伟伟",
+  "room_cate": "CS:GO"
+}{
+  "room_name": "快乐王者局~",
+  "author_name": "婷儿Sweet",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "山人：1v4单人四排单排屠杀秀",
+  "author_name": "吴山人丷",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "熊彦祖来啦！帅逼们晚上正常休息一波！",
+  "author_name": "欧洲小熊猫",
+  "room_cate": "自走棋"
+}{
+  "room_name": "【交友】招收优质主持。",
+  "author_name": "嗨玩一广岛之恋",
+  "room_cate": "约会现场"
+}{
+  "room_name": "斗鱼SOLO王，偶遇钻石软辅妹妹，教学~",
+  "author_name": "杀神丶晴空",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "测试服被怪A的法师",
+  "author_name": "痴汉万宝路",
+  "room_cate": "魔兽世界"
+}{
+  "room_name": "动物套+天空套++++",
+  "author_name": "丶才子欧巴",
+  "room_cate": "DNF"
+}{
+  "room_name": "震惊！这游戏居然这么好玩！",
+  "author_name": "老皮历险记",
+  "room_cate": "roguelike"
+}{
+  "room_name": "【拜瑞】这游戏太逗了根本停不下来哈哈哈",
+  "author_name": "拜瑞Berry",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "【高端王牌】何以解忧？唯有钢枪！",
+  "author_name": "潇男莫虐",
+  "room_cate": "和平精英"
+}{
+  "room_name": "渝你同行，为一亿助力！ 5090684",
+  "author_name": "梁子雀一",
+  "room_cate": "和平精英"
+}{
+  "room_name": "早上7点不见不散~",
+  "author_name": "阿涛皎月Carry",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "愿你天黑有灯下雨有伞",
+  "author_name": "鲭宝儿",
+  "room_cate": "颜值"
+}{
+  "room_name": "【神乐】积分翻倍中~粉丝节活动~",
+  "author_name": "进击的神乐",
+  "room_cate": "一起看"
+}{
+  "room_name": "渝你同行-为一亿助力-后羿王",
+  "author_name": "1秒射8次丶紫宸",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "天下武功 唯皮不破",
+  "author_name": "RWZWuji",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "卑微小页在线上分",
+  "author_name": "石页的第一根矛s",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "【贤宝】⭐宇宙第一",
+  "author_name": "贤宝0927",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "国服第一QBU没毛病吧？",
+  "author_name": "请宠小童话嘛",
+  "room_cate": "和平精英"
+}{
+  "room_name": "想要办卡救救孩子吧啊啊啊啊~",
+  "author_name": "甜发财",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "第一李白 单排 小宇",
+  "author_name": "小宇宇宇宇yu",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "【交友】私人订制约会现场",
+  "author_name": "SR一私人订制",
+  "room_cate": "约会现场"
+}{
+  "room_name": "睡不着播一会儿",
+  "author_name": "zard1991",
+  "room_cate": "DOTA2"
+}{
+  "room_name": "抽奖、抽奖、抽奖，祝你好运发财啦。",
+  "author_name": "八卦象棋大师",
+  "room_cate": "中国象棋"
+}{
+  "room_name": "两仪:真-抗揍无双-奶德",
+  "author_name": "两仪未娜丶",
+  "room_cate": "炉石传说"
+}{
+  "room_name": "梦游主播。。",
+  "author_name": "工口工口工口",
+  "room_cate": "守望先锋"
+}{
+  "room_name": "SR一独家记忆",
+  "author_name": "SR一独家记忆",
+  "room_cate": "约会现场"
+}{
+  "room_name": "微信三带二99.9胜率渝你同行 为一亿助",
+  "author_name": "渝万五百狸子3岁",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "峡谷之巅670分，龟速冲1000",
+  "author_name": "十月船长丶",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "LCS夏季赛重播",
+  "author_name": "Riot丶LCS",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "【林正英】僵尸 女鬼 弹幕 护体",
+  "author_name": "UnaDirezione",
+  "room_cate": "一起看"
+}{
+  "room_name": "自闭城城主就是我，哇哈哈哈哈❤思❤",
+  "author_name": "Jessi思思",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "渝你同行-为一亿助力。47到50星",
+  "author_name": "雪碧丶国一狄仁杰",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "34星上荣耀.",
+  "author_name": "游夜清丶",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "稻哥：出个差，酒店播",
+  "author_name": "一本稻",
+  "room_cate": "炉石传说"
+}{
+  "room_name": "郑州80it：小白搞机防坑",
+  "author_name": "80it电脑网",
+  "room_cate": "数码科技"
+}{
+  "room_name": "暴躁：最强猴王 今晚12点结束赛季",
+  "author_name": "暴躁zzz",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "【小扎】 永不换号的主播 ak选手！",
+  "author_name": "阿扎y",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "儒雅随和的直播间。美服必须前百！",
+  "author_name": "驴鸽LvGe",
+  "room_cate": "炉石传说"
+}{
+  "room_name": "年度气人主播 5279048",
+  "author_name": "安雅sylvia",
+  "room_cate": "音乐"
+}{
+  "room_name": "宇宙最强女盲僧！感冒主播进行中！",
+  "author_name": "真皮丶猫猫",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "国服第一4狂野6法吃鸡",
+  "author_name": "网友张顺飞",
+  "room_cate": "云顶之弈"
+}{
+  "room_name": "和wink双排一会",
+  "author_name": "RWhuatian",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "总有愿意等你的人",
+  "author_name": "何西儿",
+  "room_cate": "颜值"
+}{
+  "room_name": "【肖璐】菜就多练  1点办卡抽666",
+  "author_name": "肖璐s",
+  "room_cate": "DOTA"
+}{
+  "room_name": "直/渝你同行~唱故事",
+  "author_name": "念言wzz",
+  "room_cate": "音乐电台"
+}{
+  "room_name": "翔哥哥:萌新乐园丨肝帝集结地！",
+  "author_name": "高翔XiangBro",
+  "room_cate": "阴阳师"
+}{
+  "room_name": "性感芈月在线扭腰~",
+  "author_name": "青鸾少年云天河",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "6.26国际禁毒日，探访四川省毒品实验室",
+  "author_name": "斗鱼综合",
+  "room_cate": "人文军事"
+}{
+  "room_name": "文哥八卦:早7点左右开播",
+  "author_name": "文哥八卦",
+  "room_cate": "户外"
+}{
+  "room_name": "【八方旅人】神官~第3章",
+  "author_name": "Dell小明",
+  "room_cate": "八方旅人"
+}{
+  "room_name": "小仙女早起啦！不定时跳舞哦",
+  "author_name": "大慕慕吖",
+  "room_cate": "颜值"
+}{
+  "room_name": "【交友】琪哥/晚晚/彪哥独家冠名！",
+  "author_name": "驿动一甜蜜告白",
+  "room_cate": "约会现场"
+}{
+  "room_name": "第一蜘蛛：钻石野区教学3分钟一血不拿举报",
+  "author_name": "MQ丶蜘蛛馍",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "其：嘞了嘞了 继续野兽猎上传教学！",
+  "author_name": "我为文燕上传说",
+  "room_cate": "炉石传说"
+}{
+  "room_name": "我爱唱歌~",
+  "author_name": "橙味沙士",
+  "room_cate": "FM233"
+}{
+  "room_name": "卡尔上分教学！等一个卡尔身心！",
+  "author_name": "Sumiya丶墨岩彧",
+  "room_cate": "DOTA2"
+}{
+  "room_name": "“lin今天也跳祭坛吗”",
+  "author_name": "Aegis丶Lin",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "【贝爷影厅】经典 科幻 动作 灾难 巨兽",
+  "author_name": "狂仔酷炫",
+  "room_cate": "一起看"
+}{
+  "room_name": "无畏造英雄，冲百星目前85",
+  "author_name": "南斗",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "重播|世冠选拔赛 ROX vs GOG",
+  "author_name": "王者荣耀韩国官方赛事",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "国服第一遗言家~",
+  "author_name": "じò依依菟ò",
+  "room_cate": "狼人杀"
+}{
+  "room_name": "斗鱼首席车评专家，专业说车20年",
+  "author_name": "大仙二手车讲堂",
+  "room_cate": "汽车"
+}{
+  "room_name": "【周星驰】星爷 喜剧之王 经典 电影",
+  "author_name": "进击の神乐",
+  "room_cate": "一起看"
+}{
+  "room_name": "一杆冲锋狙丶尽力了",
+  "author_name": "太原庞臭臭",
+  "room_cate": "穿越火线"
+}{
+  "room_name": "你武弟回来直播啦！！！",
+  "author_name": "逆战武弟",
+  "room_cate": "逆战"
+}{
+  "room_name": "渝你同行！金牌讲师。各种阵容演示！",
+  "author_name": "夜澜",
+  "room_cate": "赤潮自走棋"
+}{
+  "room_name": "【PIGFF】最后一把质量局",
+  "author_name": "pigff",
+  "room_cate": "一起看"
+}{
+  "room_name": "【BC组】15:30 黄金赛第七季小组赛",
+  "author_name": "黄金大奖赛",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "⭐龍捲瘋のAK暴力美学",
+  "author_name": "龍捲瘋",
+  "room_cate": "和平精英"
+}{
+  "room_name": "村服吕布，越挫越勇，心态平和正在上星星中",
+  "author_name": "八神君Lpp",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "第一男刀：三级不单杀请举报主播！",
+  "author_name": "智勋勋勋勋",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "重播| 世冠选拔赛 ROX vs GOG",
+  "author_name": "王者荣耀官方赛事",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "LPL夏季赛6月25日重播",
+  "author_name": "英雄联盟赛事",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "对不起大家，我摊牌史上最废没有之一！",
+  "author_name": "暴怒团丶海蛎",
+  "room_cate": "欢乐麻将"
+}{
+  "room_name": "【林蒙】进来学技术",
+  "author_name": "林蒙m",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "先云顶之弈，1点排位",
+  "author_name": "孙悟空丨兰林汉",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "3分钟办卡抽1000一直抽",
+  "author_name": "刘皇叔是个弟弟",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "余小C：云顶之弈30%吃鸡教学！！！",
+  "author_name": "余小C真的很强",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "新版本抢先体验！攀爬系统，大更新！！！",
+  "author_name": "神秘嘉宾橙子",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "甄姬单排教你快速上荣耀。",
+  "author_name": "甄知棒",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "狐狸：更新先打一会！",
+  "author_name": "狐狸不太Sao",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "zzc：峡谷上1000",
+  "author_name": "zzc啊哦额",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "难受，想哭！！",
+  "author_name": "我是大坤坤啊",
+  "room_cate": "DNF"
+}{
+  "room_name": "嘿 是你的小可爱鸭",
+  "author_name": "姗宝lavender",
+  "room_cate": "颜值"
+}{
+  "room_name": "第一李白 在线1V5疯狂屠杀~",
+  "author_name": "李天赐ERTC",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "暴躁杠开集锦，这才叫麻将！！！",
+  "author_name": "靓旭",
+  "room_cate": "欢乐麻将"
+}{
+  "room_name": "请问这里是炉石区声音最大的直播间咩~",
+  "author_name": "恩基爱萌萌哒的狗贼",
+  "room_cate": "炉石传说"
+}{
+  "room_name": "金牌讲师:今天挑战20局第一！吃鸡",
+  "author_name": "仙凡哥哥丶",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "新版本体验！正式服维护",
+  "author_name": "80God",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "云顶棋王~9把7鸡~4连鸡达成~",
+  "author_name": "爷大干",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "暴击李白王者局测试伤害  注意这是测试",
+  "author_name": "可爱的灰太白",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "【1v4】新版本洞穴探险！",
+  "author_name": "QL羽七",
+  "room_cate": "和平精英"
+}{
+  "room_name": "無极   粉丝劫？劫！～",
+  "author_name": "傲宇彡战狂",
+  "room_cate": "逆水寒"
+}{
+  "room_name": "第一露娜80-100单排不上百星不上播",
+  "author_name": "月下无限连小啊鹏",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "【PDL】夏季发展联赛 预选赛6.25",
+  "author_name": "斗鱼绝地赛事",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "猪猪影院：精彩电影不容错过",
+  "author_name": "骚乖可爱宝贝朴",
+  "room_cate": "一起看"
+}{
+  "room_name": "来这里开心就好！ 74960",
+  "author_name": "叫我老陈就好了",
+  "room_cate": "DOTA2"
+}{
+  "room_name": "叫我官人、21.00.-23.00抽奖",
+  "author_name": "DJ叫我官人",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "云顶之奕 教学模式 一天十鸡",
+  "author_name": "狼牙山凯哥",
+  "room_cate": "云顶之弈"
+}{
+  "room_name": "亲戚来临，今天咱就吹吹牛!",
+  "author_name": "阿梨small",
+  "room_cate": "颜值"
+}{
+  "room_name": "东东：你就就是那个玩船长的？",
+  "author_name": "普朗东丷",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "陈翔六点半，每周更新为你加速！",
+  "author_name": "陈翔六点半",
+  "room_cate": "鱼教"
+}{
+  "room_name": "杭州酒吧敞篷车寻找小姐姐",
+  "author_name": "航海朱丶",
+  "room_cate": "户外"
+}{
+  "room_name": "恭喜斗鱼签约战队eStarPro夺冠！",
+  "author_name": "斗鱼KPL荣耀战场",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "【PEL】第二阶段第六周",
+  "author_name": "imba绝地求生频道",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "国服赵云大讲堂 二指禅操作",
+  "author_name": "声优赵猥琐",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "因为你 我愿意～",
+  "author_name": "靖哥哥很皮",
+  "room_cate": "颜值"
+}{
+  "room_name": "抓抓抓抓泥鳅",
+  "author_name": "微山湖捕鱼武工队",
+  "room_cate": "乡野"
+}{
+  "room_name": "【五指摄手】认证号一钢四！冲击40杀！",
+  "author_name": "林熙Lxxi",
+  "room_cate": "和平精英"
+}{
+  "room_name": "我来说说公道话 巨婴美食娱乐",
+  "author_name": "雪纳瑞三口之家",
+  "room_cate": "美食"
+}{
+  "room_name": "聊聊近期新品",
+  "author_name": "科技美学中国",
+  "room_cate": "数码科技"
+}{
+  "room_name": "最近有点惨，抽奖解毒吧。。。",
+  "author_name": "丶砍你焉用菜刀",
+  "room_cate": "三国杀"
+}{
+  "room_name": "云顶之弈·棋妙冒险中年人 今日鸡标6/7",
+  "author_name": "中年人拳师七号",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "峡谷之巅。 3487376",
+  "author_name": "辛巴imb丶丶",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "话痨绅：关于8.2的准备工作",
+  "author_name": "AC绅士向",
+  "room_cate": "魔兽世界"
+}{
+  "room_name": "打会儿枪到下午去健身",
+  "author_name": "单车老师不迟到",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "天才打野少女~！",
+  "author_name": "小九哩",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "CFML季后赛6月23日QJ-WF",
+  "author_name": "CF手游官方直播间",
+  "room_cate": "CF手游"
+}{
+  "room_name": "锤子：联赛的杀戮时刻",
+  "author_name": "CSGO解说伟伟",
+  "room_cate": "CS:GO"
+}{
+  "room_name": "快乐王者局~",
+  "author_name": "婷儿Sweet",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "山人：1v4单人四排单排屠杀秀",
+  "author_name": "吴山人丷",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "熊彦祖来啦！帅逼们晚上正常休息一波！",
+  "author_name": "欧洲小熊猫",
+  "room_cate": "自走棋"
+}{
+  "room_name": "【交友】招收优质主持。",
+  "author_name": "嗨玩一广岛之恋",
+  "room_cate": "约会现场"
+}{
+  "room_name": "斗鱼SOLO王，偶遇钻石软辅妹妹，教学~",
+  "author_name": "杀神丶晴空",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "测试服被怪A的法师",
+  "author_name": "痴汉万宝路",
+  "room_cate": "魔兽世界"
+}{
+  "room_name": "动物套+天空套++++",
+  "author_name": "丶才子欧巴",
+  "room_cate": "DNF"
+}{
+  "room_name": "震惊！这游戏居然这么好玩！",
+  "author_name": "老皮历险记",
+  "room_cate": "roguelike"
+}{
+  "room_name": "【拜瑞】这游戏太逗了根本停不下来哈哈哈",
+  "author_name": "拜瑞Berry",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "【高端王牌】何以解忧？唯有钢枪！",
+  "author_name": "潇男莫虐",
+  "room_cate": "和平精英"
+}{
+  "room_name": "渝你同行，为一亿助力！ 5090684",
+  "author_name": "梁子雀一",
+  "room_cate": "和平精英"
+}{
+  "room_name": "早上7点不见不散~",
+  "author_name": "阿涛皎月Carry",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "愿你天黑有灯下雨有伞",
+  "author_name": "鲭宝儿",
+  "room_cate": "颜值"
+}{
+  "room_name": "【神乐】积分翻倍中~粉丝节活动~",
+  "author_name": "进击的神乐",
+  "room_cate": "一起看"
+}{
+  "room_name": "渝你同行-为一亿助力-后羿王",
+  "author_name": "1秒射8次丶紫宸",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "天下武功 唯皮不破",
+  "author_name": "RWZWuji",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "卑微小页在线上分",
+  "author_name": "石页的第一根矛s",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "【贤宝】⭐宇宙第一",
+  "author_name": "贤宝0927",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "国服第一QBU没毛病吧？",
+  "author_name": "请宠小童话嘛",
+  "room_cate": "和平精英"
+}{
+  "room_name": "想要办卡救救孩子吧啊啊啊啊~",
+  "author_name": "甜发财",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "第一李白 单排 小宇",
+  "author_name": "小宇宇宇宇yu",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "【交友】私人订制约会现场",
+  "author_name": "SR一私人订制",
+  "room_cate": "约会现场"
+}{
+  "room_name": "睡不着播一会儿",
+  "author_name": "zard1991",
+  "room_cate": "DOTA2"
+}{
+  "room_name": "抽奖、抽奖、抽奖，祝你好运发财啦。",
+  "author_name": "八卦象棋大师",
+  "room_cate": "中国象棋"
+}{
+  "room_name": "两仪:真-抗揍无双-奶德",
+  "author_name": "两仪未娜丶",
+  "room_cate": "炉石传说"
+}{
+  "room_name": "梦游主播。。",
+  "author_name": "工口工口工口",
+  "room_cate": "守望先锋"
+}{
+  "room_name": "SR一独家记忆",
+  "author_name": "SR一独家记忆",
+  "room_cate": "约会现场"
+}{
+  "room_name": "微信三带二99.9胜率渝你同行 为一亿助",
+  "author_name": "渝万五百狸子3岁",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "峡谷之巅670分，龟速冲1000",
+  "author_name": "十月船长丶",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "LCS夏季赛重播",
+  "author_name": "Riot丶LCS",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "【林正英】僵尸 女鬼 弹幕 护体",
+  "author_name": "UnaDirezione",
+  "room_cate": "一起看"
+}{
+  "room_name": "自闭城城主就是我，哇哈哈哈哈❤思❤",
+  "author_name": "Jessi思思",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "渝你同行-为一亿助力。47到50星",
+  "author_name": "雪碧丶国一狄仁杰",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "34星上荣耀.",
+  "author_name": "游夜清丶",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "稻哥：出个差，酒店播",
+  "author_name": "一本稻",
+  "room_cate": "炉石传说"
+}{
+  "room_name": "郑州80it：小白搞机防坑",
+  "author_name": "80it电脑网",
+  "room_cate": "数码科技"
+}{
+  "room_name": "暴躁：最强猴王 今晚12点结束赛季",
+  "author_name": "暴躁zzz",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "【小扎】 永不换号的主播 ak选手！",
+  "author_name": "阿扎y",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "儒雅随和的直播间。美服必须前百！",
+  "author_name": "驴鸽LvGe",
+  "room_cate": "炉石传说"
+}{
+  "room_name": "年度气人主播 5279048",
+  "author_name": "安雅sylvia",
+  "room_cate": "音乐"
+}{
+  "room_name": "宇宙最强女盲僧！感冒主播进行中！",
+  "author_name": "真皮丶猫猫",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "国服第一4狂野6法吃鸡",
+  "author_name": "网友张顺飞",
+  "room_cate": "云顶之弈"
+}{
+  "room_name": "和wink双排一会",
+  "author_name": "RWhuatian",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "总有愿意等你的人",
+  "author_name": "何西儿",
+  "room_cate": "颜值"
+}{
+  "room_name": "【肖璐】菜就多练  1点办卡抽666",
+  "author_name": "肖璐s",
+  "room_cate": "DOTA"
+}{
+  "room_name": "直/渝你同行~唱故事",
+  "author_name": "念言wzz",
+  "room_cate": "音乐电台"
+}{
+  "room_name": "翔哥哥:萌新乐园丨肝帝集结地！",
+  "author_name": "高翔XiangBro",
+  "room_cate": "阴阳师"
+}{
+  "room_name": "性感芈月在线扭腰~",
+  "author_name": "青鸾少年云天河",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "6.26国际禁毒日，探访四川省毒品实验室",
+  "author_name": "斗鱼综合",
+  "room_cate": "人文军事"
+}{
+  "room_name": "文哥八卦:早7点左右开播",
+  "author_name": "文哥八卦",
+  "room_cate": "户外"
+}{
+  "room_name": "【八方旅人】神官~第3章",
+  "author_name": "Dell小明",
+  "room_cate": "八方旅人"
+}{
+  "room_name": "小仙女早起啦！不定时跳舞哦",
+  "author_name": "大慕慕吖",
+  "room_cate": "颜值"
+}{
+  "room_name": "【交友】琪哥/晚晚/彪哥独家冠名！",
+  "author_name": "驿动一甜蜜告白",
+  "room_cate": "约会现场"
+}{
+  "room_name": "第一蜘蛛：钻石野区教学3分钟一血不拿举报",
+  "author_name": "MQ丶蜘蛛馍",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "其：嘞了嘞了 继续野兽猎上传教学！",
+  "author_name": "我为文燕上传说",
+  "room_cate": "炉石传说"
+}{
+  "room_name": "我爱唱歌~",
+  "author_name": "橙味沙士",
+  "room_cate": "FM233"
+}{
+  "room_name": "卡尔上分教学！等一个卡尔身心！",
+  "author_name": "Sumiya丶墨岩彧",
+  "room_cate": "DOTA2"
+}{
+  "room_name": "“lin今天也跳祭坛吗”",
+  "author_name": "Aegis丶Lin",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "【贝爷影厅】经典 科幻 动作 灾难 巨兽",
+  "author_name": "狂仔酷炫",
+  "room_cate": "一起看"
+}{
+  "room_name": "无畏造英雄，冲百星目前85",
+  "author_name": "南斗",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "重播|世冠选拔赛 ROX vs GOG",
+  "author_name": "王者荣耀韩国官方赛事",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "国服第一遗言家~",
+  "author_name": "じò依依菟ò",
+  "room_cate": "狼人杀"
+}{
+  "room_name": "斗鱼首席车评专家，专业说车20年",
+  "author_name": "大仙二手车讲堂",
+  "room_cate": "汽车"
+}{
+  "room_name": "【周星驰】星爷 喜剧之王 经典 电影",
+  "author_name": "进击の神乐",
+  "room_cate": "一起看"
+}{
+  "room_name": "一杆冲锋狙丶尽力了",
+  "author_name": "太原庞臭臭",
+  "room_cate": "穿越火线"
+}{
+  "room_name": "你武弟回来直播啦！！！",
+  "author_name": "逆战武弟",
+  "room_cate": "逆战"
+}{
+  "room_name": "渝你同行！金牌讲师。各种阵容演示！",
+  "author_name": "夜澜",
+  "room_cate": "赤潮自走棋"
+}{
+  "room_name": "粉丝节 3801171",
+  "author_name": "高冷木北啊",
+  "room_cate": "颜值"
+}{
+  "room_name": "❤️可乐❤️ 影视节活动积分翻倍中",
+  "author_name": "少女可乐橙",
+  "room_cate": "一起看"
+}{
+  "room_name": "金牌带粉主播~~~",
+  "author_name": "追梦战神清风",
+  "room_cate": "和平精英"
+}{
+  "room_name": "76星性感貂蝉在线带粉",
+  "author_name": "污妖王丶mikoy可爱娜",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "一眼便倾心与你",
+  "author_name": "言锦o",
+  "room_cate": "颜值"
+}{
+  "room_name": "健康~刚醒~",
+  "author_name": "烈女",
+  "room_cate": "DOTA2"
+}{
+  "room_name": "浅浅❀午夜高分剧场",
+  "author_name": "浅浅花未央",
+  "room_cate": "一起看"
+}{
+  "room_name": "[交友】遇见真爱约会现场",
+  "author_name": "YJ一遇见真爱",
+  "room_cate": "约会现场"
+}{
+  "room_name": "最高吃鸡率：六矮人加奥利给组合！！！",
+  "author_name": "穷哥们upupup",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "愈❥»萌新塞尔达逛gaigai~",
+  "author_name": "缺喵粮的阿愈Ayu",
+  "room_cate": "动作冒险"
+}{
+  "room_name": "观天下精选",
+  "author_name": "观察者网",
+  "room_cate": "人文军事"
+}{
+  "room_name": "皇冠1v4 专注教学的海岛屠夫",
+  "author_name": "屿鹿你好阿",
+  "room_cate": "和平精英"
+}{
+  "room_name": "2019QQ飞车手游S联赛春季赛",
+  "author_name": "QQ飞车手游官方直播间",
+  "room_cate": "QQ飞车"
+}{
+  "room_name": "国服万场橘子 微信带上分",
+  "author_name": "苏蓝a",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "胆小勿入~小心前方有高能",
+  "author_name": "琼斯小卫",
+  "room_cate": "恐怖游戏"
+}{
+  "room_name": "渝你同行~萌新第一次玩，多指教",
+  "author_name": "小天真么么哒",
+  "room_cate": "魔兽世界"
+}{
+  "room_name": "健身频道打一下单排。",
+  "author_name": "艾流年",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "【牛叔】几分钟看完各种美国大片",
+  "author_name": "牛叔说电影",
+  "room_cate": "原创IP"
+}{
+  "room_name": "其实我比谁都努力。",
+  "author_name": "老实敦厚的涛哥涛弟",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "渝你同行-野区女战神 ｀(≥◇≤)",
+  "author_name": "安娜哩",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "我在等风也等你 3172126",
+  "author_name": "杨怡是个小仙女",
+  "room_cate": "颜值"
+}{
+  "room_name": "封影宝箱嗷",
+  "author_name": "佐助是真的像小万",
+  "room_cate": "火影忍者"
+}{
+  "room_name": "2019 CRL春季赛重播",
+  "author_name": "Supercell游戏频道",
+  "room_cate": "皇室战争"
+}{
+  "room_name": "渝你同行-带粉99胜率",
+  "author_name": "小宗阿",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "渝你同行，为一亿助力！ 4594756",
+  "author_name": "你的娜美呀",
+  "room_cate": "和平精英"
+}{
+  "room_name": "美神:马造1最后的绝唱",
+  "author_name": "超级花美男",
+  "room_cate": "动作冒险"
+}{
+  "room_name": "渝你同行-为一亿助力,带粉2拖3飞机上车",
+  "author_name": "渝万丶伊芙琳",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "简简单单整不明白",
+  "author_name": "东北郭老二",
+  "room_cate": "乡野"
+}{
+  "room_name": "上个荣耀11",
+  "author_name": "年少有梦有梦",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "【交友】招冠名，优质主持。",
+  "author_name": "广娱一极品声诱",
+  "room_cate": "约会现场"
+}{
+  "room_name": "今天也是一个没有感情的杀手~224234",
+  "author_name": "蜜茶Aimee",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "【交友】“嘤酱 蓝蓝 小豪”独家冠名！",
+  "author_name": "王者一恋爱季节",
+  "room_cate": "约会现场"
+}{
+  "room_name": "【机长】深夜恐怖航班起飞~！",
+  "author_name": "机长YG",
+  "room_cate": "恐怖游戏"
+}{
+  "room_name": "新主播兔 求个关注",
+  "author_name": "一只阿兔丶",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "洛老爷精神分裂也不是一天两天了~~",
+  "author_name": "iNs楚洛",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "爱笑的女孩运气不会太差~",
+  "author_name": "迎接太阳的庆",
+  "room_cate": "颜值"
+}{
+  "room_name": "6月23日CFPL季后赛",
+  "author_name": "穿越火线运营团队",
+  "room_cate": "穿越火线"
+}{
+  "room_name": "【交友】由小姨夫/谢幕/兴哥冠名",
+  "author_name": "爱约一极品女神",
+  "room_cate": "约会现场"
+}{
+  "room_name": "【普林斯晋】开光抽终极天梯",
+  "author_name": "Prince灬尜瑨",
+  "room_cate": "皇室战争"
+}{
+  "room_name": "早上好人参！！！！",
+  "author_name": "中华人参王",
+  "room_cate": "乡野"
+}{
+  "room_name": "国服妲己：巅峰赛",
+  "author_name": "国服老狐狸",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "❤️小U❤️丧尸 鬼片 恐怖 惊悚 电影",
+  "author_name": "UU娇哒哒呀",
+  "room_cate": "一起看"
+}{
+  "room_name": "胖萱：渝你同行，为一亿助力❤",
+  "author_name": "小公主安筱萱",
+  "room_cate": "穿越火线"
+}{
+  "room_name": "【B叔】国王早上都干点啥",
+  "author_name": "imba_bbc",
+  "room_cate": "多多自走棋"
+}{
+  "room_name": "【JeeE】水友卡排赛",
+  "author_name": "JeeeeeeeeE丶",
+  "room_cate": "APEX英雄"
+}{
+  "room_name": "重播|世冠选拔赛ROX vs GOG",
+  "author_name": "王者荣耀官方赛事2",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "小零食：期末不复习也要播~",
+  "author_name": "可爱小零食",
+  "room_cate": "炉石传说"
+}{
+  "room_name": "出发！武汉~南宁86漂移",
+  "author_name": "霸陆者DK奥巴明哥",
+  "room_cate": "户外"
+}{
+  "room_name": "【交友】回家吧，我的宝贝！",
+  "author_name": "王者一最美遇見",
+  "room_cate": "约会现场"
+}{
+  "room_name": "❤️奶虫❤️恐怖 鬼片 高能 怪兽 灾难",
+  "author_name": "吃奶滴虫",
+  "room_cate": "一起看"
+}{
+  "room_name": "专业打野，带粉包车包赢",
+  "author_name": "潇潇爱吃猪蹄",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "林无名：国服最强黑科技主播",
+  "author_name": "林无名丶",
+  "room_cate": "炉石传说"
+}{
+  "room_name": "强化12.13=？？？干起来",
+  "author_name": "小明不是旧事甚歉",
+  "room_cate": "DNF"
+}{
+  "room_name": "唱歌给你们听 点个点个关注吧",
+  "author_name": "可爱christina",
+  "room_cate": "颜值"
+}{
+  "room_name": "三国战纪，毁童年系列",
+  "author_name": "douyu素酒",
+  "room_cate": "怀旧游戏"
+}{
+  "room_name": "轻电科技——数码评测",
+  "author_name": "轻电科技",
+  "room_cate": "数码科技"
+}{
+  "room_name": "超甜音萌新小姐姐❤",
+  "author_name": "甜蜜又乖",
+  "room_cate": "和平精英"
+}{
+  "room_name": "别叫我二狗子，我是菟菟",
+  "author_name": "菟乐芙",
+  "room_cate": "二次元"
+}{
+  "room_name": "百星微信带粉，飞机稳上星",
+  "author_name": "秀梦哒哒",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "【贝贝】军旅 动作 喜剧 意大利炮",
+  "author_name": "baby丶贝贝",
+  "room_cate": "一起看"
+}{
+  "room_name": "【MVP】单人四排最刚最强刚枪王",
+  "author_name": "我叫mvp呀",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "第一VN：死一次100现金！",
+  "author_name": "暗夜猎手光头强",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "最强李白40星屠杀教学",
+  "author_name": "电竞信白丶",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "强化 12 13 新天空 增幅！",
+  "author_name": "舒慧儿",
+  "room_cate": "DNF"
+}{
+  "room_name": "粉丝节最大画面！",
+  "author_name": "薛叫兽",
+  "room_cate": "户外"
+}{
+  "room_name": "这呢  别走错了",
+  "author_name": "江阿晨",
+  "room_cate": "颜值"
+}{
+  "room_name": "任人宰割 阳3870218",
+  "author_name": "丶丶阿阳",
+  "room_cate": "音乐"
+}{
+  "room_name": "其实我超耐看的 6794543",
+  "author_name": "鱼小灰",
+  "room_cate": "颜值"
+}{
+  "room_name": "愿，长夜里有人陪你说说话",
+  "author_name": "文舞的晴天啊",
+  "room_cate": "颜值"
+}{
+  "room_name": "这时差，我是人还是鬼啊？",
+  "author_name": "斗鸡dougay",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "渝你同行-摇光",
+  "author_name": "摇摇摇摇光",
+  "room_cate": "探灵笔记"
+}{
+  "room_name": "魔兽争霸3~精彩视频~LioN大帝解说",
+  "author_name": "大帝LioN",
+  "room_cate": "魔兽争霸"
+}{
+  "room_name": "战术大师/把把吃鸡/技术选手/",
+  "author_name": "主播八戒戒",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "三倍快乐，冲鸭，冲鸭",
+  "author_name": "开心麻辣堂",
+  "room_cate": "颜值"
+}{
+  "room_name": "格斗精英赛&2014TGC中韩赛 放送",
+  "author_name": "DNF海因0206",
+  "room_cate": "DNF"
+}{
+  "room_name": "【蓝翔】三国弹幕天团[请勿刷屏]",
+  "author_name": "山东蓝翔技工学院",
+  "room_cate": "一起看"
+}{
+  "room_name": "赛季末李白秀~",
+  "author_name": "七都a",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "♥♥ ８０星王合击♥♥今日首区",
+  "author_name": "逆天丶小哥哥",
+  "room_cate": "传奇"
+}{
+  "room_name": "❤美美❤今天我要吃嘎嘎",
+  "author_name": "美美干嘛呢",
+  "room_cate": "射击游戏"
+}{
+  "room_name": "70胜率银河叶问法叫你月末快速传说！！",
+  "author_name": "吞酒兽丨",
+  "room_cate": "炉石传说"
+}{
+  "room_name": "《院長》測試看看",
+  "author_name": "阿春疯人院院长",
+  "room_cate": "户外"
+}{
+  "room_name": "双区小姐姐带粉飙车啦",
+  "author_name": "小欣子66",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "录-让我成为你的有可能",
+  "author_name": "孙紫涵s",
+  "room_cate": "音乐电台"
+}{
+  "room_name": "丝姐带你体验数码产品(终于更新了)",
+  "author_name": "嘿丝科技",
+  "room_cate": "数码科技"
+}{
+  "room_name": "听一听，打开人生大格局",
+  "author_name": "真的很博通",
+  "room_cate": "鱼教"
+}{
+  "room_name": "快乐风男：求求你们来看看",
+  "author_name": "凉风亚索yasuo",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "K&Q第三周第二天",
+  "author_name": "梦楠Mengnan丶",
+  "room_cate": "颜值"
+}{
+  "room_name": "好好学习～天天向上～吊黄鳝手艺走起",
+  "author_name": "补缝的汉子",
+  "room_cate": "乡野"
+}{
+  "room_name": "深夜说怪谈，有胆你来听",
+  "author_name": "摆渡人老鬼",
+  "room_cate": "鱼教"
+}{
+  "room_name": "排位帝：新的一天 元气满满",
+  "author_name": "一直在努力的炮哥",
+  "room_cate": "QQ飞车"
+}{
+  "room_name": "老司机在线解答买车选车用车难题",
+  "author_name": "老司机要超车",
+  "room_cate": "汽车"
+}{
+  "room_name": "白天哥哥妹妹晚上死鬼宝贝",
+  "author_name": "衣服ovo",
+  "room_cate": "射击游戏"
+}{
+  "room_name": "【交友】老公带我走/火箭惜念我冠。",
+  "author_name": "遇见一海天盛筵",
+  "room_cate": "约会现场"
+}{
+  "room_name": "马上开业。。。",
+  "author_name": "主播小黑亮亮",
+  "room_cate": "美食"
+}{
+  "room_name": "渝你同行❀舒雅大魔王~~~~~~",
+  "author_name": "舒雅大魔王",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "【Sen】好运姐上线~！",
+  "author_name": "森美美呀",
+  "room_cate": "CS:GO"
+}{
+  "room_name": "渝你同行 为一亿助力 5478573",
+  "author_name": "馒头属性貂蝉",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "教科书不教的，我这里都有",
+  "author_name": "都说我名字很LOW",
+  "room_cate": "鱼教"
+}{
+  "room_name": "以德服人，正能量走你",
+  "author_name": "华府丶csy影",
+  "room_cate": "自走棋"
+}{
+  "room_name": "狂欢趴办卡抬一手啊",
+  "author_name": "黎狗胖",
+  "room_cate": "颜值"
+}{
+  "room_name": "【打金█经典怀旧█圣域星王合击传奇】",
+  "author_name": "80星王合击散人服",
+  "room_cate": "传奇"
+}{
+  "room_name": "今晚挨打时间  21：45~22:00",
+  "author_name": "Amy王子熙",
+  "room_cate": "和平精英"
+}{
+  "room_name": "应龙天下第一水系BOSS",
+  "author_name": "Pihc丶丶",
+  "room_cate": "一起来捉妖"
+}{
+  "room_name": "【哭红】已吃3343鸡游戏时长6667",
+  "author_name": "哭红",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "性感恩惠在线打嗝",
+  "author_name": "苏恩惠小姐姐",
+  "room_cate": "二次元"
+}{
+  "room_name": "渝你同行-友情圈 CF点~~",
+  "author_name": "渝万丶灭尸",
+  "room_cate": "穿越火线"
+}{
+  "room_name": "成都第一骗卡狂魔~",
+  "author_name": "你的美鹿",
+  "room_cate": "颜值"
+}{
+  "room_name": "渝你同行-只破局就换档",
+  "author_name": "西湖讲师九菜",
+  "room_cate": "全战三国"
+}{
+  "room_name": "肾哥：狼人不是罪人 好人不是圣人！！",
+  "author_name": "偶是肾哥",
+  "room_cate": "狼人杀"
+}{
+  "room_name": "哥哥！我想…渡渡渡劫",
+  "author_name": "新玥小可爱呐",
+  "room_cate": "颜值"
+}{
+  "room_name": "白虎玄策陪玩专场 办卡上车全天飞机包车",
+  "author_name": "良辰打野贼6丶",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "极限漂流长江5000里120天丶第37天",
+  "author_name": "京渝兄弟丶谢为止",
+  "room_cate": "乡野"
+}{
+  "room_name": "我想唱十遍左手指月~",
+  "author_name": "美文咩",
+  "room_cate": "音乐"
+}{
+  "room_name": "鳄鱼塘霸主！斗鱼不添包",
+  "author_name": "AgFox玖七",
+  "room_cate": "和平精英"
+}{
+  "room_name": "9点半开播",
+  "author_name": "初哥户外",
+  "room_cate": "乡野"
+}{
+  "room_name": "麻衣：人丑脾气差 别进",
+  "author_name": "麻衣表妹",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "强化12 13 天空  增幅 深渊",
+  "author_name": "狗白hay",
+  "room_cate": "DNF"
+}{
+  "room_name": "RNG上校OB,实况狗新上单狼行zrr等",
+  "author_name": "RNG上校OB皇族RYL不放弃",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "渝你同行，为一亿助力 6217312",
+  "author_name": "幺零贰叁",
+  "room_cate": "户外"
+}{
+  "room_name": "下雨了，小地笼继续。",
+  "author_name": "狼叔行天下",
+  "room_cate": "乡野"
+}{
+  "room_name": "2019黄金联赛夏季赛-小组赛",
+  "author_name": "暴雪游戏频道",
+  "room_cate": "魔兽争霸"
+}{
+  "room_name": "健康的直播间。",
+  "author_name": "BigYa44198",
+  "room_cate": "守望先锋"
+}{
+  "room_name": "今天是小胖子",
+  "author_name": "傻喵老大",
+  "room_cate": "颜值"
+}{
+  "room_name": "❤我超腻害！！！！！！",
+  "author_name": "波波菜呀",
+  "room_cate": "动作冒险"
+}{
+  "room_name": "眯眯眼的肥宅直播间 嘻嘻",
+  "author_name": "超甜的陶子",
+  "room_cate": "颜值"
+}{
+  "room_name": "蹦嚓：东部战区",
+  "author_name": "主播蹦嚓149435",
+  "room_cate": "穿越火线"
+}{
+  "room_name": "帮上王牌很猛很猛的1v4哦，场均20s",
+  "author_name": "独一呀",
+  "room_cate": "和平精英"
+}{
+  "room_name": "【交友】爱一个人，攀一座山",
+  "author_name": "遇见一超级巨星",
+  "room_cate": "约会现场"
+}{
+  "room_name": "渝你同行～小猪加油",
+  "author_name": "小小哑猪吖",
+  "room_cate": "和平精英"
+}{
+  "room_name": "粉丝节抽奖不断冲啊！",
+  "author_name": "石乐志Q7",
+  "room_cate": "穿越火线"
+}{
+  "room_name": "消失的光芒更新我们看看更新了啥~",
+  "author_name": "清酒清酒i",
+  "room_cate": "主机游戏"
+}{
+  "room_name": "治愈系八卦",
+  "author_name": "网易乐评人",
+  "room_cate": "户外"
+}{
+  "room_name": "白：认真玩好每一把游戏",
+  "author_name": "白Zw",
+  "room_cate": "QQ飞车"
+}{
+  "room_name": "渝你同行 为一亿助力 4425665",
+  "author_name": "飞扬小弟",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "渝你同行，为一亿助力！ 4349563",
+  "author_name": "智慧刚丶",
+  "room_cate": "和平精英"
+}{
+  "room_name": "重庆刚哥攒机 配电脑 搞机王",
+  "author_name": "重庆刚哥金牌装机店",
+  "room_cate": "数码科技"
+}{
+  "room_name": "顶分局-朴弟【冲击刀塔霸业TOP1】",
+  "author_name": "云汉丶朴弟",
+  "room_cate": "自走棋"
+}{
+  "room_name": "全图找人,是你吗",
+  "author_name": "追梦战神干脆面",
+  "room_cate": "和平精英"
+}{
+  "room_name": "国际服排位赛  渝你同行 为一亿助力",
+  "author_name": "阿晚QAQ",
+  "room_cate": "堡垒之夜"
+}{
+  "room_name": "寰寰：唱歌给你听好不好~ʕ •ᴥ•ʔ",
+  "author_name": "寰hhhhh",
+  "room_cate": "音乐"
+}{
+  "room_name": "披萨OB:直播RNG组排训练/全明星局",
+  "author_name": "暴风工作室丶",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "起个啥标题？",
+  "author_name": "是你最爱的旅行青蛙呀",
+  "room_cate": "美食"
+}{
+  "room_name": "OB实况Shy飞科RNG IG EDG",
+  "author_name": "青蛙ob",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "【小宇尬舞】求狂欢卡过任务 爱你",
+  "author_name": "Rainsunn",
+  "room_cate": "一起看"
+}{
+  "room_name": "渝你同行~为一亿助力",
+  "author_name": "甜小鹿丶",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "渝你同行-为一亿助力    赵云",
+  "author_name": "叫我大遥就行",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "魔法少女雷克塞oo",
+  "author_name": "宝贝球球ouo",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "傻萌的一天",
+  "author_name": "一萌imu",
+  "room_cate": "和平精英"
+}{
+  "room_name": "第一赵信：终极莽夫1秒8枪刀疤城",
+  "author_name": "刀疤城丶你41朵小菊花",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "当代年轻主播估号丨每日账号排行丨强化天空",
+  "author_name": "九门丶胡汉九",
+  "room_cate": "DNF"
+}{
+  "room_name": "聊聊心得 写写攻略",
+  "author_name": "月下吃米糖",
+  "room_cate": "阴阳师"
+}{
+  "room_name": "看号：伤害测试，萌新教学",
+  "author_name": "主播轩辕",
+  "room_cate": "DNF"
+}{
+  "room_name": "苦笑：这周去解说赤潮百万赏金赛",
+  "author_name": "真苦笑",
+  "room_cate": "赤潮自走棋"
+}{
+  "room_name": "安静坐着唱歌~",
+  "author_name": "迷人蜜",
+  "room_cate": "音乐电台"
+}{
+  "room_name": "【香港赌片】喜剧、黑帮、动作、武侠、经典",
+  "author_name": "吃米滴虫",
+  "room_cate": "一起看"
+}{
+  "room_name": "女车神双系统极速上分",
+  "author_name": "BN丶夏璐8",
+  "room_cate": "QQ飞车"
+}{
+  "room_name": "亚索是一种信仰细节技巧对线思路教学",
+  "author_name": "小翁亚索",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "你只管努力.剩下的交给天意",
+  "author_name": "荒岛大魔王战77",
+  "room_cate": "CF手游"
+}{
+  "room_name": "全能钢枪，最强意识",
+  "author_name": "青年i丶",
+  "room_cate": "和平精英"
+}{
+  "room_name": "守护全世界最菜的饼干(ง •_•)ง~",
+  "author_name": "饼干OuO",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "怀旧服-念念不忘的声音",
+  "author_name": "沐年之夏丨",
+  "room_cate": "魔兽世界"
+}{
+  "room_name": "征服者炼金之峡谷冲王者",
+  "author_name": "辛德浪炼金",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "海老板：冲击刀塔霸业TOP1!",
+  "author_name": "海老板威武",
+  "room_cate": "自走棋"
+}{
+  "room_name": "勤劳的小蜜蜂 71590",
+  "author_name": "你的网友呆萌",
+  "room_cate": "乡野"
+}{
+  "room_name": "程咬金万战讲师湖北国服",
+  "author_name": "蛋蛋到底怎么了",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "【李子柒】：是本人啦，记得点关注噢！",
+  "author_name": "李子柒liziqi",
+  "room_cate": "美食"
+}{
+  "room_name": "余温深夜电台",
+  "author_name": "不是余温",
+  "room_cate": "音乐"
+}{
+  "room_name": "双传奇曹操统一",
+  "author_name": "解说谷子",
+  "room_cate": "全战三国"
+}{
+  "room_name": "下河道挖黄鳝",
+  "author_name": "大叔户外抓野",
+  "room_cate": "乡野"
+}{
+  "room_name": "新寂静村2333分 暴躁炼狱+恐怖裁决=",
+  "author_name": "大猫是谁哇哇",
+  "room_cate": "穿越火线"
+}{
+  "room_name": "珍惜留下来的每一位",
+  "author_name": "喵小莎",
+  "room_cate": "颜值"
+}{
+  "room_name": "离木：飞机包车 火箭荣耀",
+  "author_name": "离木呀",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "单人四排场均20杀 727215",
+  "author_name": "七岚丶",
+  "room_cate": "和平精英"
+}{
+  "room_name": "上官婉儿司马懿貂蝉嫦娥诸葛亮",
+  "author_name": "中路杀神6695705",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "大师：FIFA19振兴水晶宫",
+  "author_name": "心理战大师",
+  "room_cate": "足球游戏"
+}{
+  "room_name": "战神单排1v99！",
+  "author_name": "自然灿",
+  "room_cate": "和平精英"
+}{
+  "room_name": "【嘉年华礼物双倍积分】两个飞机给房管哦",
+  "author_name": "春卷大师",
+  "room_cate": "一起看"
+}{
+  "room_name": "【小片片说大片】片荒的日子找片片",
+  "author_name": "小片片说大片",
+  "room_cate": "原创IP"
+}{
+  "room_name": "没有翻不了的盘 只有不配赢的队友",
+  "author_name": "污妖王丶斯巴达",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "渝你同行  为一亿助力 105415",
+  "author_name": "刘小备105415",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "一直挨打一直爽 6814676",
+  "author_name": "姚汐雅i",
+  "room_cate": "颜值"
+}{
+  "room_name": "【交友】[梦醒、荷包蛋]冠名",
+  "author_name": "等候一久点伴吖",
+  "room_cate": "约会现场"
+}{
+  "room_name": "⭐萌新导师 有问必答",
+  "author_name": "阿超cccccccccc",
+  "room_cate": "多多自走棋"
+}{
+  "room_name": "蠢萌主播 在线傻笑",
+  "author_name": "小汉娜Hannah",
+  "room_cate": "颜值"
+}{
+  "room_name": "【眼镜兄】教学指南",
+  "author_name": "Bro眼镜",
+  "room_cate": "云梦四时歌"
+}{
+  "room_name": "【动漫】热血 木叶忍者 草帽路飞 青春",
+  "author_name": "所有人都在装",
+  "room_cate": "一起看"
+}{
+  "room_name": "58公益 比上班还赚钱",
+  "author_name": "无与伦比的菜刀",
+  "room_cate": "传奇"
+}{
+  "room_name": "浅浅❀小诺澜陪你看",
+  "author_name": "浅浅是只兔OvO",
+  "room_cate": "一起看"
+}{
+  "room_name": "渝你同行-为一亿助力！我也要出份力",
+  "author_name": "Ares暖阳",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "❤️kitty❤️集性感与可爱于一身",
+  "author_name": "FierceKitty",
+  "room_cate": "一起看"
+}{
+  "room_name": "【s1134】经典 科幻 动作 灾难",
+  "author_name": "s1134",
+  "room_cate": "一起看"
+}{
+  "room_name": "渝你同行-为一亿助力 5237836",
+  "author_name": "小挽吖",
+  "room_cate": "和平精英"
+}{
+  "room_name": "听说男孩子喜欢黄头发妹妹？",
+  "author_name": "万歆儿",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "阿俊:PS4泰坦~",
+  "author_name": "阿俊丶ll",
+  "room_cate": "角色扮演"
+}{
+  "room_name": "小白白：爷复活甲CD转好啦",
+  "author_name": "萌白白QAQ",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "❤️动漫❤️鸣人 路飞 悟空 热血 经典",
+  "author_name": "镜花水月神丶",
+  "room_cate": "二次元"
+}{
+  "room_name": "你是吃可爱长大的吗",
+  "author_name": "ANJONI小玖",
+  "room_cate": "颜值"
+}{
+  "room_name": "【交友】冠:城喵离开傻瓜恰少神仙空气",
+  "author_name": "嗨玩一你的鱼塘",
+  "room_cate": "约会现场"
+}{
+  "room_name": "国服第一李白-月中仙  技术主播没有GG",
+  "author_name": "李白导师月中仙",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "《梵天神器-打金单职业》",
+  "author_name": "721017522",
+  "room_cate": "传奇"
+}{
+  "room_name": "风云：粉丝节第一线解说ob",
+  "author_name": "炫石丶风云八卦",
+  "room_cate": "户外"
+}{
+  "room_name": "【刀刀】科幻 动作 喜剧 电影",
+  "author_name": "伊太刀刀",
+  "room_cate": "一起看"
+}{
+  "room_name": "渝你同行- 劳模主播",
+  "author_name": "EA丶柯南",
+  "room_cate": "狼人杀"
+}{
+  "room_name": "百星打野萌妹✿露脸在鱼吧♥",
+  "author_name": "甜逗逗丶软萌小可爱",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "摸我一下！我还能打！！！",
+  "author_name": "可爱爆炸的小螃蟹",
+  "room_cate": "和平精英"
+}{
+  "room_name": "渝你同行-亿万助力~三枪韩信性感带粉",
+  "author_name": "半阳a",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "思君君不在，黯然无所依",
+  "author_name": "刘喵喵喵丶",
+  "room_cate": "颜值"
+}{
+  "room_name": "国服李白办卡上车飞机上王者",
+  "author_name": "无情小米哦",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "渝你同行❤长夜无梦~",
+  "author_name": "叫我洁少",
+  "room_cate": "音乐电台"
+}{
+  "room_name": "感谢关注感谢观看愉快聊天开心游戏欢迎加入",
+  "author_name": "齐锅咙咚呛",
+  "room_cate": "和平精英"
+}{
+  "room_name": "送飞机双排峡谷之巅1374分打野",
+  "author_name": "E锅打野",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "云顶之弈   懒猫猫",
+  "author_name": "懒猫猫QAQ",
+  "room_cate": "云顶之弈"
+}{
+  "room_name": "1v1在线互锤~~~！` 6592597",
+  "author_name": "女辅杨大菲",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "西安徒步贵州 目前四川达州市的某个镇",
+  "author_name": "户外安安lovely",
+  "room_cate": "户外"
+}{
+  "room_name": "你的一眼万年",
+  "author_name": "陌函613",
+  "room_cate": "颜值"
+}{
+  "room_name": "臭弟弟进来挨揍嗷",
+  "author_name": "精分的W小姐",
+  "room_cate": "颜值"
+}{
+  "room_name": "176热血回忆 纯净复古",
+  "author_name": "比齐山庄",
+  "room_cate": "传奇"
+}{
+  "room_name": "⭐️带粉王!来吃碗面吧！",
+  "author_name": "达不溜蛋wdan",
+  "room_cate": "和平精英"
+}{
+  "room_name": "玉米选美大赛",
+  "author_name": "垄上频道965333",
+  "room_cate": "正能量"
+}{
+  "room_name": "❤️兮里❤️高分 科幻 动作 喜剧 惊悚",
+  "author_name": "酷炫小剧场",
+  "room_cate": "一起看"
+}{
+  "room_name": "滴滴滴滴滴。 195358",
+  "author_name": "虾干",
+  "room_cate": "风暴英雄"
+}{
+  "room_name": "今日份嘴瓢主播",
+  "author_name": "简佑",
+  "room_cate": "音乐"
+}{
+  "room_name": "风吹着我向你跑来~",
+  "author_name": "心不在焉的33",
+  "room_cate": "颜值"
+}{
+  "room_name": "1V4 1v4！！",
+  "author_name": "兔神w",
+  "room_cate": "和平精英"
+}{
+  "room_name": "国服第一重坦导师 新手导师",
+  "author_name": "火色的王老湿",
+  "room_cate": "军事游戏"
+}{
+  "room_name": "省级中路、打野位 荣耀梦要出来了",
+  "author_name": "风悦丶沐枫",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "板块第一中单别问。",
+  "author_name": "MrBB大波",
+  "room_cate": "无限法则"
+}{
+  "room_name": "带你领略，珠宝翡翠玉石文化",
+  "author_name": "中憬珠宝569349",
+  "room_cate": "正能量"
+}{
+  "room_name": "赵本山那些事",
+  "author_name": "谢飞鸡",
+  "room_cate": "一起看"
+}{
+  "room_name": "新人主播求关注！哈哈787262",
+  "author_name": "大拇指户外",
+  "room_cate": "乡野"
+}{
+  "room_name": "飞机上车光速上王者",
+  "author_name": "阿凌AAAAA",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "深渊团本不排队小哥哥们来一起玩呀",
+  "author_name": "一只大璐璐丶",
+  "room_cate": "DNF"
+}{
+  "room_name": "萌音气人主播✡八个女人的一天",
+  "author_name": "梦里都笑醒",
+  "room_cate": "八方旅人"
+}{
+  "room_name": "皮？跟谁俩呢？",
+  "author_name": "痞子丶恋空",
+  "room_cate": "灵魂筹码"
+}{
+  "room_name": "山东大区性感心安在线瞬狙",
+  "author_name": "一只心安啦",
+  "room_cate": "穿越火线"
+}{
+  "room_name": "梵天神器 百人拿沙  输赢都有红包",
+  "author_name": "激情不带药",
+  "room_cate": "传奇"
+}{
+  "room_name": "月下美人阿月",
+  "author_name": "大美人阿月",
+  "room_cate": "颜值"
+}{
+  "room_name": "坚持就是胜利✌~",
+  "author_name": "Sugar甜心儿",
+  "room_cate": "美食"
+}{
+  "room_name": "【交友】距离你50m",
+  "author_name": "君悦一浮生若梦",
+  "room_cate": "约会现场"
+}{
+  "room_name": "榜一从来不是目标",
+  "author_name": "歌神SSS",
+  "room_cate": "多多自走棋"
+}{
+  "room_name": "猫和老鼠手游，第一杰瑞！",
+  "author_name": "大e5366",
+  "room_cate": "猫和老鼠"
+}{
+  "room_name": "今天又是元气满满准备挨揍的一天呢",
+  "author_name": "小光YA",
+  "room_cate": "守望先锋"
+}{
+  "room_name": "公益单职业-《三国霸业》",
+  "author_name": "三国霸业直播间",
+  "room_cate": "传奇"
+}{
+  "room_name": "捞尽楠溪江第三天",
+  "author_name": "楠溪户外",
+  "room_cate": "乡野"
+}{
+  "room_name": "徒步沿海～广东阳西～第332天",
+  "author_name": "徒步老冯",
+  "room_cate": "户外"
+}{
+  "room_name": "176特色小极品 追梦传奇",
+  "author_name": "少女斯",
+  "room_cate": "传奇"
+}{
+  "room_name": "今天更像娃娃了",
+  "author_name": "涂山狸狸baby",
+  "room_cate": "颜值"
+}{
+  "room_name": "粉丝节和天空送1000盒子增幅强化13",
+  "author_name": "白马哥丶",
+  "room_cate": "DNF"
+}{
+  "room_name": "【交友】声优歌手/女模/恋爱/游戏等你来",
+  "author_name": "星娱一梵音之声",
+  "room_cate": "约会现场"
+}{
+  "room_name": "搬个小板凳一起看",
+  "author_name": "Em丶丶",
+  "room_cate": "户外"
+}{
+  "room_name": "原创故事,冲冲冲冲冲冲!",
+  "author_name": "暴走非知名主播",
+  "room_cate": "鱼教"
+}{
+  "room_name": "新天空赚的算号主的亏的我贴送5000点卷",
+  "author_name": "家里有矿的猫老板",
+  "room_cate": "DNF"
+}{
+  "room_name": "玩服首选【風雲单职业】打金万人服。",
+  "author_name": "戰無不勝O",
+  "room_cate": "传奇"
+}{
+  "room_name": "我在等那个超级想见我的人",
+  "author_name": "冥王星小瑞塔",
+  "room_cate": "颜值"
+}{
+  "room_name": "让我来指引你的道路。",
+  "author_name": "我是小怡呀",
+  "room_cate": "颜值"
+}{
+  "room_name": "我在峡谷等你哦",
+  "author_name": "最甜的番茄呀",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "内斯塔~OL4排位~开卡合卡~",
+  "author_name": "SH内斯塔",
+  "room_cate": "FIFA ONLINE4"
+}{
+  "room_name": "排位赛走一走 5605326",
+  "author_name": "DY丶棒棒",
+  "room_cate": "QQ飞车端游"
+}{
+  "room_name": "加油！成都南门坎王",
+  "author_name": "cd5lf",
+  "room_cate": "CS:GO"
+}{
+  "room_name": "渝你同行！火箭下赛季王者",
+  "author_name": "安阳Kovr",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "录/渝你同行-甜飘飘",
+  "author_name": "我的耳朵去哪啦",
+  "room_cate": "音乐电台"
+}{
+  "room_name": "祖安第一莫甘娜峡谷等你们",
+  "author_name": "肥惠阿",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "58公益  打金天堂",
+  "author_name": "太子丹宝宝",
+  "room_cate": "传奇"
+}{
+  "room_name": "你在干嘛 呼吸♥",
+  "author_name": "PE丶姜不甜",
+  "room_cate": "逆战"
+}{
+  "room_name": "全职业PK（空闲）光环",
+  "author_name": "全职pk惜别",
+  "room_cate": "DNF"
+}{
+  "room_name": "渝你同行 为一亿助力！ 6395735",
+  "author_name": "阿潴丶丶",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "新版本探险我来了 性感10指操作大魔王",
+  "author_name": "主播森林哥哥",
+  "room_cate": "和平精英"
+}{
+  "room_name": "渝你同行，为一亿助力！ 4305429。",
+  "author_name": "Real丶雷老虎",
+  "room_cate": "和平精英"
+}{
+  "room_name": "【米娅陪看】喜剧 动作 科幻 小可爱",
+  "author_name": "开森的Mia",
+  "room_cate": "一起看"
+}{
+  "room_name": "科伦：王朝军训,飞机上号~",
+  "author_name": "加油科伦",
+  "room_cate": "NBA2KOL2"
+}{
+  "room_name": "你的斗鱼小弟已上线",
+  "author_name": "Zz屁屁机灵鬼儿",
+  "room_cate": "颜值"
+}{
+  "room_name": "渝你同行112星飞机荣耀",
+  "author_name": "与世无争孤浅",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "你的盖伦我的心 我的盖伦200斤",
+  "author_name": "店长盖伦",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "冲鸭双号前十",
+  "author_name": "大怪兽风之帝",
+  "room_cate": "多多自走棋"
+}{
+  "room_name": "戏精萝莉在线等...有车位哟",
+  "author_name": "无敌少女柒蕾蕾",
+  "room_cate": "和平精英"
+}{
+  "room_name": "碰瓷/强怼/点灯/排位",
+  "author_name": "悲伤解说丶崔金",
+  "room_cate": "QQ飞车端游"
+}{
+  "room_name": "铁弟：之前经典录像！",
+  "author_name": "澄海TMac",
+  "room_cate": "魔兽争霸"
+}{
+  "room_name": "渝你同行_大甲鱼上货随时抽奖",
+  "author_name": "阳光户外打野",
+  "room_cate": "美食"
+}{
+  "room_name": "微凉曦眸意浅挚伴离兮",
+  "author_name": "小懒妹萌萌",
+  "room_cate": "颜值"
+}{
+  "room_name": "三个小姐姐陪你不够吗？",
+  "author_name": "野生的三个爸爸",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "祖安 黄金单排.办卡可上车",
+  "author_name": "小骚豆丶",
+  "room_cate": "一起看"
+}{
+  "room_name": "活的开心点",
+  "author_name": "亂开心Duc",
+  "room_cate": "DOTA2"
+}{
+  "room_name": "死鬼别在错过你的淼",
+  "author_name": "PE李淼淼",
+  "room_cate": "逆战"
+}{
+  "room_name": "国服第一扁鹊-帮打号陪上王者-荣耀王者",
+  "author_name": "毒秀很毒很秀",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "万场国服露娜 办卡带粉永久上车",
+  "author_name": "右手的梦",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "补刀单件天空盒子深渊打团每日鸟贝",
+  "author_name": "河南人灬小胖",
+  "room_cate": "DNF"
+}{
+  "room_name": "偷人背身被人反杀的那个不是我",
+  "author_name": "CEGM丶Bbi",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "艾欧尼亚:是你的暴躁小可爱~",
+  "author_name": "娜娜UpUp",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "飞机天鲲核心，首胜，成就了",
+  "author_name": "烧饼哥呀",
+  "room_cate": "逆战"
+}{
+  "room_name": "渣萌大表哥丨\t的直播间",
+  "author_name": "渣萌大表哥丨",
+  "room_cate": "DOTA"
+}{
+  "room_name": "周年庆巨型商机，我和学员们已经准备好了",
+  "author_name": "李兄商业",
+  "room_cate": "DNF"
+}{
+  "room_name": "渝你同行，每天都是新的开始！",
+  "author_name": "沐槿熙er",
+  "room_cate": "音乐"
+}{
+  "room_name": "我在南京你在哪儿呢～",
+  "author_name": "Suki大姐姐",
+  "room_cate": "颜值"
+}{
+  "room_name": "███１８０合击███新区刚开███",
+  "author_name": "热血传奇小哥哥",
+  "room_cate": "热门网游"
+}{
+  "room_name": "技术萌妹宠粉，奶音",
+  "author_name": "丿玖诱依依",
+  "room_cate": "和平精英"
+}{
+  "room_name": "国服芈月在线屠杀",
+  "author_name": "小菠萝怪啊",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "✨ʚ心动可可ɞ✨我是甜的❤也是你的ouo",
+  "author_name": "可可酱m",
+  "room_cate": "一起看"
+}{
+  "room_name": "斗鱼最真实的八卦，了解一下？",
+  "author_name": "八卦主播旭弟弟",
+  "room_cate": "户外"
+}{
+  "room_name": "有个游戏想找你打一下",
+  "author_name": "江小鱼Baby",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "北美后土：渝你同行  和平王正是在下。",
+  "author_name": "后土啊",
+  "room_cate": "APEX英雄"
+}{
+  "room_name": "北京大蜜欢迎你",
+  "author_name": "激灵的大宝",
+  "room_cate": "堡垒之夜"
+}{
+  "room_name": "渝你同行，三指适应中",
+  "author_name": "可以喜欢李时珍吗",
+  "room_cate": "和平精英"
+}{
+  "room_name": "四旬老汉寻找走失水友",
+  "author_name": "宣老汉",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "爱我少一点 务必久一点",
+  "author_name": "崔萌西",
+  "room_cate": "颜值"
+}{
+  "room_name": "948路小飞直击【湖北省道路运输安全应】",
+  "author_name": "948交通广播",
+  "room_cate": "正能量"
+}{
+  "room_name": "豆腐渣工程倒数第二天",
+  "author_name": "小漓江阿秋",
+  "room_cate": "乡野"
+}{
+  "room_name": "【99%胜率性感龙龟】在线飙车！",
+  "author_name": "唐人龙龟",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "木得追求的小白白",
+  "author_name": "梦里没有小白白喵",
+  "room_cate": "自走棋"
+}{
+  "room_name": "今天也要元气满满鸭 5028955",
+  "author_name": "迷斯莹",
+  "room_cate": "颜值"
+}{
+  "room_name": "美食直播啦",
+  "author_name": "饕餮张大光",
+  "room_cate": "美食"
+}{
+  "room_name": "最火爆1.80火龙【新王者】",
+  "author_name": "传奇一生一世一双人",
+  "room_cate": "传奇"
+}{
+  "room_name": "小艺：最凶女主播 在线拍桌！",
+  "author_name": "小艺mia",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "渝你同行---八月桃",
+  "author_name": "八月0桃",
+  "room_cate": "APEX英雄"
+}{
+  "room_name": "【华夏冰雪】上线免费送顶赞送狂暴",
+  "author_name": "Autim孤独",
+  "room_cate": "传奇"
+}{
+  "room_name": "【小贤】青春 爱情 爆笑 公寓",
+  "author_name": "曾小贤兒",
+  "room_cate": "一起看"
+}{
+  "room_name": "双区带粉主播哦",
+  "author_name": "声优奺",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "我是一个杀手 1393317",
+  "author_name": "陈嘉豪丶",
+  "room_cate": "DOTA2"
+}{
+  "room_name": "微信区赛季末王者冲刺 办卡上车",
+  "author_name": "追梦的哇牛",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "第一死歌：2分钟没一血请举报！！",
+  "author_name": "俞俊0829",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "世界太危险 只有音乐最安全",
+  "author_name": "吃饱了面面阿",
+  "room_cate": "音乐"
+}{
+  "room_name": "铁男克星奥拉夫 王者教你玩奥拉夫",
+  "author_name": "斧头帮疾风奥拉夫",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "我想要交更多的朋友",
+  "author_name": "niouX",
+  "room_cate": "魔兽争霸"
+}{
+  "room_name": "专属TheshyRookie宁,实况OB",
+  "author_name": "小埃及热狗OB",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "万古定位搞两把",
+  "author_name": "亚瑟归来丶",
+  "room_cate": "DOTA2"
+}{
+  "room_name": "皮皮是个小太阳照在哪里哪里亮！",
+  "author_name": "最美皮皮陌",
+  "room_cate": "颜值"
+}{
+  "room_name": "影之传说-公益-单职业全新篇章",
+  "author_name": "Arch久遇",
+  "room_cate": "传奇"
+}{
+  "room_name": "感谢家人的陪伴～～～",
+  "author_name": "梦鱼M",
+  "room_cate": "颜值"
+}{
+  "room_name": "最强德莱文：没有MVP叫爸爸",
+  "author_name": "毛三刀丶",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "渝你同行-最强画质，邀您加入粉丝团！",
+  "author_name": "猫仔丶King",
+  "room_cate": "和平精英"
+}{
+  "room_name": "最强阿狸：白给30法强？眼比人快5倍CD",
+  "author_name": "lol狸神c",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "晚晚：单排女武神",
+  "author_name": "晚晚呦",
+  "room_cate": "守望先锋"
+}{
+  "room_name": "2元顶赞攻速冰雪沙奖现金",
+  "author_name": "长久授权散人服",
+  "room_cate": "传奇"
+}{
+  "room_name": "震惊！斗竟会有如此...........",
+  "author_name": "小白努力变白",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "大Q神魔兽非主流大师",
+  "author_name": "fqqxiaoz",
+  "room_cate": "魔兽争霸"
+}{
+  "room_name": "【雄霸】单职业四统战打金首选",
+  "author_name": "金典传奇",
+  "room_cate": "传奇"
+}{
+  "room_name": "二蛋：嗓子哑了，顶不住啊~",
+  "author_name": "二蛋的天222",
+  "room_cate": "街头篮球"
+}{
+  "room_name": "粉丝节大哥避难所",
+  "author_name": "周法法法法法",
+  "room_cate": "颜值"
+}{
+  "room_name": "【洛洛专业引导解压放松休息睡前故事】",
+  "author_name": "主播洛洛Loro",
+  "room_cate": "二次元"
+}{
+  "room_name": "峡谷巨人JUG",
+  "author_name": "苏轼丶Sush4",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "180特色复古追梦传奇",
+  "author_name": "卉唲",
+  "room_cate": "传奇"
+}{
+  "room_name": "618返场活动",
+  "author_name": "黑冰科技",
+  "room_cate": "数码科技"
+}{
+  "room_name": "微信区三缺一，来啊",
+  "author_name": "少壹汤",
+  "room_cate": "和平精英"
+}{
+  "room_name": "❤生活不简单，尽量简单过~",
+  "author_name": "赵贝贝i",
+  "room_cate": "颜值"
+}{
+  "room_name": "祝我兄弟天意生日快乐！",
+  "author_name": "我家团长",
+  "room_cate": "CF手游"
+}{
+  "room_name": "微信区带粉 全天有车位",
+  "author_name": "云溪丷",
+  "room_cate": "和平精英"
+}{
+  "room_name": "徒手抓甲鱼，威武",
+  "author_name": "户外九头鸟",
+  "room_cate": "乡野"
+}{
+  "room_name": "【污夕阳】科幻 灾难 喜剧 动作 电影",
+  "author_name": "鲜夕阳",
+  "room_cate": "一起看"
+}{
+  "room_name": "【卡布】孙尚香新版本黑切流出装预热！",
+  "author_name": "机智的卡布君",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "智商在呆瓜的边缘徘徊",
+  "author_name": "梨梨的丸子",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "国服打野花木兰在线被人反野",
+  "author_name": "柱老师",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "月底需要大佬支持一下",
+  "author_name": "DB6银尘",
+  "room_cate": "CF手游"
+}{
+  "room_name": "傲娇的超级赛亚人的直播间",
+  "author_name": "傲娇的超级赛亚人",
+  "room_cate": "二次元"
+}{
+  "room_name": "不演怎么都行，谢谢！！！",
+  "author_name": "布唯爱艾",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "两天不见哟",
+  "author_name": "添财慧",
+  "room_cate": "户外"
+}{
+  "room_name": "你那磨人的小妖精",
+  "author_name": "小安韵baby",
+  "room_cate": "颜值"
+}{
+  "room_name": "渝你同行，为一亿助力!带粉五排",
+  "author_name": "於小锋",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "愿天堂没有抑郁症",
+  "author_name": "依然甘小寧",
+  "room_cate": "三国杀"
+}{
+  "room_name": "畅雁【嘉怡】今天也是元气满满的一天呢",
+  "author_name": "吕嘉怡Jenny",
+  "room_cate": "魔兽世界"
+}{
+  "room_name": "葫芦：想靠技术吃主播这碗饭。",
+  "author_name": "从不吹比的葫芦呼噜",
+  "room_cate": "自走棋"
+}{
+  "room_name": "斗鱼一个最勤快的舞蹈主播",
+  "author_name": "清新热舞小允昕",
+  "room_cate": "颜值"
+}{
+  "room_name": "今天也要元气满满鸭 5028955",
+  "author_name": "迷斯莹",
+  "room_cate": "颜值"
+}{
+  "room_name": "奇哥:强化12.13新天空就是干",
+  "author_name": "渝万奇哥是好男人",
+  "room_cate": "DNF"
+}{
+  "room_name": "【柒】今天拉肚子不舒服，学吧！",
+  "author_name": "SSVT丶小柒",
+  "room_cate": "CS:GO"
+}{
+  "room_name": "沈欲疯：国服顶级路霸！",
+  "author_name": "沈欲疯",
+  "room_cate": "守望先锋"
+}{
+  "room_name": "20冰雪第二首站-顶赞免费-",
+  "author_name": "俺村俺最俊哦",
+  "room_cate": "传奇"
+}{
+  "room_name": "【雪儿】陪你重温经典电影",
+  "author_name": "丿雪千歳",
+  "room_cate": "一起看"
+}{
+  "room_name": "❤️砂糖❤️陪你看电影",
+  "author_name": "甜甜甜砂糖",
+  "room_cate": "一起看"
+}{
+  "room_name": "CFPL火线演播室第二期",
+  "author_name": "穿越火线赛事",
+  "room_cate": "穿越火线"
+}{
+  "room_name": "我在等那个超级想见我的人",
+  "author_name": "冥王星小瑞塔",
+  "room_cate": "颜值"
+}{
+  "room_name": "测试区攻沙5000RMB现金微信红包等你",
+  "author_name": "血色大极品",
+  "room_cate": "传奇"
+}{
+  "room_name": "当幸福来敲门！",
+  "author_name": "TAT大白",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "【小肉包陪看】最早港剧点播",
+  "author_name": "地瓜小弟",
+  "room_cate": "一起看"
+}{
+  "room_name": "恭喜NIP获得SLi基辅Minor冠军",
+  "author_name": "imbadota2频道",
+  "room_cate": "DOTA2"
+}{
+  "room_name": "练习三指第二天",
+  "author_name": "G港主",
+  "room_cate": "和平精英"
+}{
+  "room_name": "【懒斯基】羞仙模拟器",
+  "author_name": "懒惰夫斯基",
+  "room_cate": "了不起的修仙模拟器"
+}{
+  "room_name": "主播距您2km。",
+  "author_name": "公司只卖游艇",
+  "room_cate": "魔兽争霸"
+}{
+  "room_name": "【CC随心旅行】出发黄山",
+  "author_name": "我不是大众CC",
+  "room_cate": "美食"
+}{
+  "room_name": "【表妹】国产青春 动作 喜剧轮播",
+  "author_name": "安全套不套",
+  "room_cate": "一起看"
+}{
+  "room_name": "老实憨厚不幽默不会吹牛的小主播",
+  "author_name": "白鲨Even",
+  "room_cate": "穿越火线"
+}{
+  "room_name": "人在斗鱼,笑一笑休息室24小时营业小屋",
+  "author_name": "关注破100W的男人",
+  "room_cate": "二次元"
+}{
+  "room_name": "复仇者联盟单职业散人打金",
+  "author_name": "烟沙丶强哥",
+  "room_cate": "传奇"
+}{
+  "room_name": "【阿雪讲堂】国服第一猴子，激情荣耀！",
+  "author_name": "王者荣耀亦小钢丶",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "这个夏天想陪你环游世界！",
+  "author_name": "阮绵绵童鞋",
+  "room_cate": "颜值"
+}{
+  "room_name": "我们是快乐的伐木者！",
+  "author_name": "WineRedHair",
+  "room_cate": "魔兽争霸"
+}{
+  "room_name": "安阳盈科:有车！车队要发车了，快上车！",
+  "author_name": "安阳盈科",
+  "room_cate": "数码科技"
+}{
+  "room_name": "五万把中单剑圣请品鉴",
+  "author_name": "玩剑圣的毛毛虫",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "最新三国系列卡牌手游-画风精致.",
+  "author_name": "告白游戏",
+  "room_cate": "综合手游"
+}{
+  "room_name": "今天不做咸鱼 小号上个堡垒先",
+  "author_name": "安妮甜掉牙",
+  "room_cate": "自走棋"
+}{
+  "room_name": "27号水友赛在线报名",
+  "author_name": "小小二橙",
+  "room_cate": "和平精英"
+}{
+  "room_name": "一个需要爱护的傻子主播",
+  "author_name": "兔萝萝",
+  "room_cate": "和平精英"
+}{
+  "room_name": "收甲鱼，收河虾",
+  "author_name": "八零后户外",
+  "room_cate": "乡野"
+}{
+  "room_name": "【斯凉】移花，天香清币上段排名",
+  "author_name": "墨临丶斯凉",
+  "room_cate": "天涯明月刀"
+}{
+  "room_name": "超凶女司机，正在开车~",
+  "author_name": "小萌梨儿",
+  "room_cate": "和平精英"
+}{
+  "room_name": "【姽婳】仅男朋友可见直播间~",
+  "author_name": "一条小姽婳",
+  "room_cate": "一起看"
+}{
+  "room_name": "剑魂PK直播 2321006",
+  "author_name": "剑魂阿冬",
+  "room_cate": "DNF"
+}{
+  "room_name": "【小奈忆】性感渣女在线陪看中",
+  "author_name": "小奈忆",
+  "room_cate": "一起看"
+}{
+  "room_name": "你那磨人的小妖精",
+  "author_name": "小安韵baby",
+  "room_cate": "颜值"
+}{
+  "room_name": "惊了！看过这个游戏的人都。。。",
+  "author_name": "ZH小毛蛋",
+  "room_cate": "动作冒险"
+}{
+  "room_name": "天气好热吃大冰棒了吗",
+  "author_name": "琉璃喵呀",
+  "room_cate": "DOTA2"
+}{
+  "room_name": "直♥用尽一切奔向你呀~5772245",
+  "author_name": "Moi墨小二丶",
+  "room_cate": "音乐电台"
+}{
+  "room_name": "渝你同行肥宅奇",
+  "author_name": "色会猪佩奇",
+  "room_cate": "航海王：燃烧意志"
+}{
+  "room_name": "【娜娜】❤喂 你好  有人上车吗   ❤",
+  "author_name": "娜娜吖QAQ",
+  "room_cate": "堡垒之夜"
+}{
+  "room_name": "【德哥 贝爷】24小时直播",
+  "author_name": "酷炫你你你",
+  "room_cate": "科普"
+}{
+  "room_name": "这一路，陪我走一段吧。",
+  "author_name": "小滚刀刀刀",
+  "room_cate": "颜值"
+}{
+  "room_name": "LPL夏季赛英文解说重播",
+  "author_name": "赛事专用直播间",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "渝你同行-今天想露露了嘛",
+  "author_name": "今天想露露了嘛",
+  "room_cate": "和平精英"
+}{
+  "room_name": "哇太难了！ 有么有看驱魔的？",
+  "author_name": "狗王天尊",
+  "room_cate": "DNF"
+}{
+  "room_name": "最强派克科比教学！",
+  "author_name": "广广l",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "养老直播间欢迎您",
+  "author_name": "胡小胡singer",
+  "room_cate": "音乐"
+}{
+  "room_name": "渝你同行，为一亿助力！ 6115986",
+  "author_name": "陈笑ii",
+  "room_cate": "穿越火线"
+}{
+  "room_name": "免费上车，寻找幽默风趣的灵魂0.0",
+  "author_name": "喝白酒的淑女顾小绵m",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "早起的老鼠有奶酪吃",
+  "author_name": "A神丶Ares",
+  "room_cate": "猫和老鼠"
+}{
+  "room_name": "侠客  指法情圣 结局~~",
+  "author_name": "shalou88沙漏哥",
+  "room_cate": "怀旧游戏"
+}{
+  "room_name": "渝你同行，进击要塞~~~",
+  "author_name": "盖世猪猪丶",
+  "room_cate": "独立小众"
+}{
+  "room_name": "长沙第一莽",
+  "author_name": "长沙久伴",
+  "room_cate": "和平精英"
+}{
+  "room_name": "邦教练:抓紧时间掐烂分了",
+  "author_name": "刘小邦丶",
+  "room_cate": "自走棋"
+}{
+  "room_name": "渝你同行～飞机车神安排",
+  "author_name": "小恒很帅",
+  "room_cate": "QQ飞车"
+}{
+  "room_name": "甜心雨萌  开车啦",
+  "author_name": "baby雨萌萌",
+  "room_cate": "自走棋"
+}{
+  "room_name": "【竖屏专用】二次元走进现实精选女团",
+  "author_name": "竖屏的狐狸",
+  "room_cate": "二次元"
+}{
+  "room_name": "【qf】宇宙第一跟枪",
+  "author_name": "清风啊啊啊a",
+  "room_cate": "APEX英雄"
+}{
+  "room_name": "全网最实在主播，4排钢枪你来吗？",
+  "author_name": "九之鸟",
+  "room_cate": "和平精英"
+}{
+  "room_name": "来吧  秋裤在召唤",
+  "author_name": "枪不钢的秋裤君",
+  "room_cate": "和平精英"
+}{
+  "room_name": "【801】618搞机我们是认真的",
+  "author_name": "801评测室",
+  "room_cate": "数码科技"
+}{
+  "room_name": "有问必答！斗鱼最细致的全英雄冲分教学！",
+  "author_name": "暴丶戾",
+  "room_cate": "DOTA2"
+}{
+  "room_name": "直播和平的第26天 1307963",
+  "author_name": "丶喵晚安",
+  "room_cate": "和平精英"
+}{
+  "room_name": "马里奥制造⭐️快乐就完事了",
+  "author_name": "白白的胖胖呀",
+  "room_cate": "超级马里奥制造"
+}{
+  "room_name": "渝你同行-霸业骚套路玩法不断",
+  "author_name": "萧言LL",
+  "room_cate": "刀塔霸业"
+}{
+  "room_name": "野食小哥，更新啦！",
+  "author_name": "野食小哥",
+  "room_cate": "美食"
+}{
+  "room_name": "carry攒机直播间",
+  "author_name": "carry电竞俱乐部",
+  "room_cate": "数码科技"
+}{
+  "room_name": "神罚冰雪公益",
+  "author_name": "坚强丶贵族",
+  "room_cate": "传奇"
+}{
+  "room_name": "冲呀66级~～～～",
+  "author_name": "乌克兰小逗包",
+  "room_cate": "颜值"
+}{
+  "room_name": "懒猫 美食家 点播",
+  "author_name": "懒猫是只喵",
+  "room_cate": "一起看"
+}{
+  "room_name": "王旭捕蟹归来，即将回归直播【敬请期待】",
+  "author_name": "dota少男旭",
+  "room_cate": "DOTA"
+}{
+  "room_name": "生日福利抽万元现金！",
+  "author_name": "圈圈蜀黍",
+  "room_cate": "魔兽世界"
+}{
+  "room_name": "AA:渝你同行，先回前100",
+  "author_name": "AAA零零",
+  "room_cate": "炉石传说"
+}{
+  "room_name": "此时的江南正下着小雨",
+  "author_name": "天上掉下个黎妹妹",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "国服航母大凤 征服者~欢迎多提问",
+  "author_name": "海妖素还真奥尼酱",
+  "room_cate": "军事游戏"
+}{
+  "room_name": "距离您0.01km 6197676",
+  "author_name": "小迟同学呀",
+  "room_cate": "颜值"
+}{
+  "room_name": "♥超治愈的声音，了解一下呀，喵喵喵♥",
+  "author_name": "小月月月月月QwQ",
+  "room_cate": "FM233"
+}{
+  "room_name": "渝你同行 青梅煮酒",
+  "author_name": "去晚",
+  "room_cate": "剑网3"
+}{
+  "room_name": "只想安静的做个澄海解说～虽然很不专业～",
+  "author_name": "DZ久龙",
+  "room_cate": "魔兽争霸"
+}{
+  "room_name": "这是一个有意思的主播",
+  "author_name": "朴西卡",
+  "room_cate": "颜值"
+}{
+  "room_name": "郑州永盛连锁：DIY攒机618返场",
+  "author_name": "Origin永盛电竞",
+  "room_cate": "数码科技"
+}{
+  "room_name": "渝你同行---八月桃",
+  "author_name": "八月0桃",
+  "room_cate": "APEX英雄"
+}{
+  "room_name": "不瘦二十斤不改标题",
+  "author_name": "呆默默777",
+  "room_cate": "美食"
+}{
+  "room_name": "渝你同行，为一亿助力 710071",
+  "author_name": "玖笙Darling",
+  "room_cate": "堡垒之夜"
+}{
+  "room_name": "荒野被掏空系列",
+  "author_name": "佛系带哥",
+  "room_cate": "乡野"
+}{
+  "room_name": "单排第三个职业枪神",
+  "author_name": "是零度喔",
+  "room_cate": "CF手游"
+}{
+  "room_name": "❤可可爱爱孤孤单单",
+  "author_name": "果果是一只猫",
+  "room_cate": "CS:GO"
+}{
+  "room_name": "欢乐麻将真好玩！！！",
+  "author_name": "我叫王小梦",
+  "room_cate": "欢乐麻将"
+}{
+  "room_name": "单排冲第一！天才棋手安静君！",
+  "author_name": "安静安静君",
+  "room_cate": "多多自走棋"
+}{
+  "room_name": "檀檀：给你弹吉他唱歌听好不好",
+  "author_name": "吉他弹唱的檀哥儿",
+  "room_cate": "音乐"
+}{
+  "room_name": "魔天大极品【50顶赞、授权服】",
+  "author_name": "Vlg庸俗",
+  "room_cate": "传奇"
+}{
+  "room_name": "心怀不惧 方能翱翔于天际",
+  "author_name": "777丶少将测评未来",
+  "room_cate": "棋牌娱乐"
+}{
+  "room_name": "渝你同行，为一亿助力！ 2250649",
+  "author_name": "重庆玩家金牌装机店",
+  "room_cate": "数码科技"
+}{
+  "room_name": "三三：软辅把把mvp教学",
+  "author_name": "三三真的是个睿智呢",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "微信三战神带粉上分上王牌上战神",
+  "author_name": "流叶漫天",
+  "room_cate": "和平精英"
+}{
+  "room_name": "【小鸽陪看】动作 枪战 经典 华语",
+  "author_name": "萌小鬼",
+  "room_cate": "一起看"
+}{
+  "room_name": "三指极限花式团战",
+  "author_name": "痞老板ei",
+  "room_cate": "球球大作战"
+}{
+  "room_name": "快乐萌新剑网3",
+  "author_name": "陈帆没吃饱",
+  "room_cate": "剑网3：指尖江湖"
+}{
+  "room_name": "故事：月底了过过任务大哥们",
+  "author_name": "汉宫故事",
+  "room_cate": "穿越火线"
+}{
+  "room_name": "全能王帮打号效率带粉办卡单拉",
+  "author_name": "顾及打野贼6",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "国际服重大活动开启！持续至7.1",
+  "author_name": "THP老铁",
+  "room_cate": "军事游戏"
+}{
+  "room_name": "要了命的困",
+  "author_name": "一兜兜可爱多",
+  "room_cate": "颜值"
+}{
+  "room_name": "【粤语电影】【周星驰】【影视嘉年华第二】",
+  "author_name": "和联胜丶星爺來了",
+  "room_cate": "一起看"
+}{
+  "room_name": "【Sopa】女主播玩GOGO",
+  "author_name": "骚普",
+  "room_cate": "跳伞行动"
+}{
+  "room_name": "办卡永久上车，国服女韩信在线带粉",
+  "author_name": "伊娃小脾气",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "杀死狄仁杰、活捉燕双鹰！",
+  "author_name": "当燕双鹰遇见李元芳",
+  "room_cate": "一起看"
+}{
+  "room_name": "怡声:蓝光 科幻 动作 电影",
+  "author_name": "坚强的怡声",
+  "room_cate": "一起看"
+}{
+  "room_name": "【白给王】我和僵尸有个约会",
+  "author_name": "凉白开emmm",
+  "room_cate": "僵尸世界大战"
+}{
+  "room_name": "越南太平现场赛",
+  "author_name": "罗马协会",
+  "room_cate": "怀旧游戏"
+}{
+  "room_name": "因帅被判无期 现在我要越狱",
+  "author_name": "憨包锤憨包",
+  "room_cate": "主机游戏"
+}{
+  "room_name": "直播/渝你同行/民谣弹唱",
+  "author_name": "安然Iren",
+  "room_cate": "音乐电台"
+}{
+  "room_name": "渝你同行-早安~",
+  "author_name": "晚的感冒药",
+  "room_cate": "只狼"
+}{
+  "room_name": "单排20星一天上荣耀",
+  "author_name": "薄情er丶",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "三缺一，就差你啦",
+  "author_name": "Y宝儿h",
+  "room_cate": "和平精英"
+}{
+  "room_name": "【再来一集】是什么梗",
+  "author_name": "聚聚聚一个月",
+  "room_cate": "二次元"
+}{
+  "room_name": "火之意志，不会熄灭！",
+  "author_name": "灬柔石",
+  "room_cate": "火影忍者OL"
+}{
+  "room_name": "【6雪】小美专精，动次打次",
+  "author_name": "花泽六雪",
+  "room_cate": "守望先锋"
+}{
+  "room_name": "梦回传奇--月卡区 霸者",
+  "author_name": "176传奇复古",
+  "room_cate": "传奇"
+}{
+  "room_name": "【再来一集】是什么梗",
+  "author_name": "聚聚聚一个月",
+  "room_cate": "二次元"
+}{
+  "room_name": "梦回传奇--月卡区 霸者",
+  "author_name": "176传奇复古",
+  "room_cate": "传奇"
+}{
+  "room_name": "渝你同行-早安~",
+  "author_name": "晚的感冒药",
+  "room_cate": "只狼"
+}{
+  "room_name": "【6雪】小美专精，动次打次",
+  "author_name": "花泽六雪",
+  "room_cate": "守望先锋"
+}{
+  "room_name": "直播/渝你同行/民谣弹唱",
+  "author_name": "安然Iren",
+  "room_cate": "音乐电台"
+}{
+  "room_name": "【斗鱼最强资源】24H韩国女团直播间",
+  "author_name": "我们可爱的程程",
+  "room_cate": "二次元"
+}{
+  "room_name": "渝你同行-尛圣",
+  "author_name": "尛圣",
+  "room_cate": "全境封锁"
+}{
+  "room_name": "~R-点播！点播！点播！模式！-24H",
+  "author_name": "刘少丶7012",
+  "room_cate": "一起看"
+}{
+  "room_name": "正能量；赛季光环 念皇上分",
+  "author_name": "单手小八",
+  "room_cate": "DNF"
+}{
+  "room_name": "美好的一天从突突突开始",
+  "author_name": "浅浅依依",
+  "room_cate": "和平精英"
+}{
+  "room_name": "一个飞机变异过载，鲲核心",
+  "author_name": "E十丶娜娜",
+  "room_cate": "逆战"
+}{
+  "room_name": "100种落地成盒任您挑选",
+  "author_name": "ly李咩咩",
+  "room_cate": "和平精英"
+}{
+  "room_name": "糖18：电一组排 办卡搭车~",
+  "author_name": "超爱吃的糖18",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "渝你同行—— 下一班飞机又是一条好汉",
+  "author_name": "走音少女吴丢丢",
+  "room_cate": "和平精英"
+}{
+  "room_name": "胸口碎大石，单手拖漩涡",
+  "author_name": "跨六阿狸",
+  "room_cate": "DNF"
+}{
+  "room_name": "电脑重装了~就下载了逆战,是不是真爱",
+  "author_name": "E十茹花",
+  "room_cate": "逆战"
+}{
+  "room_name": "【神禹寒】WEGAME新服 萌新求照顾",
+  "author_name": "神禹寒",
+  "room_cate": "剑网3"
+}{
+  "room_name": "宇宙最骚诺手,强无敌细如针",
+  "author_name": "主播浩钦",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "芳华是一指流沙",
+  "author_name": "张一芯o",
+  "room_cate": "颜值"
+}{
+  "room_name": "20冰雪  顶赞免费 不需要冲一分钱",
+  "author_name": "传奇龍爺",
+  "room_cate": "传奇"
+}{
+  "room_name": "小高：绝活3号位骑脸！",
+  "author_name": "小高Phenomenal",
+  "room_cate": "DOTA2"
+}{
+  "room_name": "广州小孩 三问97 战老黑夜枫秦虹小吖",
+  "author_name": "东台林铭",
+  "room_cate": "格斗游戏"
+}{
+  "room_name": "哈哈哈 路过的哥哥关注加加油 快破W啦",
+  "author_name": "M丶小雪儿",
+  "room_cate": "颜值"
+}{
+  "room_name": "三天一个万分猴之第三天",
+  "author_name": "独孤小肥鱼",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "妾身可否为大王舞一曲",
+  "author_name": "饭团V薇薇酱",
+  "room_cate": "二次元"
+}{
+  "room_name": "全球前五，在线教学",
+  "author_name": "浪莫慌",
+  "room_cate": "赤潮自走棋"
+}{
+  "room_name": "Live 御姐音，点歌台",
+  "author_name": "时光磨灭倾城梦丶",
+  "room_cate": "音乐电台"
+}{
+  "room_name": "渝你同行-为一亿助力 2398622",
+  "author_name": "小熊Darling",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "国服体验服能玩了",
+  "author_name": "唐家二少y",
+  "room_cate": "云顶之弈"
+}{
+  "room_name": "办卡上车 国服小鸟在线带人",
+  "author_name": "慕瑶打野贼6",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "ss2 战神框有要打的吗",
+  "author_name": "Lucky丶小阿飞",
+  "room_cate": "和平精英"
+}{
+  "room_name": "战地1 我猜你的枪里没有子弹~",
+  "author_name": "住你隔壁的二黑",
+  "room_cate": "战地风云"
+}{
+  "room_name": "40星排位 4878313",
+  "author_name": "闻君丶",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "「橙子Orange」「港剧」「19点见」",
+  "author_name": "橙橙子丶剧集舍",
+  "room_cate": "一起看"
+}{
+  "room_name": "录播电台：温柔的声音",
+  "author_name": "稀饭小迷糊丶",
+  "room_cate": "连麦互动"
+}{
+  "room_name": "效率天梯，1飞机钻石~~",
+  "author_name": "PE林乐清",
+  "room_cate": "逆战"
+}{
+  "room_name": "激情极速排位上分！ 5715544",
+  "author_name": "重置排位推土机",
+  "room_cate": "穿越火线"
+}{
+  "room_name": "不会玩DK的法师不是好奶德！",
+  "author_name": "波妞sama",
+  "room_cate": "魔兽世界"
+}{
+  "room_name": "二拖迷雾教科书版最强在线教学收铁粉房管",
+  "author_name": "迷之小情绪",
+  "room_cate": "球球大作战"
+}{
+  "room_name": "渝你同行 但愿我亦来时我",
+  "author_name": "冷暖迷妹千千万",
+  "room_cate": "天涯明月刀"
+}{
+  "room_name": "【射手四指】钢枪一捶四带路人吃鸡！！！",
+  "author_name": "剑浪丿",
+  "room_cate": "和平精英"
+}{
+  "room_name": "最强小法：无敌团战凯瑞教学",
+  "author_name": "混王灰灰小法",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "从自闭中走出来ｉｎｇ",
+  "author_name": "白鲨菌zzZ",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "我是你能歌善舞的宝藏女孩吖~",
+  "author_name": "金多大大吖",
+  "room_cate": "颜值"
+}{
+  "room_name": "【不败公益】火爆全网-打金大服-玩九龍O",
+  "author_name": "追忆曾经de梦",
+  "room_cate": "传奇"
+}{
+  "room_name": "僵尸来袭  带你打怪探秘",
+  "author_name": "小府丶",
+  "room_cate": "和平精英"
+}{
+  "room_name": "等一个你 渡一个劫",
+  "author_name": "美楠Yolo",
+  "room_cate": "颜值"
+}{
+  "room_name": "渝你同行-贪财暴毙法启动",
+  "author_name": "如来小巴掌",
+  "room_cate": "多多自走棋"
+}{
+  "room_name": "【林正英】 僵尸 恐怖片 鬼片 国外",
+  "author_name": "久了旧知",
+  "room_cate": "一起看"
+}{
+  "room_name": "全面战争系列资深菜鸡主播~谢谢~",
+  "author_name": "鱼的眼泪水知道",
+  "room_cate": "全战三国"
+}{
+  "room_name": "黑夜和白天 相隔一瞬间",
+  "author_name": "Leixxxxxxxxxx",
+  "room_cate": "自走棋"
+}{
+  "room_name": "【职业讲师】办卡上车/帮调灵敏度",
+  "author_name": "一只小恺撒",
+  "room_cate": "和平精英"
+}{
+  "room_name": "【Marvel】漫威电影宇宙DC超级英雄",
+  "author_name": "贝塔Game",
+  "room_cate": "一起看"
+}{
+  "room_name": "SC大魔王：效率上分，职业选手，良心讲师",
+  "author_name": "大魔王润",
+  "room_cate": "FIFA ONLINE4"
+}{
+  "room_name": "场均评分14分打野稻草。细节讲解",
+  "author_name": "一个很C的稻草人",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "一见你就笑！！！",
+  "author_name": "兜十三呀",
+  "room_cate": "DOTA2"
+}{
+  "room_name": "越努力越幸运，每天直播8小时。",
+  "author_name": "安妮小仙er",
+  "room_cate": "美食"
+}{
+  "room_name": "【粤兒经典粤语】喜剧 赌片 动作",
+  "author_name": "小粤兒",
+  "room_cate": "一起看"
+}{
+  "room_name": "【4K超清点播】主播在线陪看❤",
+  "author_name": "A萌七七",
+  "room_cate": "一起看"
+}{
+  "room_name": "【贝爷】站在食物链顶端的男人！ 4332",
+  "author_name": "狂拽酷炫",
+  "room_cate": "一起看"
+}{
+  "room_name": "上海小姐姐广交朋友",
+  "author_name": "杨小妖丶丶",
+  "room_cate": "颜值"
+}{
+  "room_name": "来啦，小老弟 717835",
+  "author_name": "狮狮嗷",
+  "room_cate": "颜值"
+}{
+  "room_name": "蜜桃白的半周年庆~",
+  "author_name": "人间水蜜桃江白",
+  "room_cate": "连麦互动"
+}{
+  "room_name": "李恩雅07的直播间",
+  "author_name": "惠子酱芯",
+  "room_cate": "颜值"
+}{
+  "room_name": "渝你同行，为一亿助力-19个王者啦",
+  "author_name": "猫妹儿t",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "❤塑料姐妹花❤",
+  "author_name": "狠狠爱CiKi雙儿",
+  "room_cate": "颜值"
+}{
+  "room_name": "渝你同行，游戏都赢！",
+  "author_name": "暴走兔丶",
+  "room_cate": "主机游戏"
+}{
+  "room_name": "随风：大岳丸来了",
+  "author_name": "桑德兰丶随风者",
+  "room_cate": "阴阳师"
+}{
+  "room_name": "神农架早安",
+  "author_name": "木木乱闯",
+  "room_cate": "户外"
+}{
+  "room_name": "努力练练. 73965",
+  "author_name": "霸气虚幻哥1991",
+  "room_cate": "DOTA2"
+}{
+  "room_name": "【kkv】态度正确 尽力而为",
+  "author_name": "大萌萌kkv",
+  "room_cate": "全战三国"
+}{
+  "room_name": "金庸武侠、古装神剧",
+  "author_name": "傲娇的虾虾",
+  "room_cate": "一起看"
+}{
+  "room_name": "峡谷1100分辅助",
+  "author_name": "一情书一",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "月底有没有大哥助攻升下级哦",
+  "author_name": "慕名丶骚刚",
+  "room_cate": "QQ飞车端游"
+}{
+  "room_name": "【SV】潘老师",
+  "author_name": "GForMe阿宇",
+  "room_cate": "使命召唤OL"
+}{
+  "room_name": "斗花：我来辣",
+  "author_name": "斗花丶",
+  "room_cate": "天涯明月刀"
+}{
+  "room_name": "【录播】警花带你识毒！",
+  "author_name": "武汉市公安局",
+  "room_cate": "正能量"
+}{
+  "room_name": "在线等一个八抬大轿",
+  "author_name": "裴圆圆圆",
+  "room_cate": "音乐电台"
+}{
+  "room_name": "❤️朵朵❤️苦海无涯，回…回头是我呀",
+  "author_name": "小甜甜朵朵o",
+  "room_cate": "一起看"
+}{
+  "room_name": "炉石让我们相识 音乐使我们相知！",
+  "author_name": "丶D丶y丶",
+  "room_cate": "炉石传说"
+}{
+  "room_name": "第一酒馆 无酒慎入",
+  "author_name": "丶珂先生",
+  "room_cate": "连麦互动"
+}{
+  "room_name": "得了不能吃鸡的病~",
+  "author_name": "陈海的直播间",
+  "room_cate": "狼人杀"
+}{
+  "room_name": "【有车位】急需一个大猛男~",
+  "author_name": "宫小瑾",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "云顶之弈の神来了嗷",
+  "author_name": "哆啦阿b",
+  "room_cate": "云顶之弈"
+}{
+  "room_name": "斗鱼第一上单老剑圣",
+  "author_name": "阳哥剑圣",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "四国服在榜公孙离赛季末五排带粉",
+  "author_name": "久游丶演帝",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "国服第一青钢影之一星期上韩服大师",
+  "author_name": "认真教学丶花老师",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "冲！冲！冲！ 6590155",
+  "author_name": "NE风清扬",
+  "room_cate": "魔兽争霸"
+}{
+  "room_name": "一直看到吐系列",
+  "author_name": "老瞪",
+  "room_cate": "美食"
+}{
+  "room_name": "技术不够，声音来凑~有车位",
+  "author_name": "小不点奶萝",
+  "room_cate": "和平精英"
+}{
+  "room_name": "渝你同行，为一亿助力！ 5231984",
+  "author_name": "杀戮泡沫",
+  "room_cate": "CF手游"
+}{
+  "room_name": "卡特王者600分教你上钻~两把一抽",
+  "author_name": "阿俊卡特c",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "安安：云顶之弈",
+  "author_name": "小安安快用十万伏特",
+  "room_cate": "云顶之弈"
+}{
+  "room_name": "北京市第一路霸",
+  "author_name": "骚猪李丶",
+  "room_cate": "守望先锋"
+}{
+  "room_name": "人类一败涂地 斗鱼第一钢铁猛男",
+  "author_name": "嘴甜教父索洛狗",
+  "room_cate": "主机游戏"
+}{
+  "room_name": "舞蹈主播养分中",
+  "author_name": "舞者Dance灵儿",
+  "room_cate": "颜值"
+}{
+  "room_name": "《三国霸业》-复古-公益-稳定",
+  "author_name": "我本有情剑无情",
+  "room_cate": "传奇"
+}{
+  "room_name": "渝你同行，徒步第114天在相克宗目标西藏",
+  "author_name": "孤鹰214183",
+  "room_cate": "户外"
+}{
+  "room_name": "因为懂得 所以慈悲 5099957",
+  "author_name": "遇见丶清梦",
+  "room_cate": "英雄杀"
+}{
+  "room_name": "【阿文】斗鱼NO.1动作游戏直播间",
+  "author_name": "丷阿文丷",
+  "room_cate": "鬼泣5"
+}{
+  "room_name": "渝你同行，枪王走一走",
+  "author_name": "拾梦女侠厘uu",
+  "room_cate": "穿越火线"
+}{
+  "room_name": "千分王者野区教你半个月上钻石",
+  "author_name": "星海和你",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "早呀...小姐姐带你飞...别晕车",
+  "author_name": "粉糖小仙女",
+  "room_cate": "CF手游"
+}{
+  "room_name": "渝你同行-这里有辆贼车~",
+  "author_name": "千寻雅",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "小兴：粉丝活动看鱼吧置顶帖",
+  "author_name": "主播小兴",
+  "room_cate": "逆水寒"
+}{
+  "room_name": "办卡任务，路过来一张呗",
+  "author_name": "莉莉莉宝",
+  "room_cate": "颜值"
+}{
+  "room_name": "赛季末1星冲荣耀，不到不睡觉",
+  "author_name": "原来是2狗呀",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "欢迎来到俯卧撑联盟~",
+  "author_name": "亲爱的QQ老公",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "娱乐主播中技术最好的，技术主播中最搞笑的",
+  "author_name": "骚骚兔",
+  "room_cate": "自走棋"
+}{
+  "room_name": "月底时间紧任务重T.T",
+  "author_name": "多米丶溫柔",
+  "room_cate": "逆战"
+}{
+  "room_name": "斗鱼第一恐怖游戏点播室",
+  "author_name": "默负寒夏丶",
+  "room_cate": "恐怖游戏"
+}{
+  "room_name": "战神主播带粉，十局九鸡？",
+  "author_name": "挽风boy丶",
+  "room_cate": "和平精英"
+}{
+  "room_name": "初心不变，办卡上分。",
+  "author_name": "安静的大胖鱼",
+  "room_cate": "QQ飞车"
+}{
+  "room_name": "JJ斗地主冠军杯复盘",
+  "author_name": "JJ比赛",
+  "room_cate": "JJ斗地主"
+}{
+  "room_name": "办卡上号 - 快速手动纯点券",
+  "author_name": "忧优弱风Cass",
+  "room_cate": "QQ飞车端游"
+}{
+  "room_name": "不会说话但是我会磕头",
+  "author_name": "羽儿小霸王丶",
+  "room_cate": "颜值"
+}{
+  "room_name": "渝你同行，车神2800分局",
+  "author_name": "色彩k2",
+  "room_cate": "QQ飞车"
+}{
+  "room_name": "富二代化妆体验流浪生活",
+  "author_name": "许文强户外",
+  "room_cate": "乡野"
+}{
+  "room_name": "渝你同行，为一亿助力！6586380",
+  "author_name": "魔女酱o",
+  "room_cate": "主机游戏"
+}{
+  "room_name": "渝你同行-等个渡劫得大哥",
+  "author_name": "易软软yoy",
+  "room_cate": "穿越火线"
+}{
+  "room_name": "渝你同行，为一亿助力！6586380",
+  "author_name": "魔女酱o",
+  "room_cate": "主机游戏"
+}{
+  "room_name": "渝你同行-等个渡劫得大哥",
+  "author_name": "易软软yoy",
+  "room_cate": "穿越火线"
+}{
+  "room_name": "渝你同行-冲冲冲 6541367",
+  "author_name": "糖宝超可爱",
+  "room_cate": "连麦互动"
+}{
+  "room_name": "吉他 零基础吉他教学，大家一起弹吉他~",
+  "author_name": "吉他小豆丁",
+  "room_cate": "户外"
+}{
+  "room_name": "录播：渝你同行-为一亿助力~",
+  "author_name": "程阮Lorelei",
+  "room_cate": "音乐电台"
+}{
+  "room_name": "Live 御姐音，点歌台",
+  "author_name": "时光磨灭倾城梦丶",
+  "room_cate": "音乐电台"
+}{
+  "room_name": "奥特曼与小怪兽不得不说的故事",
+  "author_name": "我砸晕了牛顿",
+  "room_cate": "二次元"
+}{
+  "room_name": "【PWL】勇士联赛 第三周 DAY2",
+  "author_name": "绝地求生赛事2",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "免费带粉，各种段位",
+  "author_name": "王者荣耀浩轩",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "有问必答 内测毕业玩家6808176",
+  "author_name": "唐唐大大9527",
+  "room_cate": "剑网3：指尖江湖"
+}{
+  "room_name": "天才小六一的直播间",
+  "author_name": "天才小六一",
+  "room_cate": "颜值"
+}{
+  "room_name": "点击进入领取你的女友 ❤",
+  "author_name": "天天睡不醒的丹妹妹",
+  "room_cate": "守望先锋"
+}{
+  "room_name": "DIVINA CSGO亚洲女子赛 重播",
+  "author_name": "imbacsgo频道",
+  "room_cate": "CS:GO"
+}{
+  "room_name": "❤渝你同行--吸血鬼❤",
+  "author_name": "特工丶琪丨36E的李二狗",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "唱歌直播间 6775579",
+  "author_name": "欧阳薇薇Sama",
+  "room_cate": "音乐"
+}{
+  "room_name": "相互学习 探索表知识",
+  "author_name": "你的大表哥o小林",
+  "room_cate": "户外"
+}{
+  "room_name": "叫我老屠夫",
+  "author_name": "a海皇牙",
+  "room_cate": "DOTA2"
+}{
+  "room_name": "努力练练. 73965",
+  "author_name": "霸气虚幻哥1991",
+  "room_cate": "DOTA2"
+}{
+  "room_name": "R直播|一起撕名牌24时全民乐翻天",
+  "author_name": "詹姆斯龚",
+  "room_cate": "一起看"
+}{
+  "room_name": "【奔驰小哥】中文字幕",
+  "author_name": "翼风110",
+  "room_cate": "美食"
+}{
+  "room_name": "本周周榜前三荣耀，前十王者",
+  "author_name": "可爱的豆芽丶",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "渝你同行 飞机车神送拉力光戒",
+  "author_name": "阿豪kk",
+  "room_cate": "QQ飞车"
+}{
+  "room_name": "❤女汉子上线了",
+  "author_name": "Lucky乐颜",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "无条件带粉上王者！！！赛季末了送福利！",
+  "author_name": "小风有个电竞梦",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "直播-唱歌给我的心上人听呀~",
+  "author_name": "小米虫y",
+  "room_cate": "音乐电台"
+}{
+  "room_name": "渝你同行，为一亿助力！ 4924837",
+  "author_name": "素手林一",
+  "room_cate": "和平精英"
+}{
+  "room_name": "易中天讲三国",
+  "author_name": "易中天",
+  "room_cate": "人文军事"
+}{
+  "room_name": "K118：早起傻一天",
+  "author_name": "K118吗",
+  "room_cate": "守望先锋"
+}{
+  "room_name": "来捕捉一只正能量满满的草莓",
+  "author_name": "小草莓的莓莓",
+  "room_cate": "颜值"
+}{
+  "room_name": "在线教学女鬼破点！！！",
+  "author_name": "渝万丶小马",
+  "room_cate": "穿越火线"
+}{
+  "room_name": "风里雨里，我在等你！ 4660384",
+  "author_name": "浪味仙儿姐姐",
+  "room_cate": "一起看"
+}{
+  "room_name": "国服达摩，骚操作，实力带粉!!!",
+  "author_name": "Cen如今",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "不如把你烤了吧 4907390",
+  "author_name": "七只阿羊",
+  "room_cate": "连麦互动"
+}{
+  "room_name": "点了就发财",
+  "author_name": "章鱼姐姐z",
+  "room_cate": "颜值"
+}{
+  "room_name": "求能识千里马的伯乐",
+  "author_name": "会费的蜗牛",
+  "room_cate": "DNF"
+}{
+  "room_name": "塔罗牌占卜（爱情、事业、财运）",
+  "author_name": "169丶韩风",
+  "room_cate": "鱼教"
+}{
+  "room_name": "咸鱼玩家的自我修养，就是混。",
+  "author_name": "清酒酒",
+  "room_cate": "阴阳师"
+}{
+  "room_name": "国服第一人马 低端局教学 看一天既能学会",
+  "author_name": "江西社会强",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "瓜：渝你同行，一起挨打？！！",
+  "author_name": "呆萌瓜娃子",
+  "room_cate": "天涯明月刀"
+}{
+  "room_name": "五倍大极品-全新版本 6304944",
+  "author_name": "御龍决火龙单职业",
+  "room_cate": "传奇"
+}{
+  "room_name": "80诛仙火龙",
+  "author_name": "Ho流浪",
+  "room_cate": "传奇"
+}{
+  "room_name": "真蛇.御魂.看号.新区.超鬼王",
+  "author_name": "小松OOO",
+  "room_cate": "阴阳师"
+}{
+  "room_name": "【拉结尔】内测老司机解答一切",
+  "author_name": "老实敦厚的蛮子",
+  "room_cate": "拉结尔"
+}{
+  "room_name": "[德哥 贝爷]荒野求生季",
+  "author_name": "黑子影视haoyin1234",
+  "room_cate": "纪录片"
+}{
+  "room_name": "每晚陪着你，助眠",
+  "author_name": "泡泡是小短腿",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "大红神超级加强，普雷炸团show",
+  "author_name": "DNF血魂圣者",
+  "room_cate": "DNF"
+}{
+  "room_name": "黄桃园走起",
+  "author_name": "野区光头强",
+  "room_cate": "乡野"
+}{
+  "room_name": "黄级女鬼小皮碰碰车",
+  "author_name": "小柳LOL",
+  "room_cate": "探灵笔记"
+}{
+  "room_name": "渝你同行  为一亿助力 6346854",
+  "author_name": "最美及她",
+  "room_cate": "和平精英"
+}{
+  "room_name": "渝你同行❤️萌新钢枪小姐姐",
+  "author_name": "乔晶Yoki",
+  "room_cate": "和平精英"
+}{
+  "room_name": "这个游戏好简单我会了  手：你不会",
+  "author_name": "巫妖王丶鬼子",
+  "room_cate": "主机游戏"
+}{
+  "room_name": "【渝你同行 ，为一亿助力】",
+  "author_name": "四维告白",
+  "room_cate": "和平精英"
+}{
+  "room_name": "深渊巨口凯瑞君",
+  "author_name": "屎马蛋",
+  "room_cate": "美食"
+}{
+  "room_name": "【瑶瑶】童年阴影  恐怖 丧尸 经典",
+  "author_name": "丶小跟班丿瑶瑶",
+  "room_cate": "一起看"
+}{
+  "room_name": "有趣的灵魂万里挑一 6655819",
+  "author_name": "想自由的十喜",
+  "room_cate": "颜值"
+}{
+  "room_name": "强化12 13  迎接新天空",
+  "author_name": "肘扒之患",
+  "room_cate": "DNF"
+}{
+  "room_name": "黄鳝瑟瑟发抖",
+  "author_name": "芜湖裤衩",
+  "room_cate": "乡野"
+}{
+  "room_name": "弃权：我也要开始抽象了",
+  "author_name": "弃权o",
+  "room_cate": "守望先锋"
+}{
+  "room_name": "双传奇袁绍，这个大哥不好当",
+  "author_name": "孟孟孟孟辰",
+  "room_cate": "全战三国"
+}{
+  "room_name": "（ 苍穹传）能赚钱的仙侠手游越玩越上瘾",
+  "author_name": "晓松哥",
+  "room_cate": "热门手游"
+}{
+  "room_name": "合天空送盒子/强化12 13/增幅",
+  "author_name": "Feiyu丶暗帝的笑话",
+  "room_cate": "DNF"
+}{
+  "room_name": "~~~声甜，人刚，抢飘~~~",
+  "author_name": "嗲嗲小豆芽",
+  "room_cate": "和平精英"
+}{
+  "room_name": "微信区 办卡上车 滴滴有车位！",
+  "author_name": "呆萌小余生",
+  "room_cate": "和平精英"
+}{
+  "room_name": "微信区办卡上车！！",
+  "author_name": "是你的豪豪呦",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "你点不进来的，别点了",
+  "author_name": "小小小天婷",
+  "room_cate": "颜值"
+}{
+  "room_name": "微信带粉有车位~",
+  "author_name": "纯情骚龍龍",
+  "room_cate": "和平精英"
+}{
+  "room_name": "小高，班都买了不开50级上限，赔死我了",
+  "author_name": "dy小高",
+  "room_cate": "魔兽世界"
+}{
+  "room_name": "我叫八神梦魇！我的梦魇很？？",
+  "author_name": "八神梦魇丶",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "录/渝你同行-是你的温柔御",
+  "author_name": "NJ南浔酱",
+  "room_cate": "音乐电台"
+}{
+  "room_name": "【客套一家人】中文字幕",
+  "author_name": "暖声小靖哥",
+  "room_cate": "美食"
+}{
+  "room_name": "榜前十战神，在线带粉，无后座4.5倍镜",
+  "author_name": "小小阿色",
+  "room_cate": "和平精英"
+}{
+  "room_name": "【乡野转盘节一年挑战千斤鳝鱼，看五嫂钓鳝",
+  "author_name": "户外打野五哥",
+  "room_cate": "乡野"
+}{
+  "room_name": "穿名堂：转回人类狂暴战8.2！",
+  "author_name": "一休哥穿名堂",
+  "room_cate": "魔兽世界"
+}{
+  "room_name": "我带你们打 5337191",
+  "author_name": "PE小学金枪王",
+  "room_cate": "逆战"
+}{
+  "room_name": "托尼绿色循环圈带新",
+  "author_name": "超不要骂",
+  "room_cate": "魔兽争霸"
+}{
+  "room_name": "海岛钢枪王，屠杀局（有位置）",
+  "author_name": "枪王tt",
+  "room_cate": "和平精英"
+}{
+  "room_name": "【王科长】大家快准备下8.2",
+  "author_name": "王科长的WOW",
+  "room_cate": "魔兽世界"
+}{
+  "room_name": "【土豆】人品好，没烦恼，一起来看错不了",
+  "author_name": "苏土豆吖",
+  "room_cate": "一起看"
+}{
+  "room_name": "狄仁杰：想听听我的故事吗",
+  "author_name": "小狐狸4481",
+  "room_cate": "一起看"
+}{
+  "room_name": "最动人的不是我爱你 而是明天见",
+  "author_name": "璐璐不会跑快快OvO",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "望自己成熟稳重，绝境逢生~",
+  "author_name": "弑神者影子",
+  "room_cate": "CF手游"
+}{
+  "room_name": "6倍压枪教学 帅",
+  "author_name": "P城宋江",
+  "room_cate": "和平精英"
+}{
+  "room_name": "音乐相伴 清凉一夏＾０＾~",
+  "author_name": "竹叶的熊猫",
+  "room_cate": "音乐"
+}{
+  "room_name": "风云三国奉献版1.0",
+  "author_name": "阿稳r",
+  "room_cate": "骑马与砍杀"
+}{
+  "room_name": "【敏】steam夏季特卖一览 想看什么",
+  "author_name": "Shadow敏",
+  "room_cate": "主机游戏"
+}{
+  "room_name": "毛毛：新天空 动物套 强化13 增幅 ！",
+  "author_name": "凤毛可甲",
+  "room_cate": "DNF"
+}{
+  "room_name": "第一孙尚香 王者局教学",
+  "author_name": "若烟丶国服最强孙尚香",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "新天空动物套强化13增幅搞起就是亏。",
+  "author_name": "对上你眼2",
+  "room_cate": "DNF"
+}{
+  "room_name": "许三多小庄军旅抗日电视剧",
+  "author_name": "老班长播播",
+  "room_cate": "一起看"
+}{
+  "room_name": "林乔：肉搏小课堂嗷",
+  "author_name": "林乔绝不白给",
+  "room_cate": "DOTA2"
+}{
+  "room_name": "【姚志鹏】渝你同行 为一亿助力",
+  "author_name": "Aee1essN",
+  "room_cate": "CS:GO"
+}{
+  "room_name": "唐:粉丝节活动 大家送点吧！",
+  "author_name": "唐宋元丶明清",
+  "room_cate": "最强NBA"
+}{
+  "room_name": "【凌儿】24小时在线嗨~",
+  "author_name": "安静的凌儿",
+  "room_cate": "一起看"
+}{
+  "room_name": "烟花落尽你挑灯回看",
+  "author_name": "BU可以ci兔兔",
+  "room_cate": "主机游戏"
+}{
+  "room_name": "1.76热血回忆、纯净复古",
+  "author_name": "烈焰之城丶品牌大服",
+  "room_cate": "传奇"
+}{
+  "room_name": "小仙女号55天累充28万3亿v11",
+  "author_name": "君丶憂慯",
+  "room_cate": "热门手游"
+}{
+  "room_name": "完美火龙单职业【20顶赞-10元秒提现",
+  "author_name": "哥沙巴克城主",
+  "room_cate": "传奇"
+}{
+  "room_name": "5e2800分 25号再冲分 帮水友上分",
+  "author_name": "南京dev1ce",
+  "room_cate": "CS:GO"
+}{
+  "room_name": "WAR3全系列赛回放",
+  "author_name": "opopophuhu",
+  "room_cate": "魔兽争霸"
+}{
+  "room_name": "打球约起来~~~",
+  "author_name": "Fs阿鹏a",
+  "room_cate": "街头篮球"
+}{
+  "room_name": "♥苹果动漫♥有妖气！慎入！",
+  "author_name": "苹果Zei甜",
+  "room_cate": "一起看"
+}{
+  "room_name": "【超清】经典港剧天地",
+  "author_name": "疯狂尛瀦瀦",
+  "room_cate": "一起看"
+}{
+  "room_name": "重庆最可爱的崽",
+  "author_name": "小去野",
+  "room_cate": "颜值"
+}{
+  "room_name": "渝你同行，为一亿助力！ 6118831",
+  "author_name": "席二胖oO",
+  "room_cate": "DOTA2"
+}{
+  "room_name": "[动漫] 鸣人 路飞 白神悟空",
+  "author_name": "小姐姐不记得",
+  "room_cate": "二次元"
+}{
+  "room_name": "渝你同行-超专业功力方案,角色估价！！",
+  "author_name": "萌弟弟777",
+  "room_cate": "天涯明月刀"
+}{
+  "room_name": "下雨天，还得喂蟹",
+  "author_name": "阳澄湖蟹小明",
+  "room_cate": "乡野"
+}{
+  "room_name": "战就战：狙虾大队成立欢迎加入",
+  "author_name": "KG丶青帝灵感仰",
+  "room_cate": "魔兽争霸"
+}{
+  "room_name": "每晚20点激情拿沙-长久稳定！",
+  "author_name": "香港八日游",
+  "room_cate": "传奇"
+}{
+  "room_name": "新主播:早安，宝贝们",
+  "author_name": "撩撩呀",
+  "room_cate": "和平精英"
+}{
+  "room_name": "神刀论剑：渝你同行，一为一亿助力",
+  "author_name": "GS丶糯米帅",
+  "room_cate": "天涯明月刀"
+}{
+  "room_name": "强化 增幅 天空 今天血亏",
+  "author_name": "今英天空圆梦",
+  "room_cate": "DNF"
+}{
+  "room_name": "身临棋境自走棋线下公开赛总决赛重播",
+  "author_name": "imba自走棋",
+  "room_cate": "自走棋"
+}{
+  "room_name": "普雷鸟背旋涡深渊都可以",
+  "author_name": "跨六战神不语",
+  "room_cate": "DNF"
+}{
+  "room_name": "全网首家可点播户外频道！",
+  "author_name": "阳哥带你看天下",
+  "room_cate": "乡野"
+}{
+  "room_name": "甜美小志玲想被保护",
+  "author_name": "谁家小伊儿",
+  "room_cate": "颜值"
+}{
+  "room_name": "不开心就多笑笑！",
+  "author_name": "E十丶叶笑笑",
+  "room_cate": "逆战"
+}{
+  "room_name": "（409）斗鱼车评24小时开播",
+  "author_name": "蒙奇你你你",
+  "room_cate": "汽车"
+}{
+  "room_name": "来自小李的陪伴丶：云顶之弈",
+  "author_name": "来自小李的陪伴丶",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "专属宝蓝JackeyloveBaolan",
+  "author_name": "BiG热狗OB专属宝蓝阿水",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "【女团】精选二次元韩国现场MMD饭拍MV",
+  "author_name": "咦那是什么",
+  "room_cate": "二次元"
+}{
+  "room_name": "今天的院长有7000分！暴走的黑鸟",
+  "author_name": "超萌小院长",
+  "room_cate": "DOTA2"
+}{
+  "room_name": "3v5 再次来袭",
+  "author_name": "tl291",
+  "room_cate": "星际争霸"
+}{
+  "room_name": "办卡抽50000元红包",
+  "author_name": "不打怪兽de奥特曼",
+  "room_cate": "DNF"
+}{
+  "room_name": "宇宙最菜白手了解一下",
+  "author_name": "PE丶听风说雨",
+  "room_cate": "DNF"
+}{
+  "room_name": "【战神微信带粉上分】各种钢枪战术教学",
+  "author_name": "百砍抹桌帕",
+  "room_cate": "和平精英"
+}{
+  "room_name": "邪恶光环：爱上未来的你~",
+  "author_name": "邪恶光环丶丶",
+  "room_cate": "魔兽世界"
+}{
+  "room_name": "【小烈烈】赤潮最帅主播在线OB！",
+  "author_name": "陆佳烈Alpha",
+  "room_cate": "赤潮自走棋"
+}{
+  "room_name": "BRCC 巴西挑战联赛",
+  "author_name": "贝塔舒克赛事分析",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "感谢~~~~~~",
+  "author_name": "節奏大師全冠清",
+  "room_cate": "一起看"
+}{
+  "room_name": "每天醒来想我好几遍。",
+  "author_name": "小气醒Kat",
+  "room_cate": "音乐电台"
+}{
+  "room_name": "粉丝节？？？？？？",
+  "author_name": "花飯美食区一哥",
+  "room_cate": "美食"
+}{
+  "room_name": "逼王柯南在此",
+  "author_name": "柱子Yang",
+  "room_cate": "二次元"
+}{
+  "room_name": "无惜：渝你同行，为一亿助力",
+  "author_name": "改不起名的无惜",
+  "room_cate": "火影忍者"
+}{
+  "room_name": "网恋选我我超甜 6676872",
+  "author_name": "北辛吖",
+  "room_cate": "逆战"
+}{
+  "room_name": "国外恐怖惊悚 灾难",
+  "author_name": "无泪影视",
+  "room_cate": "一起看"
+}{
+  "room_name": "性感可爱的鹿鹿上线啦",
+  "author_name": "小财迷M鹿",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "早上好各位！",
+  "author_name": "d张三疯",
+  "room_cate": "DOTA"
+}{
+  "room_name": "下雨在家 打两把电1号 玩的一起带你飞",
+  "author_name": "龙族誓言关注下",
+  "room_cate": "乡野"
+}{
+  "room_name": "我有牛奶～你有故事嘛",
+  "author_name": "是微微胖呀",
+  "room_cate": "颜值"
+}{
+  "room_name": "首胜稳的一p",
+  "author_name": "特别帅的c某",
+  "room_cate": "穿越火线"
+}{
+  "room_name": "高速之旅.",
+  "author_name": "咸鱼放映",
+  "room_cate": "户外"
+}{
+  "room_name": "卡莎王：一只卡莎王",
+  "author_name": "芒果卡莎",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "唐门风男：送个办卡,享受特权",
+  "author_name": "唐门风男丶",
+  "room_cate": "天涯明月刀"
+}{
+  "room_name": "渝你同行，为一亿助力！ 6341747",
+  "author_name": "星哥万人迷",
+  "room_cate": "CF手游"
+}{
+  "room_name": "〖師落〗蒹葭苍苍 白露为霜",
+  "author_name": "師落",
+  "room_cate": "一起看"
+}{
+  "room_name": "天空送盒子600不来？",
+  "author_name": "如花似玉tyranny",
+  "room_cate": "DNF"
+}{
+  "room_name": "渝你同行-90怒冲101",
+  "author_name": "蓝澈呀",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "nimen hao , wo buhao",
+  "author_name": "JaeWookMichaeLNOH",
+  "room_cate": "魔兽争霸"
+}{
+  "room_name": "渝你同行，为一亿助力！琪哥的游戏室",
+  "author_name": "来了丶琪哥",
+  "room_cate": "主机游戏"
+}{
+  "room_name": "【草帽】路飞 索隆 山治 娜美 乔巴",
+  "author_name": "草帽丶海贼团",
+  "room_cate": "二次元"
+}{
+  "room_name": "强化12活动 增幅天空团本深渊",
+  "author_name": "江湖人称白小生丶",
+  "room_cate": "DNF"
+}{
+  "room_name": "【邵氏影院】经典武侠 动作 老电影你懂的",
+  "author_name": "Only丶邵氏",
+  "room_cate": "一起看"
+}{
+  "room_name": "黑色玫瑰 黄金组排~",
+  "author_name": "一只可爱妮3",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "6167456的直播间",
+  "author_name": "T9户外",
+  "room_cate": "乡野"
+}{
+  "room_name": "青铜木兰求热心水友赐教",
+  "author_name": "211花开",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "【云顶之弈】金丝楠木棺材",
+  "author_name": "奶瓶君ac",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "500万开始！一个亿下播？",
+  "author_name": "铁算子",
+  "room_cate": "欢乐斗地主"
+}{
+  "room_name": "鸟背 深渊 不排队···",
+  "author_name": "萌道暖暖",
+  "room_cate": "DNF"
+}{
+  "room_name": "【录播】金球先生风凉",
+  "author_name": "污妖王丶风凉大叔",
+  "room_cate": "实况足球"
+}{
+  "room_name": "3万场剑圣教你如何秀起来",
+  "author_name": "剑圣掉打豹女",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "激情怼天蓬 迅捷 不进后悔",
+  "author_name": "平心央论",
+  "room_cate": "QQ飞车"
+}{
+  "room_name": "渝你同行，为一亿助力!",
+  "author_name": "夏菜菜吖",
+  "room_cate": "和平精英"
+}{
+  "room_name": "荣耀局，第10个荣耀号。",
+  "author_name": "一只小天天QvQ",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "雨家军-1.70梦回传奇",
+  "author_name": "雨家三刀",
+  "room_cate": "传奇"
+}{
+  "room_name": "渝你同行，为一亿助力！ 4327462",
+  "author_name": "梨子小姐姐呀",
+  "room_cate": "和平精英"
+}{
+  "room_name": "渝你同行——洋洋",
+  "author_name": "洋洋哟丶",
+  "room_cate": "DNF"
+}{
+  "room_name": "【有车位】万杀400万伤害小王子在线教学",
+  "author_name": "NewKeep",
+  "room_cate": "APEX英雄"
+}{
+  "room_name": "打野带粉，飞机带飞王者",
+  "author_name": "KX丶若尘",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "绵宝【精选动漫点播】",
+  "author_name": "甜漫妮666",
+  "room_cate": "二次元"
+}{
+  "room_name": "【御剑仙梦】最好玩的卡牌回合制",
+  "author_name": "麻友丶维尼君",
+  "room_cate": "热门手游"
+}{
+  "room_name": "OL3 相声艺术",
+  "author_name": "四四九九",
+  "room_cate": "FIFA ONLINE4"
+}{
+  "room_name": "办卡上王者 6139600",
+  "author_name": "KPL王者斌",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "《钢铁侠之死》漫画讲解",
+  "author_name": "努力的Lorre",
+  "room_cate": "二次元"
+}{
+  "room_name": "探险家【挨饿德/贝爷】点播",
+  "author_name": "无双十三香",
+  "room_cate": "纪录片"
+}{
+  "room_name": "【粤语电影】喜剧 经典 周星驰 林正英",
+  "author_name": "粤语电影丶",
+  "room_cate": "一起看"
+}{
+  "room_name": "老寡妇教学！",
+  "author_name": "雨夜阿屠",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "绝活海解压式冲分！",
+  "author_name": "翻滚之灵",
+  "room_cate": "DOTA2"
+}{
+  "room_name": "渝你同行-为一亿助力 加油",
+  "author_name": "苗苗紫呀",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "（409)蒙奇打怪兽影院",
+  "author_name": "蒙奇我我我我",
+  "room_cate": "一起看"
+}{
+  "room_name": "奥特▶汤姆方言▶侦探▶大乱斗",
+  "author_name": "和舰科技淑蓉",
+  "room_cate": "二次元"
+}{
+  "room_name": "JFla丶每周五晚更新",
+  "author_name": "JFla丶covermusic",
+  "room_cate": "音乐"
+}{
+  "room_name": "Wegame服转风车然后散排",
+  "author_name": "顾非池",
+  "room_cate": "剑网3"
+}{
+  "room_name": "估号看号打造/带打团本深渊/某声优の日常",
+  "author_name": "这辈子不可能吃到鸡",
+  "room_cate": "DNF"
+}{
+  "room_name": "回答所有已知问题！",
+  "author_name": "奇怪的蜀黍崔",
+  "room_cate": "剑网3：指尖江湖"
+}{
+  "room_name": "渝你同行-为一亿助力！我是霖疯~",
+  "author_name": "渝万丶霖疯",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "传奇到冠绝的水友号！",
+  "author_name": "风悦丶上头丁",
+  "room_cate": "DOTA2"
+}{
+  "room_name": "塔罗牌占卜：爱情事业是否顺利？",
+  "author_name": "林大师丶塔罗牌占卜",
+  "room_cate": "情感电台"
+}{
+  "room_name": "我喜欢你 你喜欢我吗？",
+  "author_name": "果冻吖吖",
+  "room_cate": "和平精英"
+}{
+  "room_name": "QKAQKAQKAQKA",
+  "author_name": "付志海QKAkofk",
+  "room_cate": "CS:GO"
+}{
+  "room_name": "别慌，我还能输",
+  "author_name": "就是沐沐呀",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "短期倒卖+囤货，良心木哥在线讲解~",
+  "author_name": "商人阿木",
+  "room_cate": "DNF"
+}{
+  "room_name": "小永:与智力无关的直播间",
+  "author_name": "鬼火小永",
+  "room_cate": "主机游戏"
+}{
+  "room_name": "❤丸子❤Dayz胆小姐姐的日常",
+  "author_name": "丸子丶丢了小樱桃",
+  "room_cate": "主机游戏"
+}{
+  "room_name": "【地瓜】你吃鱼，我吃肉，看着直播啃骨头",
+  "author_name": "影大亨",
+  "room_cate": "一起看"
+}{
+  "room_name": "看不见你的笑我怎么睡得着～",
+  "author_name": "小阿狸up",
+  "room_cate": "颜值"
+}{
+  "room_name": "直播/九分甜的你 和十分爱你的我",
+  "author_name": "一只鱼小小",
+  "room_cate": "音乐电台"
+}{
+  "room_name": "别闹，就我了5230345",
+  "author_name": "你的小绵绵",
+  "room_cate": "颜值"
+}{
+  "room_name": "从新手到大神，各职业流派攻略",
+  "author_name": "FeiYu丶八爷",
+  "room_cate": "暗黑破坏神3"
+}{
+  "room_name": "血污 噩梦难度 不继承！",
+  "author_name": "海狸先生不吃鱼",
+  "room_cate": "主机游戏"
+}{
+  "room_name": "（提莫） 爱情喜剧 欢迎吐槽",
+  "author_name": "提莫005",
+  "room_cate": "一起看"
+}{
+  "room_name": "星际争霸1 24小时录像厅",
+  "author_name": "Schey1",
+  "room_cate": "星际争霸"
+}{
+  "room_name": "五倍大极品-全新版本",
+  "author_name": "爵丶爷霸气",
+  "room_cate": "传奇"
+}{
+  "room_name": "~烟雨蒙蒙丶收网猎鱼~",
+  "author_name": "瑶山兄妹",
+  "room_cate": "乡野"
+}{
+  "room_name": "雨终于停了，收起来，收起来",
+  "author_name": "VIP户外",
+  "room_cate": "乡野"
+}{
+  "room_name": "空c新主播~求关注",
+  "author_name": "小媄儿",
+  "room_cate": "逆战"
+}{
+  "room_name": "千部电影任君选",
+  "author_name": "苹果Zei妖",
+  "room_cate": "一起看"
+}{
+  "room_name": "渡劫真是太难啦～",
+  "author_name": "你的乔乔呀",
+  "room_cate": "颜值"
+}{
+  "room_name": "双传奇刘备之翼德实乃当世猛将也！",
+  "author_name": "主播如雨",
+  "room_cate": "全战三国"
+}{
+  "room_name": "直播怼迅捷 天蓬 不排队血亏",
+  "author_name": "正色危广",
+  "room_cate": "QQ飞车"
+}{
+  "room_name": "单挑输了给你上房管5624345",
+  "author_name": "水草芽",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "【德哥】直播间",
+  "author_name": "荒野大爷",
+  "room_cate": "纪录片"
+}{
+  "room_name": "【大玻璃】你好，我是大玻璃",
+  "author_name": "卖萌就会碎的玻璃",
+  "room_cate": "使命召唤OL"
+}{
+  "room_name": "喜欢唱跳Rap，看玉石翡翠的小姐姐",
+  "author_name": "中缅边境欢乐购",
+  "room_cate": "正能量"
+}{
+  "room_name": "新来的小朋友 5848771",
+  "author_name": "你的饼干吗o",
+  "room_cate": "颜值"
+}{
+  "room_name": "渝你同行—磕头战",
+  "author_name": "赵曰天丶DX",
+  "room_cate": "魔兽世界"
+}{
+  "room_name": "阿潼~ 5574433",
+  "author_name": "阿丶潼",
+  "room_cate": "情感电台"
+}{
+  "room_name": "❤暖暖陪你看❤你知道我在等你吗？",
+  "author_name": "Your喵小暖",
+  "room_cate": "一起看"
+}{
+  "room_name": "新的一天开始了  5995704",
+  "author_name": "桂马呀",
+  "room_cate": "多多自走棋"
+}{
+  "room_name": "最近补分 休息",
+  "author_name": "温柔善良的雪雪",
+  "room_cate": "二次元"
+}{
+  "room_name": "清晨醒脑！T-ARA根本停不下来！",
+  "author_name": "7师傅",
+  "room_cate": "音乐"
+}{
+  "room_name": "渝你同行—小姐姐新主播求关注",
+  "author_name": "厌世的球球啊",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "⭐皮卡球⭐相遇既是缘呀",
+  "author_name": "皮卡球不是圆球",
+  "room_cate": "一起看"
+}{
+  "room_name": "【Hunter】动漫 热血 老贼 冒险",
+  "author_name": "魔术师丶西索",
+  "room_cate": "二次元"
+}{
+  "room_name": "【随心】欧美 华语 科幻 经典 一起看吧",
+  "author_name": "随心的旅途",
+  "room_cate": "一起看"
+}{
+  "room_name": "【路霸】王的发！",
+  "author_name": "路霸A",
+  "room_cate": "怪物猎人"
+}{
+  "room_name": "国服第一菜豹",
+  "author_name": "MFGuaP1",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "进来！听歌！",
+  "author_name": "酷酷Kuu",
+  "room_cate": "颜值"
+}{
+  "room_name": "【交友】寻找一位追梦人冠名",
+  "author_name": "嗨玩一金牌相亲",
+  "room_cate": "约会现场"
+}{
+  "room_name": "中国刘备 我认第二 谁认第一",
+  "author_name": "野草丨",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "萌新主播 多多关照 5867486",
+  "author_name": "周周呀956",
+  "room_cate": "无限法则"
+}{
+  "room_name": "70-100层=1萌新到大神教学",
+  "author_name": "FeiYu丶暗黑",
+  "room_cate": "暗黑破坏神3"
+}{
+  "room_name": "丛林肉搏 开盘！！！！",
+  "author_name": "杀猪无and鱼刺",
+  "room_cate": "魔兽争霸"
+}{
+  "room_name": "看号挑战本",
+  "author_name": "散落暴风",
+  "room_cate": "梦幻模拟战"
+}{
+  "room_name": "初见：想要玩好源氏",
+  "author_name": "中二少年小初见",
+  "room_cate": "守望先锋"
+}{
+  "room_name": "朴实的缅甸货主",
+  "author_name": "中缅边境翡翠淘石乐",
+  "room_cate": "正能量"
+}{
+  "room_name": "【小懒猫】猫猫陪你看电影",
+  "author_name": "小懒猫爱吃辣",
+  "room_cate": "一起看"
+}{
+  "room_name": "亿万僵尸 【CY精彩直播】",
+  "author_name": "CY来袭",
+  "room_cate": "主机游戏"
+}{
+  "room_name": "就睡了2小时，不骂人了今天",
+  "author_name": "美若天仙熙早早",
+  "room_cate": "和平精英"
+}{
+  "room_name": "渝你同行-赛季末安排",
+  "author_name": "黑鲨隐雪",
+  "room_cate": "QQ飞车"
+}{
+  "room_name": "(皇后局）暖心有问必答思路讲解~",
+  "author_name": "暖心y丶",
+  "room_cate": "自走棋"
+}{
+  "room_name": "进来！听歌！",
+  "author_name": "酷酷Kuu",
+  "room_cate": "颜值"
+}{
+  "room_name": "丛林肉搏 开盘！！！！",
+  "author_name": "杀猪无and鱼刺",
+  "room_cate": "魔兽争霸"
+}{
+  "room_name": "看号挑战本",
+  "author_name": "散落暴风",
+  "room_cate": "梦幻模拟战"
+}{
+  "room_name": "亿万僵尸 【CY精彩直播】",
+  "author_name": "CY来袭",
+  "room_cate": "主机游戏"
+}{
+  "room_name": "吉尼斯纪录216杀秒杀外挂最专业的个竞秀",
+  "author_name": "湖南个竞狙神宝锅",
+  "room_cate": "穿越火线"
+}{
+  "room_name": "渝你同行-赛季末安排",
+  "author_name": "黑鲨隐雪",
+  "room_cate": "QQ飞车"
+}{
+  "room_name": "渝你同行-飞机带上王者，火箭帮上王者",
+  "author_name": "初晗i",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "老爷车，回顾一下！",
+  "author_name": "像夏目一样的艾斯",
+  "room_cate": "主机游戏"
+}{
+  "room_name": "猥琐至极的上单系王子",
+  "author_name": "99999丶一笑奈何",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "动物套-天空-强化-增幅不排队",
+  "author_name": "渝万传媒丶鸣人",
+  "room_cate": "DNF"
+}{
+  "room_name": "【麓山迷踪】邪  虐  异  染  绝",
+  "author_name": "麓山迷踪",
+  "room_cate": "一起看"
+}{
+  "room_name": "渝你同行-战斗兄弟",
+  "author_name": "骚炮丶骚越越",
+  "room_cate": "热门手游"
+}{
+  "room_name": "【卡卡粤语】周星驰 经典 喜剧 恐怖",
+  "author_name": "Windon",
+  "room_cate": "一起看"
+}{
+  "room_name": "恭喜Vitality获得ESC S7冠军",
+  "author_name": "imbacsgo频道2",
+  "room_cate": "CS:GO"
+}{
+  "room_name": "【谭怼怼】穿最好的甲，挨最毒的打",
+  "author_name": "谭怼怼丶",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "176老霸王纯净复古",
+  "author_name": "传奇至尊宝",
+  "room_cate": "传奇"
+}{
+  "room_name": "千里送交学费，河南站，今天战神鸡偷驴",
+  "author_name": "渔猎人枷锁",
+  "room_cate": "户外"
+}{
+  "room_name": "✿柠檬爱动漫✿",
+  "author_name": "柠檬的酸灬",
+  "room_cate": "二次元"
+}{
+  "room_name": "07072神途全图爆爆",
+  "author_name": "07072神途手游",
+  "room_cate": "传奇手游"
+}{
+  "room_name": "《小旺旺》来了嗷",
+  "author_name": "Honey小旺旺",
+  "room_cate": "CS:GO"
+}{
+  "room_name": "周五新区等大哥",
+  "author_name": "南诛哥",
+  "room_cate": "神武系列"
+}{
+  "room_name": "斗鱼第一女辅 双荣耀",
+  "author_name": "柔柔冰冰冰柔",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "Q区上王者4509068",
+  "author_name": "缘来是小三傻吖",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "人类瞄准精华的方向~",
+  "author_name": "何枪一",
+  "room_cate": "守望先锋"
+}{
+  "room_name": "马王爷：单排战神,6000分局",
+  "author_name": "马王爷哈哈哈",
+  "room_cate": "绝地求生"
+}{
+  "room_name": "喵放送☀️喵呜~",
+  "author_name": "喵放送",
+  "room_cate": "户外"
+}{
+  "room_name": "微信区带粉国服全能打野",
+  "author_name": "兔肉灬",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "免费上车！任何段位带你躺",
+  "author_name": "树黎UpUp",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "辣：温州男孩也想多幸运些",
+  "author_name": "橙辣辣可真是个弟弟哟",
+  "room_cate": "CS:GO"
+}{
+  "room_name": "某人你可真棒",
+  "author_name": "DY小肆",
+  "room_cate": "问道电脑版"
+}{
+  "room_name": "❤️萌妹❤️这个瓜又香又甜",
+  "author_name": "l三两l",
+  "room_cate": "角色扮演"
+}{
+  "room_name": "大胃王直播间 吃吃吃吃吃吃",
+  "author_name": "孤独的口乞货",
+  "room_cate": "美食"
+}{
+  "room_name": "【超清】热门港剧天地",
+  "author_name": "疯狂小潴潴",
+  "room_cate": "一起看"
+}{
+  "room_name": "【500部野外纪录片】24小时直播啦！~",
+  "author_name": "主播宋北北zz丶312872",
+  "room_cate": "科普"
+}{
+  "room_name": "WILL直播丨4K 八方旅人",
+  "author_name": "IBADDOG",
+  "room_cate": "八方旅人"
+}{
+  "room_name": "武则天 世界第一武则天",
+  "author_name": "渝万丶墨大郎",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "为什么选择渣男的我？因为暖。",
+  "author_name": "渣男依",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "【司徒】听说有人叫我新档狂魔",
+  "author_name": "囧司徒123123",
+  "room_cate": "主机游戏"
+}{
+  "room_name": "一张办卡上号了 6808693",
+  "author_name": "倾城丶男子丶",
+  "room_cate": "QQ飞车端游"
+}{
+  "room_name": "全职业黄金+男格斗PK",
+  "author_name": "男柔道Blaze",
+  "room_cate": "DNF"
+}{
+  "room_name": "24小时不停播，就为了让您有个好胃口~",
+  "author_name": "同学你流口水了",
+  "room_cate": "乡野"
+}{
+  "room_name": "【小冥】肥宅快乐",
+  "author_name": "超级厉害的小冥",
+  "room_cate": "一起看"
+}{
+  "room_name": "新来的小朋友 5848771",
+  "author_name": "你的饼干吗o",
+  "room_cate": "颜值"
+}{
+  "room_name": "七煌教授-全职业视角",
+  "author_name": "七煌教授",
+  "room_cate": "魔兽世界"
+}{
+  "room_name": "钻石冰雪-送会员时装狂暴-独家版本",
+  "author_name": "传奇夏沫",
+  "room_cate": "传奇"
+}{
+  "room_name": "了解一下 ....",
+  "author_name": "逗丶奶Abby",
+  "room_cate": "颜值"
+}{
+  "room_name": "   渝你同行，为一亿助力",
+  "author_name": "花涩迷人",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "祖梦宇：王者蛮王，距离回归直播倒计时5天",
+  "author_name": "祖梦宇丶",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "渝你同行-真武学院，冲鸭 ∀！",
+  "author_name": "院长大人ss",
+  "room_cate": "天涯明月刀"
+}{
+  "room_name": "【4K 贾贵、~速度围观~】",
+  "author_name": "東南西北方不敗",
+  "room_cate": "一起看"
+}{
+  "room_name": "听得懂的动漫",
+  "author_name": "播开剧像ZG",
+  "room_cate": "二次元"
+}{
+  "room_name": "渝你同行  为一亿助力，",
+  "author_name": "念桥边红药11",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "画质江湖-丰富剧情+任务",
+  "author_name": "恐怖娘娘安真真丶",
+  "room_cate": "综合手游"
+}{
+  "room_name": "十八：开ST2/无尽/点灯/碰瓷",
+  "author_name": "BN丶降龙十八掌",
+  "room_cate": "QQ飞车端游"
+}{
+  "room_name": "免费打号，宠粉主播，办卡上车",
+  "author_name": "AIIk木西",
+  "room_cate": "和平精英"
+}{
+  "room_name": "王者局峡谷之巅指挥家稻草人",
+  "author_name": "MQ丶一流稻草人三界",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "游戏礼包已经到位 联系班长领取",
+  "author_name": "江苏陶班长",
+  "room_cate": "新游中心"
+}{
+  "room_name": "【WEGAME】小白引导教学，才艺主播！",
+  "author_name": "柳天殇",
+  "room_cate": "剑网3"
+}{
+  "room_name": "录：点击领取宝藏~",
+  "author_name": "是你泡不到的夕颜",
+  "room_cate": "音乐电台"
+}{
+  "room_name": "【苍穹传】好玩还能赚钱的游戏",
+  "author_name": "负九是条咸鱼",
+  "room_cate": "热门手游"
+}{
+  "room_name": "疗伤点歌台：从来没有医不好的伤",
+  "author_name": "十七岁道姑",
+  "room_cate": "音乐"
+}{
+  "room_name": "【峻赫】渝你同行，为一亿肋力！",
+  "author_name": "渝万丶峻赫",
+  "room_cate": "了不起的修仙模拟器"
+}{
+  "room_name": "零基础象棋教学课堂",
+  "author_name": "骄阳象棋",
+  "room_cate": "中国象棋"
+}{
+  "room_name": "悬疑港剧美剧国产经典",
+  "author_name": "I哞哞I",
+  "room_cate": "一起看"
+}{
+  "room_name": "安心当我的大领主！ 七煌遇见",
+  "author_name": "弑君贼丷",
+  "room_cate": "魔兽世界"
+}{
+  "room_name": "叶师傅&叼霸天麦霸专场重播",
+  "author_name": "麦霸我最6",
+  "room_cate": "DOTA2"
+}{
+  "room_name": "渝你同行，为一亿助力！ 6372658",
+  "author_name": "YW丶子枫",
+  "room_cate": "和平精英"
+}{
+  "room_name": "中文字幕~了解下！",
+  "author_name": "美食侦探MrX",
+  "room_cate": "美食"
+}{
+  "room_name": "河女；把你们都拖下水",
+  "author_name": "探灵笔记",
+  "room_cate": "灵魂筹码"
+}{
+  "room_name": "【熙熙】：电一办卡上车",
+  "author_name": "Carry熙熙熙",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "追光者/天蓬/迅捷流星 开怼.",
+  "author_name": "你好宝贝乖乖",
+  "room_cate": "QQ飞车"
+}{
+  "room_name": "林正英♥僵尸女鬼恐怖片♥鬼片专场",
+  "author_name": "小肥菜菜",
+  "room_cate": "一起看"
+}{
+  "room_name": "【柯南】外表看似小孩，智慧缺过于常人",
+  "author_name": "名侦探柯南之银色子弹",
+  "room_cate": "二次元"
+}{
+  "room_name": "两万局小鱼人，中单皮徐坤喜欢唱跳RAP~",
+  "author_name": "皮在痒yang丶",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "隐形守护者 6308446",
+  "author_name": "真实的谎訁",
+  "room_cate": "隐形守护者"
+}{
+  "room_name": "【徐杰】户外",
+  "author_name": "徐杰丶",
+  "room_cate": "守望先锋"
+}{
+  "room_name": "小杨：钻石分段辅助顶尖教学",
+  "author_name": "儒雅随和的辅助小杨",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "伪娘：好看的都是男孩子！",
+  "author_name": "渝万丶林允晞",
+  "room_cate": "一起看"
+}{
+  "room_name": "招聘养猪的 663763",
+  "author_name": "小小怪兽呗",
+  "room_cate": "颜值"
+}{
+  "room_name": "世界级带新大使",
+  "author_name": "酷哥手一挥",
+  "room_cate": "魔兽世界"
+}{
+  "room_name": "❤颜控系吃播",
+  "author_name": "为染",
+  "room_cate": "美食"
+}{
+  "room_name": "迷人嗓音 治愈发音 混蛋年龄 最为致命❤",
+  "author_name": "一只绾绾喽",
+  "room_cate": "FM233"
+}{
+  "room_name": "高分好电影，记得定时续牌子",
+  "author_name": "蛋挞人",
+  "room_cate": "一起看"
+}{
+  "room_name": "没你陪我打我怎么赢嘛",
+  "author_name": "不理我打屎你",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "竖屏韩模 主播回来了！",
+  "author_name": "小小大瓦斯",
+  "room_cate": "星娱"
+}{
+  "room_name": "皮皮怪世界顶尖瑞文，拯救不开心！",
+  "author_name": "刘奋解说之顶尖瑞文",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "遇见你 很幸运",
+  "author_name": "T甜心酱",
+  "room_cate": "颜值"
+}{
+  "room_name": "原声动漫❤电影❤回忆❤热血❤经典❤",
+  "author_name": "污妖王丶小叮当",
+  "room_cate": "一起看"
+}{
+  "room_name": "开心  14号新区  开搞~",
+  "author_name": "英雄集团军",
+  "room_cate": "传奇"
+}{
+  "room_name": "成都酷冷攒机 STEAM又又又打折啦！",
+  "author_name": "成都酷冷科技",
+  "room_cate": "数码科技"
+}{
+  "room_name": "❤ 陪 伴 是 最 长 情 的 告白 ❤",
+  "author_name": "我就叫旎宝吖",
+  "room_cate": "英雄联盟"
+}{
+  "room_name": "冬瓜宝图，乱斗模式加速赛给劲儿",
+  "author_name": "dy冬瓜儿",
+  "room_cate": "梦幻西游"
+}{
+  "room_name": "▄︻┻┳═一狙击之王 枪枪爆头 虐杀王牌",
+  "author_name": "等风阿丶",
+  "room_cate": "和平精英"
+}{
+  "room_name": "【好莱坞】Marvel漫威 超级英雄蓝光",
+  "author_name": "好莱坞影片",
+  "room_cate": "二次元"
+}{
+  "room_name": "好嗨哟，泳池必须有！",
+  "author_name": "卩灬远方户外灬亼乀灬",
+  "room_cate": "户外"
+}{
+  "room_name": "古堡炼狱大饼飞天想学的可以进来了解一下",
+  "author_name": "DM丶神木",
+  "room_cate": "逆战"
+}{
+  "room_name": "健康哥lei了 5632297",
+  "author_name": "杨一凡丶丶",
+  "room_cate": "DOTA"
+}{
+  "room_name": "来份心灵鸡汤吗",
+  "author_name": "安琪拉biubiu",
+  "room_cate": "颜值"
+}{
+  "room_name": "你都吃过吗",
+  "author_name": "心翼168",
+  "room_cate": "户外"
+}{
+  "room_name": "【皮皮嫂影厅】韦爵爷正在播",
+  "author_name": "梁山泊上一只皮皮嫂",
+  "room_cate": "一起看"
+}{
+  "room_name": "听听歌，尬下舞",
+  "author_name": "欣欣欣欣0",
+  "room_cate": "劲舞团"
+}{
+  "room_name": "渝你同行-吊哥",
+  "author_name": "四马路吊哥",
+  "room_cate": "拉结尔"
+}{
+  "room_name": "大家一起RPG！",
+  "author_name": "原来是胖师傅啊",
+  "room_cate": "街头篮球"
+}{
+  "room_name": "32种流派演示，鱼吧看节目单",
+  "author_name": "FeiYu丶还会是you",
+  "room_cate": "暗黑破坏神3"
+}{
+  "room_name": "晓妞动漫花园o(∩_∩)o",
+  "author_name": "晓晓666666",
+  "room_cate": "一起看"
+}{
+  "room_name": "【小夕点播】国内外经典电影！~",
+  "author_name": "孙小夕",
+  "room_cate": "一起看"
+}{
+  "room_name": "迅捷天蓬高起来啊啊啊啊啊啊",
+  "author_name": "欧展且",
+  "room_cate": "QQ飞车"
+}{
+  "room_name": "心情不好  自闭。",
+  "author_name": "楠楠mua丶",
+  "room_cate": "和平精英"
+}{
+  "room_name": "流银冰雪 长久稳定",
+  "author_name": "传奇王者路",
+  "room_cate": "传奇"
+}{
+  "room_name": "★★★★热血★★★★燃起来了",
+  "author_name": "简单緈畐",
+  "room_cate": "二次元"
+}{
+  "room_name": "谁给我人工呼吸一下？",
+  "author_name": "大个儿Li",
+  "room_cate": "穿越火线"
+}{
+  "room_name": "录播❤故事说与你听",
+  "author_name": "舒听酒",
+  "room_cate": "二次元"
+}{
+  "room_name": "渝你同行-治愈系萝御音，打开心扉放松心灵",
+  "author_name": "鹿璃儿",
+  "room_cate": "王者荣耀"
+}{
+  "room_name": "盘古修神-大型单职业",
+  "author_name": "打金导师",
+  "room_cate": "传奇"
+}{
+  "room_name": "渝你同行，战地5的老橘子。",
+  "author_name": "桔子哥丶SLJ",
+  "room_cate": "战地风云"
+}{
+  "room_name": "盛世冰雪「相信品牌」",
+  "author_name": "4270黑暗",
+  "room_cate": "传奇"
+}{
+  "room_name": "剑侠：太白论剑啦！",
+  "author_name": "贱贱的剑侠丶",
+  "room_cate": "天涯明月刀"
+}{
+  "room_name": "15点竞技场等你搞事情",
+  "author_name": "杀夜x",
+  "room_cate": "炉石传说"
+}{
+  "room_name": "【搞钱】我现在就想搞钱",
+  "author_name": "张世豪丶",
+  "room_cate": "一起看"
+}

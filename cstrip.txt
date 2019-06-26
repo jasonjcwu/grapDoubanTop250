@@ -1,0 +1,1821 @@
+[
+  {
+    "hotel_name": " 湖南泽云酒店",
+    "hotel_address": "武陵大道北段泽云广场",
+    "start": "4.8"
+  },
+  {
+    "hotel_name": "常德国际大酒店",
+    "hotel_address": "武陵区武陵大道686号",
+    "start": "4.5"
+  },
+  {
+    "hotel_name": "桃花源怡然酒店",
+    "hotel_address": "桃花源风景名胜区桃花源镇桃花源古镇9-89号",
+    "start": "4.6"
+  },
+  {
+    "hotel_name": "常德汤臣万豪酒店",
+    "hotel_address": "武陵区武陵大道103号",
+    "start": "4.7"
+  },
+  {
+    "hotel_name": "常德华邦国际大酒店",
+    "hotel_address": "鼎城区鼎城区桃花源路与花溪路交汇处",
+    "start": "4.8"
+  },
+  {
+    "hotel_name": "常德沃喜晟酒店",
+    "hotel_address": "武陵区柳叶街道万寿社区致雅园2栋202室",
+    "start": "4.7"
+  },
+  {
+    "hotel_name": "麗枫酒店(常德步行街店)",
+    "hotel_address": "武陵区武陵大道102号（原华天旁）",
+    "start": "4.8"
+  },
+  {
+    "hotel_name": "常德陌上花开酒店",
+    "hotel_address": "武陵区步行街113号紫艺商城8楼",
+    "start": "4.9"
+  },
+  {
+    "hotel_name": "OYO常德心驰酒店",
+    "hotel_address": "武陵区紫缘路390号",
+    "start": "4.5"
+  },
+  {
+    "hotel_name": "常德爱尚主题酒店",
+    "hotel_address": "武陵区汽车总站出口加油站对面",
+    "start": "4.5"
+  },
+  {
+    "hotel_name": "维也纳国际酒店(常德卷烟厂店)",
+    "hotel_address": "武陵区洞庭大道与芙蓉路交汇处",
+    "start": "4.9"
+  },
+  {
+    "hotel_name": "常德家逸鸿昌国际酒店公寓",
+    "hotel_address": "武陵区建设路1068号鸿昌国际A座1213室(近步行街)",
+    "start": "4.8"
+  },
+  {
+    "hotel_name": "常德Me度假酒店",
+    "hotel_address": "武陵区老西门商业街21栋102、201、501号",
+    "start": "4.9"
+  },
+  {
+    "hotel_name": "天连锁酒店(常德芙蓉广场店)",
+    "hotel_address": "武陵区洞庭大道芙蓉家园",
+    "start": "4.1"
+  },
+  {
+    "hotel_name": "常德奥斯顿酒店公寓",
+    "hotel_address": "武陵区武陵大道欢乐城欢乐美寓11楼1109室",
+    "start": "4.8"
+  },
+  {
+    "hotel_name": "常德优米酒店",
+    "hotel_address": "武陵区朗州南路173号",
+    "start": "4.8"
+  },
+  {
+    "hotel_name": "常德托斯卡纳大酒店",
+    "hotel_address": "武陵区常德大道2689号",
+    "start": "4.4"
+  },
+  {
+    "hotel_name": "天连锁酒店(常德桥南大市场店)",
+    "hotel_address": "鼎城区桥头社区桥东巷（原东飞电脑学校大楼）",
+    "start": "4.3"
+  },
+  {
+    "hotel_name": "常德紫云天商务酒店",
+    "hotel_address": "武陵区武陵大道中段紫云天国际大厦",
+    "start": "4.3"
+  },
+  {
+    "hotel_name": "翼舍公寓(常德柳叶湖店)",
+    "hotel_address": "武陵区和瑞欢乐城3号楼",
+    "start": "4.9"
+  },
+  {
+    "hotel_name": "云鼎大酒店(南城天街店)",
+    "hotel_address": "鼎城区善卷路与金霞大道交汇北100米路东",
+    "start": "4.6"
+  },
+  {
+    "hotel_name": "常德欣瑞商务酒店",
+    "hotel_address": "常德武陵区常德大道3167号（汽车总站对面）",
+    "start": "4.5"
+  },
+  {
+    "hotel_name": "骏怡精选酒店(常德步行街店)",
+    "hotel_address": "武陵区青年南路99号",
+    "start": "4.7"
+  },
+  {
+    "hotel_name": "港湾主题酒店(常德朝阳路火车站店)",
+    "hotel_address": "武陵区火车站朝阳路与207国道交汇处",
+    "start": "4.4"
+  },
+  {
+    "hotel_name": "亚米连锁酒店(常德武陵大道店)",
+    "hotel_address": "武陵区武陵大道体育中心南侧",
+    "start": "4.3"
+  }
+][
+  {
+    "hotel_name": "常德家豪麟酒店",
+    "hotel_address": "武陵区人民路与常德大道交汇处168号（武陵区）",
+    "start": "4.6"
+  },
+  {
+    "hotel_name": "常德武陵天济喜来登酒店",
+    "hotel_address": "武陵区皂果路899号",
+    "start": "4.7"
+  },
+  {
+    "hotel_name": "常德远观酒店",
+    "hotel_address": "鼎城区金霞路与阳明路交汇处",
+    "start": "4.8"
+  },
+  {
+    "hotel_name": "麦吉臻选酒店(常德步行街诗墙工人文化宫店)",
+    "hotel_address": "建设路工人文化宫内",
+    "start": "4.7"
+  },
+  {
+    "hotel_name": "悦美家公寓酒店(常德万达广场店)",
+    "hotel_address": "武陵区万达广场公寓B座9楼",
+    "start": "4.7"
+  },
+  {
+    "hotel_name": "常德e美家酒店公寓",
+    "hotel_address": "武陵区常德武陵区朝阳路与建设路交汇处东昇文化公馆2栋1306室（四医院对面）",
+    "start": "4.9"
+  },
+  {
+    "hotel_name": "常德共和酒店",
+    "hotel_address": "武陵区柳叶大道东段柳叶湖旅游度假区",
+    "start": "4.7"
+  },
+  {
+    "hotel_name": "常德新亚柳叶国际大酒店",
+    "hotel_address": "武陵区建设中路与高山街交汇处",
+    "start": "4.6"
+  },
+  {
+    "hotel_name": "麗枫酒店(常德火车站店)",
+    "hotel_address": "武陵区武陵大道998号欢乐城1栋",
+    "start": "4.8"
+  },
+  {
+    "hotel_name": "常德柳园锦江酒店",
+    "hotel_address": "武陵区柳叶湖旅游度假区泉水路198号（近柳叶湖）",
+    "start": "4.9"
+  },
+  {
+    "hotel_name": "常德华尔夫酒店",
+    "hotel_address": "武陵区柳叶大道东段",
+    "start": "4.7"
+  },
+  {
+    "hotel_name": "常德中瀚假日国际大酒店",
+    "hotel_address": "武陵区人民中路1958号",
+    "start": "4.5"
+  },
+  {
+    "hotel_name": "常德半岛假日宾馆",
+    "hotel_address": "武陵区常德大道泽云广场四楼",
+    "start": "4.4"
+  },
+  {
+    "hotel_name": "柏曼酒店(常德诗墙公园步行街店)",
+    "hotel_address": "武陵区人民中路1503号",
+    "start": "4.9"
+  },
+  {
+    "hotel_name": "维也纳酒店(常德步行街店)",
+    "hotel_address": "武陵区武陵大道188号",
+    "start": "4.6"
+  },
+  {
+    "hotel_name": "天连锁酒店(常德步行街店)",
+    "hotel_address": "武陵大道133号",
+    "start": "4.7"
+  },
+  {
+    "hotel_name": "常德非同宾馆",
+    "hotel_address": "武陵区常德武陵区人民路第六中学对面（武陵区）",
+    "start": "4.8"
+  },
+  {
+    "hotel_name": "常德金龙玉凤饭店",
+    "hotel_address": "武陵区武陵大道北段877号",
+    "start": "4.6"
+  },
+  {
+    "hotel_name": "维也纳智好酒店(常德火车站店)(原鑫源尚品酒店)",
+    "hotel_address": "武陵区武陵大道900号",
+    "start": "4.6"
+  },
+  {
+    "hotel_name": "常德祥瑞大酒店",
+    "hotel_address": "武陵区柳叶大道白马湖公园对面",
+    "start": "4.6"
+  },
+  {
+    "hotel_name": "维也纳酒店(常德鼎城店)",
+    "hotel_address": "鼎城区金霞路外滩一号",
+    "start": "4.8"
+  },
+  {
+    "hotel_name": "OYO常德吉米酒店",
+    "hotel_address": "武陵区三闾路楠竹山农贸市场（文理学院东院旁）",
+    "start": "4.4"
+  },
+  {
+    "hotel_name": "常德尚佳辰商务宾馆",
+    "hotel_address": "武陵区桃花源路与竹叶路交叉口，新汽车北站旁",
+    "start": "4.5"
+  },
+  {
+    "hotel_name": "常德朗廷威斯汀酒店",
+    "hotel_address": "武陵区人民中路99号",
+    "start": "4.4"
+  },
+  {
+    "hotel_name": "常德西湖假日酒店(原白鹤汽车旅馆)",
+    "hotel_address": "柳叶湖渡假区鼎城区万金路1号",
+    "start": "4.7"
+  }
+][
+  {
+    "hotel_name": "天连锁酒店(常德朗州路店)",
+    "hotel_address": "武陵区朗州南路587号",
+    "start": "4.5"
+  },
+  {
+    "hotel_name": "常德东晟文华酒店",
+    "hotel_address": "武陵区常德武陵区东晟文化公馆（老西门）",
+    "start": "4.6"
+  },
+  {
+    "hotel_name": "宜尚酒店(常德朝阳D区店)(原万达广场店)",
+    "hotel_address": "武陵区朝阳路与洞庭大道交叉口朝阳D5区",
+    "start": "4.8"
+  },
+  {
+    "hotel_name": "常德华京大酒店",
+    "hotel_address": "鼎城区善卷中路2505号",
+    "start": "4.8"
+  },
+  {
+    "hotel_name": "常德北金城酒店",
+    "hotel_address": "武陵区常德大道火车站电器五金城A栋115-116号",
+    "start": "4.4"
+  },
+  {
+    "hotel_name": "亚米连锁酒店(常德诗墙店)",
+    "hotel_address": "武陵区沅安路816号",
+    "start": "4.6"
+  },
+  {
+    "hotel_name": "常德德华宾馆",
+    "hotel_address": "武陵区洞庭大道117号",
+    "start": "4.6"
+  },
+  {
+    "hotel_name": "常德云都商务宾馆",
+    "hotel_address": "武陵区幸福里小区1栋1单元17楼",
+    "start": "4.4"
+  },
+  {
+    "hotel_name": "常德尚城酒店",
+    "hotel_address": "武陵区常德洞庭大道中段1655号",
+    "start": "4.2"
+  },
+  {
+    "hotel_name": "常德交通国际大酒店",
+    "hotel_address": "鼎城区善卷路2333号",
+    "start": "4.5"
+  },
+  {
+    "hotel_name": "常德凯悦大酒店",
+    "hotel_address": "武陵区武陵大道北段467号",
+    "start": "4.4"
+  },
+  {
+    "hotel_name": "常德常安酒店",
+    "hotel_address": "武陵区崇德路12号（武陵区）",
+    "start": "4.6"
+  },
+  {
+    "hotel_name": "常德善卷森林酒店",
+    "hotel_address": "武陵区德山经济开发区善卷路（武陵区）",
+    "start": "4.4"
+  },
+  {
+    "hotel_name": "常德晋雅轩宾馆",
+    "hotel_address": "常德武陵区朝阳路南坪乡政府斜对面",
+    "start": "4.9"
+  },
+  {
+    "hotel_name": "亚米连锁酒店(常德柏子园店)",
+    "hotel_address": "武陵区洞庭大道中段420号",
+    "start": "4.6"
+  },
+  {
+    "hotel_name": "五彩今天连锁酒店常德步行街店",
+    "hotel_address": "武陵区武陵大道首创大厦4楼",
+    "start": "4.2"
+  },
+  {
+    "hotel_name": "常德紫东大酒店",
+    "hotel_address": "武陵区火车站花园广场东侧",
+    "start": "4.2"
+  },
+  {
+    "hotel_name": "旅馆连锁(常德火车站店)",
+    "hotel_address": "武陵区火车站朝阳路2047号",
+    "start": "4.7"
+  },
+  {
+    "hotel_name": "常德金鑫宾馆",
+    "hotel_address": "常德市鼎城区莲池路乾明小区对面",
+    "start": "4.4"
+  },
+  {
+    "hotel_name": "常德华云宾馆",
+    "hotel_address": "武陵区常德武陵区人民路1760号",
+    "start": "4.7"
+  },
+  {
+    "hotel_name": "亚米连锁酒店(常德武陵阁店)",
+    "hotel_address": "武陵区人民中路1731号",
+    "start": "4.2"
+  },
+  {
+    "hotel_name": "常德仕景·七喜酒店",
+    "hotel_address": "武陵区高山街不夜城3号楼",
+    "start": "4.6"
+  },
+  {
+    "hotel_name": "常德欣晨大酒店",
+    "hotel_address": "武陵区德山经济开发区桃林路（武陵区）",
+    "start": "4.3"
+  },
+  {
+    "hotel_name": "常德宜沫酒店",
+    "hotel_address": "武陵区沅安路858号",
+    "start": "4.8"
+  },
+  {
+    "hotel_name": "常德红都华庭酒店",
+    "hotel_address": "武陵区德山大道333号（武陵区）",
+    "start": "4.2"
+  }
+][
+  {
+    "hotel_name": "常德桃花岛酒店",
+    "hotel_address": "武陵区南坪街道汇金社区火车站汽配城B栋88号",
+    "start": "4.2"
+  },
+  {
+    "hotel_name": "常德乐居轻奢酒店",
+    "hotel_address": "仿古城东大门善坛街一号",
+    "start": "4.5"
+  },
+  {
+    "hotel_name": "常德芙蓉源商务宾馆",
+    "hotel_address": "鼎城区金霞路与大湖路交叉口，常南汽车站斜对面",
+    "start": "4.3"
+  },
+  {
+    "hotel_name": "常德天吉大酒店",
+    "hotel_address": "皂果北路207国道干货市场对面",
+    "start": "4.5"
+  },
+  {
+    "hotel_name": "常德鼎喜万和大酒店",
+    "hotel_address": "武陵区武陵大道3008号",
+    "start": "4.1"
+  },
+  {
+    "hotel_name": "五彩今天连锁酒店(常德桥南店)",
+    "hotel_address": "鼎城区桥南路77号",
+    "start": "4.1"
+  },
+  {
+    "hotel_name": "常德W精品酒店公寓",
+    "hotel_address": "武陵区建设路与朝阳路交汇处东晟文化公馆12楼",
+    "start": "4.7"
+  },
+  {
+    "hotel_name": "常德时尚宾馆",
+    "hotel_address": "武陵区武陵大道42号",
+    "start": "4.7"
+  },
+  {
+    "hotel_name": "常德鼎奕君悦酒店",
+    "hotel_address": "鼎城区德安路宝泰花园1号",
+    "start": "4.5"
+  },
+  {
+    "hotel_name": "常德远达宾馆",
+    "hotel_address": "武陵区建设中路898号",
+    "start": "4.4"
+  },
+  {
+    "hotel_name": "常德久光国际酒店",
+    "hotel_address": "鼎城区桥南市场大圆盘旁",
+    "start": "4.1"
+  },
+  {
+    "hotel_name": "常德柳城印象酒店",
+    "hotel_address": "武陵区柳叶大道1098号",
+    "start": "4.1"
+  },
+  {
+    "hotel_name": "OYO常德新华宾馆",
+    "hotel_address": "武陵区武陵大道308号",
+    "start": "4.4"
+  },
+  {
+    "hotel_name": "常德君悦精品酒店(原悦豪大酒店)",
+    "hotel_address": "洞庭大道727号",
+    "start": "4.0"
+  },
+  {
+    "hotel_name": "常德尚豪锐宾馆",
+    "hotel_address": "常德市武陵区三星路与朝阳路交汇处（泽云幸福里小区农商银行斜对面）",
+    "start": "4.3"
+  },
+  {
+    "hotel_name": "常德栖岸自助酒店",
+    "hotel_address": "武陵区三星路和瑞欢乐城3号楼13楼1312室",
+    "start": "4.7"
+  },
+  {
+    "hotel_name": "常德美景宾馆",
+    "hotel_address": "武陵区洞庭大道与武陵大道交接处326号",
+    "start": "4.5"
+  },
+  {
+    "hotel_name": "常德玫瑰大酒店",
+    "hotel_address": "武陵区德山中路423号（武陵区）",
+    "start": "4.6"
+  },
+  {
+    "hotel_name": "常德上城酒店",
+    "hotel_address": "武陵区火车站对面泽云广场14层",
+    "start": "4.7"
+  },
+  {
+    "hotel_name": "常德佳汇宾馆",
+    "hotel_address": "武陵区常德大道泽云广场9栋15楼",
+    "start": "4.7"
+  },
+  {
+    "hotel_name": "常德德源商务酒店",
+    "hotel_address": "武陵区常德武陵区德山海德路1号（湘西北商务配套附属楼4-5层、常德南高速路口）（武陵区）",
+    "start": "4.4"
+  },
+  {
+    "hotel_name": "常德瑞景尚品酒店",
+    "hotel_address": "常德鼎城区善卷路3号桥南大圆盘久光国际对面（原桥南宾馆）",
+    "start": "4.6"
+  },
+  {
+    "hotel_name": "常德临澧凯城酒店",
+    "hotel_address": "鼎城区临澧县迎宾中路凯城广场（鼎城区）",
+    "start": "4.2"
+  },
+  {
+    "hotel_name": "常德华雅居宾馆",
+    "hotel_address": "鼎城区常德市鼎城区郭家铺街道孔家溶社区二组同德路167号",
+    "start": "4.5"
+  },
+  {
+    "hotel_name": "凤天大酒店（常德东门店）",
+    "hotel_address": "武陵区常德大道623号（移动互联网产业园C01号楼北楼）（武陵区）",
+    "start": "暂无评分"
+  }
+][
+  {
+    "hotel_name": "常德理想家自助公寓酒店(原可人主题酒店)",
+    "hotel_address": "武陵区武陵大道998欢乐城欢乐美寓3号楼",
+    "start": "4.6"
+  },
+  {
+    "hotel_name": "常德比家美大酒店",
+    "hotel_address": "鼎城区桥南路64号桥南市场KFC旁边",
+    "start": "4.3"
+  },
+  {
+    "hotel_name": "常德兴业宾馆",
+    "hotel_address": "武陵区常德武陵区火车站对面泽云广场21楼2108",
+    "start": "4.6"
+  },
+  {
+    "hotel_name": "常德车茗阁商务宾馆",
+    "hotel_address": "武陵区湖南省常德市武陵区汽车总站北围墙朝阳路与吉生路交汇处西",
+    "start": "4.9"
+  },
+  {
+    "hotel_name": "常德杰武宾馆",
+    "hotel_address": "武陵区紫缘路1188号门面",
+    "start": "4.5"
+  },
+  {
+    "hotel_name": "常德安康商务宾馆",
+    "hotel_address": "人民路1039号(东升小学对面)",
+    "start": "4.3"
+  },
+  {
+    "hotel_name": "常德美佳宾馆",
+    "hotel_address": "武陵区常德武陵区泽云广场2002室（火车站出口正对面）",
+    "start": "4.8"
+  },
+  {
+    "hotel_name": "常德天蓝酒店",
+    "hotel_address": "武陵区常德大道泽云广场9栋22楼",
+    "start": "4.2"
+  },
+  {
+    "hotel_name": "常德宜居宾馆",
+    "hotel_address": "武陵区火车站对面泽云广场607",
+    "start": "4.6"
+  },
+  {
+    "hotel_name": "常德黄金宾馆",
+    "hotel_address": "建设中路（老妈家庭厨房对面）",
+    "start": "4.3"
+  },
+  {
+    "hotel_name": "常德长源宾馆",
+    "hotel_address": "武陵区人民西路254号（武陵区）",
+    "start": "3.1"
+  },
+  {
+    "hotel_name": "常德瑞和商务宾馆",
+    "hotel_address": "武陵区紫缘路1168号",
+    "start": "4.6"
+  },
+  {
+    "hotel_name": "常德恒逸商务宾馆文理学院店",
+    "hotel_address": "武陵区常德武陵区滨湖路仙源居委会旁",
+    "start": "4.4"
+  },
+  {
+    "hotel_name": "常德丽景苑商务酒店",
+    "hotel_address": "武陵区湖南省常德市武陵区老三岔路临江路56号（丽景苑小区旁）",
+    "start": "3.0"
+  },
+  {
+    "hotel_name": "常德小丫宾馆",
+    "hotel_address": "武陵区府坪街道高山街社区青年南路电力花园内",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德帝佳宾馆",
+    "hotel_address": "常德市鼎城区桥南汽车总站对面",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德那些年公寓",
+    "hotel_address": "武陵区白马湖街道长家山社区长发巷长源路19号（天成超市对面）",
+    "start": "4.0"
+  },
+  {
+    "hotel_name": "常德橙天公寓酒店",
+    "hotel_address": "武陵大道市税务局正对面邮政大楼503、504室",
+    "start": "3.9"
+  },
+  {
+    "hotel_name": "常德海杰商务酒店",
+    "hotel_address": "武陵区皂果路1108号",
+    "start": "3.8"
+  },
+  {
+    "hotel_name": "常德顺发精品公寓",
+    "hotel_address": "武陵区柳菱社区朝阳路金汇广场一号楼3层",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "亚米连锁酒店常德下南门店",
+    "hotel_address": "常德武陵区名主街吉春广场B座5楼",
+    "start": "3.9"
+  },
+  {
+    "hotel_name": "常德望云宾馆",
+    "hotel_address": "火车站泽云广场8楼802",
+    "start": "4.5"
+  },
+  {
+    "hotel_name": "常德柳池大酒店",
+    "hotel_address": "常德鼎城区白鹤山乡政府旁",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德金陵宾馆",
+    "hotel_address": "鼎城区桥南路28号",
+    "start": "3.3"
+  },
+  {
+    "hotel_name": "中阳宾馆(常德火车站泽云广场店)",
+    "hotel_address": "武陵区常德泽云广场9栋708室",
+    "start": "4.6"
+  }
+][
+  {
+    "hotel_name": "常德凯泽电竞酒店",
+    "hotel_address": "武陵区皂果路与柳叶大道交汇处万达广场B-2公寓7楼",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德东城明珠宾馆",
+    "hotel_address": "武陵区常德市武陵区青年东路225号（武警支队旁）",
+    "start": "3.4"
+  },
+  {
+    "hotel_name": "常德罗曼斯风情酒店",
+    "hotel_address": "武陵区武陵大道267号",
+    "start": "4.3"
+  },
+  {
+    "hotel_name": "常德盛世华廷宾馆",
+    "hotel_address": "宝峰街道曹家棚社区八组",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德鸿升商务宾馆",
+    "hotel_address": "武陵区柳叶大道凯特国际小区1栋",
+    "start": "3.6"
+  },
+  {
+    "hotel_name": "常德花溪湾乡村度假客栈",
+    "hotel_address": "鼎城区花岩溪镇新庵冲村鸿鹤陂组（鼎城区）",
+    "start": "4.7"
+  },
+  {
+    "hotel_name": "常德顺达宾馆",
+    "hotel_address": "武陵区武陵大道泽云广场9栋1507号",
+    "start": "4.5"
+  },
+  {
+    "hotel_name": "常德华达宾馆",
+    "hotel_address": "武陵大道南段96号华达大厦三楼",
+    "start": "4.6"
+  },
+  {
+    "hotel_name": "常德金德瑞宾馆",
+    "hotel_address": "武陵区汇元巷汇元小区",
+    "start": "4.5"
+  },
+  {
+    "hotel_name": "常德得福来酒店",
+    "hotel_address": "常德大道常龙加油站正对面",
+    "start": "3.5"
+  },
+  {
+    "hotel_name": "常德紫誉宾馆",
+    "hotel_address": "武陵区常德武陵区人民东路与新三闾路交汇处（上东曼城正对面）（武陵区）",
+    "start": "4.9"
+  },
+  {
+    "hotel_name": "常德鸿瑞商务宾馆",
+    "hotel_address": "武陵区皂果路75号（三岔路派出所旁边）",
+    "start": "4.5"
+  },
+  {
+    "hotel_name": "常德泓利商务酒店",
+    "hotel_address": "鼎城区西洞庭祝丰镇育才居委会广益西路59号（鼎城区）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德红摩坊宾馆金钻广场店",
+    "hotel_address": "武陵区畔池街36号",
+    "start": "3.9"
+  },
+  {
+    "hotel_name": "常德楚添和大酒店",
+    "hotel_address": "鼎城区桥南路肯德基旁",
+    "start": "4.1"
+  },
+  {
+    "hotel_name": "常德普罗旺斯主题酒店",
+    "hotel_address": "武陵区常德武陵区金钻广场和平西街春天百货旁2楼",
+    "start": "4.3"
+  },
+  {
+    "hotel_name": "常德恒瑞商务酒店",
+    "hotel_address": "武陵区青年路59号水星楼商业广场",
+    "start": "4.2"
+  },
+  {
+    "hotel_name": "常德致远艺术酒店",
+    "hotel_address": "武陵区丹阳路81号城市丽景1号商住楼",
+    "start": "4.5"
+  },
+  {
+    "hotel_name": "常德龙凤宾馆",
+    "hotel_address": "火车站对面泽云广场7楼702",
+    "start": "4.2"
+  },
+  {
+    "hotel_name": "常德五子商务酒店",
+    "hotel_address": "武陵区常德市武陵区市场中路199号（汽车总站斜对面）",
+    "start": "4.4"
+  },
+  {
+    "hotel_name": "常德忆馨宾馆",
+    "hotel_address": "武陵区泽云广场9栋501",
+    "start": "4.3"
+  },
+  {
+    "hotel_name": "常德平安宾馆",
+    "hotel_address": "武陵区火车站对面泽云广场9栋608号",
+    "start": "4.4"
+  },
+  {
+    "hotel_name": "常德富贵缘商务酒店",
+    "hotel_address": "武陵区朝阳路北站（北纺市场斜对面）",
+    "start": "4.4"
+  },
+  {
+    "hotel_name": "常德如家居宾馆",
+    "hotel_address": "鼎城区友谊巷与鼎城路交汇小圆盘旁",
+    "start": "4.1"
+  },
+  {
+    "hotel_name": "常德善卷茗都酒店",
+    "hotel_address": "武陵区德山镇莲心居委会十组莲池路（武陵区）",
+    "start": "4.3"
+  }
+][
+  {
+    "hotel_name": "常德丽悦宾馆",
+    "hotel_address": "鼎城区湖南应用技术学院西校区大门口同德路157号",
+    "start": "4.2"
+  },
+  {
+    "hotel_name": "常德年和商务酒店步行街店",
+    "hotel_address": "武陵区常德武陵区和平路222号（步行街附近）",
+    "start": "4.3"
+  },
+  {
+    "hotel_name": "常德蓝盾宾馆",
+    "hotel_address": "鼎城区武陵镇鼎城路4号",
+    "start": "4.2"
+  },
+  {
+    "hotel_name": "常德东云阁商务酒店",
+    "hotel_address": "武陵区朝阳路和沙港路交界处",
+    "start": "4.0"
+  },
+  {
+    "hotel_name": "常德这些年宾馆",
+    "hotel_address": "武陵区白马湖街道长家山社区长发巷70号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德舒雅商务宾馆",
+    "hotel_address": "人民东路478号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德铭丰宾馆",
+    "hotel_address": "武陵区常德武陵区泽云广场9号楼2205室（火车站出口正对面）",
+    "start": "4.7"
+  },
+  {
+    "hotel_name": "常德乐居宾馆",
+    "hotel_address": "大道火车站对面泽云广场",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德宠坏你公寓",
+    "hotel_address": "朝阳路-道路(D5区一栋)",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德泰隆宾馆",
+    "hotel_address": "武陵区常德大道与武陵大道交口西南角泽云广场9栋10楼1001室",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德锦江宾馆",
+    "hotel_address": "鼎城区鼎城路久光大圆盘",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德沐源酒店",
+    "hotel_address": "武陵区芷兰街道柳菱社区泽云广场1号楼2楼3142号门面",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德锦星宾馆",
+    "hotel_address": "鼎城区大湖路与永安路交叉口",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德腊梅宾馆",
+    "hotel_address": "鼎城区武陵镇金霞路财富广场A区1栋桥南商贸城",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德金宇宾馆",
+    "hotel_address": "武陵区洞庭大道东段(牯牛岗社区对面)",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德桐悦商务宾馆",
+    "hotel_address": "鼎城区武陵镇玉霞社区薪城外滩对面",
+    "start": "3.5"
+  },
+  {
+    "hotel_name": "常德振华家庭旅馆",
+    "hotel_address": "火车站出口泽云幸福里1栋1单元401号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德水木佳园休闲农庄",
+    "hotel_address": "鼎城区石板滩镇常水居委会（鼎城区）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德恋恋时光别墅",
+    "hotel_address": "鼎城区商业街51号（鼎城区）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德魅力四射别墅聚会轰趴馆(柳泉路分店)",
+    "hotel_address": "武陵区常德武陵区柳叶湖共和酒店旁维一柳岸第7栋",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德红色星海别墅轰趴馆(松风路分店)",
+    "hotel_address": "白鹤山古镇商业街",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德麓水山庄",
+    "hotel_address": "鼎城区花岩溪林场三样树村李富冲组（鼎城区）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德逸家商务酒店",
+    "hotel_address": "武陵区建设西路千禧苑小区",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德天一宾馆",
+    "hotel_address": "武陵区穿紫河街道新光社区洞庭大道1535号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德yf公寓",
+    "hotel_address": "武陵区常德武陵区柳叶湖汽车站",
+    "start": "暂无评分"
+  }
+][
+  {
+    "hotel_name": "恒康美寓谭姐公寓",
+    "hotel_address": "恒大华府-西门(恒大华府)",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德余琴公寓(丝瓜井巷分店)",
+    "hotel_address": "武陵区常德武陵区左右领寓",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德德阳宾馆",
+    "hotel_address": "武陵区三星路515号火车站大市场二期辅助用房4栋3楼",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "晓筱客栈NO.",
+    "hotel_address": "三一翡翠湾-18栋(紫缘路)",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德紫云宾馆",
+    "hotel_address": "澧洲大道215号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德东方小宾馆",
+    "hotel_address": "武陵区下南门永安大厦后巷",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德晓筱客栈",
+    "hotel_address": "盛唐四月天",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "晓筱客栈NO.",
+    "hotel_address": "紫缘路",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "Michelle谦谦公寓NO.",
+    "hotel_address": "都市·捷座(人民西路都市捷座)",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德宾朋宾馆火车站店",
+    "hotel_address": "火车站出口往右100米",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德滨江旅馆",
+    "hotel_address": "常德市武陵区沅安路820号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德银河宾馆",
+    "hotel_address": "武陵区火车站汽配城（火车站出站口旁）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德浙商广场民宿",
+    "hotel_address": "常德武陵区浙商广场-A座",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德新四海商务宾馆",
+    "hotel_address": "人民中路1863号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德德源大酒店",
+    "hotel_address": "武陵区常德大道德山五一社区对面桃花山旁（武陵区）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德相约宾馆",
+    "hotel_address": "美居广场2号楼（汽车总站附近）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德百丽宾馆",
+    "hotel_address": "武陵区武陵区文理后街学院",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德华阳宾馆",
+    "hotel_address": "武陵区火车站南坪",
+    "start": "1.7"
+  },
+  {
+    "hotel_name": "常德白云商务宾馆",
+    "hotel_address": "武陵区青年东路与常德大道交汇处（武陵区）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德学院宾馆",
+    "hotel_address": "长源路三岔路小学对面",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德亚明商务宾馆",
+    "hotel_address": "东江乡新坡居委会2组33号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德天悦宾馆",
+    "hotel_address": "武陵区汽车总站对面",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德翔宇客栈",
+    "hotel_address": "桃花源旅游管理区五柳小镇历史体验馆对面",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德乌姐宾馆",
+    "hotel_address": "武陵区新兴一巷30号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德家和商务宾馆",
+    "hotel_address": "武陵区常德市武陵区紫菱路首创名苑1栋2号",
+    "start": "暂无评分"
+  }
+][
+  {
+    "hotel_name": "常德随缘宾馆",
+    "hotel_address": "武陵区常德市武陵区长升路文理学院西院旁",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德天城宾馆",
+    "hotel_address": "武陵区德山莲池路与德山大道交叉口西北角（武陵区）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德晨光商务宾馆",
+    "hotel_address": "武陵区人民路步步高百货旁(克徕帝珠宝二三楼)",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德云华宾馆",
+    "hotel_address": "武陵区武文理学院西院后街",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德福寿颐康园",
+    "hotel_address": "武陵区朗州北路万寿安置房",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德鑫悦酒店",
+    "hotel_address": "常德市滨湖南路金桥市场综合楼（紫桥风采超市正对面）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德航道宾馆",
+    "hotel_address": "鼎城路老六医院旁",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德金麟客栈",
+    "hotel_address": "鼎城区善卷路3号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德兵哥客栈",
+    "hotel_address": "武陵区武陵大道汽车总站对面",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德影鑫宾馆",
+    "hotel_address": "武陵区长源路55号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德黄金岛酒店",
+    "hotel_address": "朗州路2008号公路局大楼（与常德大道交汇处）",
+    "start": "3.9"
+  },
+  {
+    "hotel_name": "常德雅杰宾馆",
+    "hotel_address": "武陵区火车站汇元小区30号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德胖子特价宾馆",
+    "hotel_address": "武陵区常德武陵区火车站泽云幸福里1栋",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德浪漫之旅宾馆",
+    "hotel_address": "文理学院西院后街中山外院旁",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德紫怡缘招待所",
+    "hotel_address": "武陵区桃园路2号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德状元楼宾馆",
+    "hotel_address": "鼎城区善卷路（桥南大圆盘旁）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德金台宾馆",
+    "hotel_address": "武陵区泮池街16号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德商贸小宾馆",
+    "hotel_address": "鼎城区商贸城停车场",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德八步来宾馆",
+    "hotel_address": "鼎城区财富广场A区1栋",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德泽海招待所",
+    "hotel_address": "武陵镇商贸城",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德芙蓉路招待所",
+    "hotel_address": "武陵区护城乡西郊村3组",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德幸福宾馆",
+    "hotel_address": "武陵区汽车总站出站口正对面",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德瑞嘉宾馆",
+    "hotel_address": "武陵区文理学院东院",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德江南商务宾馆",
+    "hotel_address": "鼎城区善卷路商贸城中石化油站斜对面",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德鑫汇宾馆",
+    "hotel_address": "武陵区汽车总站出站口正对面",
+    "start": "暂无评分"
+  }
+][
+  {
+    "hotel_name": "常德乾明商务宾馆",
+    "hotel_address": "常德市武陵区红庙街",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德迷你宾馆",
+    "hotel_address": "武陵区骡马巷13号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德金玉宾馆",
+    "hotel_address": "鼎城区善卷路与建新路的交叉口",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德星期五主题宾馆",
+    "hotel_address": "常德市武陵区长源路中山外院旁(白马湖医院旁边)",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德常风宾馆",
+    "hotel_address": "武陵镇车站巷五运汽车站旁",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德天源商务会所",
+    "hotel_address": "常德鼎城区常南汽车总站正对面",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德興八运宾馆",
+    "hotel_address": "常德市武陵区武陵大道北段502号（新体育中心旁）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德漫时光主题宾馆",
+    "hotel_address": "常德武陵区长源路和滨湖路交口南行100米路西",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德恒至商务宾馆",
+    "hotel_address": "武陵区莲池路166号（武陵区）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德三和宾馆",
+    "hotel_address": "武陵区长源路32号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德情聚缘宾馆",
+    "hotel_address": "武陵区文理学院长源路76号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德度连锁酒店(西洞庭)",
+    "hotel_address": "西洞庭管理区祝丰镇迎丰南路126号",
+    "start": "3.7"
+  },
+  {
+    "hotel_name": "常德开家宾馆",
+    "hotel_address": "武陵区常德市武陵区文理学院西院后街中山外院旁边",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德鸿湘缘宾馆",
+    "hotel_address": "常德鼎城区柳叶湖区白鹤小镇商业街",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德欣和宾馆",
+    "hotel_address": "武陵区朝阳路53号",
+    "start": "1.7"
+  },
+  {
+    "hotel_name": "常德琴岛宾馆",
+    "hotel_address": "武陵区文理学院西校区长源路28号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德麗豪招待所",
+    "hotel_address": "武陵区常德武陵区芷荷社区对面",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德双桥宾馆火车站店",
+    "hotel_address": "武陵区火车站泽云广场602",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德鹏远宾馆",
+    "hotel_address": "鼎城区湖南省常德市武陵镇小圆盘",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德鹏友旅馆",
+    "hotel_address": "武陵区人民中路步步高百货B836号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德长顺旅馆",
+    "hotel_address": "武陵区常德洞庭大道与武陵大道交汇处建设银行旁",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德祥缘商务宾馆",
+    "hotel_address": "常德市武陵区高泗路高泗社区（湖南幼儿师范高等专科学校旁）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "澧县天红宾馆",
+    "hotel_address": "澧州大道888号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "金蓉宾馆",
+    "hotel_address": "武陵区长石铁路西段常德火车站广场",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德灵芝宾馆",
+    "hotel_address": "武陵区常德武陵区朝阳路北段金汇广场1号楼114号",
+    "start": "暂无评分"
+  }
+][
+  {
+    "hotel_name": "常德家电招待所",
+    "hotel_address": "武陵区常德武陵区朝阳路309号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德玄泽岭宾馆",
+    "hotel_address": "鼎城区同德路(三鑫注塑厂对面)",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德春晖宾馆",
+    "hotel_address": "武陵区长源路28号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德市五富楼山庄",
+    "hotel_address": "鼎城区花岩溪林场栖凤山村",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德金丹阳招待所",
+    "hotel_address": "湖南省常德市市丹阳路车站对面",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德子一商务宾馆",
+    "hotel_address": "武陵区丹阳巷大润发旁边",
+    "start": "4.7"
+  },
+  {
+    "hotel_name": "常德欣盛酒店",
+    "hotel_address": "武陵区常德武陵区洞庭大道与湘绣路交汇处西北角",
+    "start": "4.8"
+  },
+  {
+    "hotel_name": "常德华雅宾馆鼎城路店",
+    "hotel_address": "鼎城区常德鼎城区鼎城路52号邮政大楼",
+    "start": "4.2"
+  },
+  {
+    "hotel_name": "常德致远商务酒店",
+    "hotel_address": "武陵区洞庭大道1417号",
+    "start": "4.0"
+  },
+  {
+    "hotel_name": "常德泽园旅馆",
+    "hotel_address": "武陵区丹车路实通铭苑对面",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德市宏涛宾馆",
+    "hotel_address": "鼎城区善卷路桥南家电城旁",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德乾明宾馆",
+    "hotel_address": "武陵区德山莲池路185号（武陵区）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德金园招待所",
+    "hotel_address": "武陵区长源路28号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德天钰小宾馆",
+    "hotel_address": "鼎城路63号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德欢喜阁招待所",
+    "hotel_address": "车站巷52号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德文来宾馆",
+    "hotel_address": "武陵区常德文理学院西院后街(三岔路小学对面)",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德德鑫源宾馆",
+    "hotel_address": "武陵区火车站汇元小区46号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德金海岸宾馆",
+    "hotel_address": "鼎城区桥南汽车站总站进站口旁",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德惜缘宾馆",
+    "hotel_address": "武陵区常德武陵区三星路鸿升家饰城四栋",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德超惠宾馆",
+    "hotel_address": "武陵区三岔路街道长源路1号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德晓秋舍主题客栈",
+    "hotel_address": "常德市武陵区长源路125号文理院后街",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德嘉瑞商务宾馆",
+    "hotel_address": "武陵区常德武陵区火车站大市场汇元小区",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德欣悦宾馆",
+    "hotel_address": "武陵区常德火车站皂果路北京城对面",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "佳圆宾馆(常德火车站店)",
+    "hotel_address": "武陵区火车站出站口",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德同兴宾馆",
+    "hotel_address": "鼎城区汽车总站出站口正对面",
+    "start": "暂无评分"
+  }
+][
+  {
+    "hotel_name": "常德华华超市宾馆",
+    "hotel_address": "武陵区人民路4128号（武陵区）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德迎峰宾馆",
+    "hotel_address": "常德鼎城区玉霞街道永安社区财富广场C3-2号（汽车总站出口）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德老叶客栈",
+    "hotel_address": "鼎城区桥南汽车总站C栋1楼",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德花苑宾馆",
+    "hotel_address": "常德武陵区丹阳路与滨湖路交汇处",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德愉居宾馆",
+    "hotel_address": "常德武陵区泽云广场9栋19楼",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德德兴宾馆",
+    "hotel_address": "常德市鼎城区桥南汽车站旁",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德华景宾馆",
+    "hotel_address": "武陵区芷兰街道荷花社区紫竹苑小区大门",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德北斗宾馆",
+    "hotel_address": "常德武陵区泽云广场9栋1004室",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德园园公寓",
+    "hotel_address": "常德武陵区电视台产权巷龙马时尚餐厅附近",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德嘉丽宾馆武陵大道店",
+    "hotel_address": "武陵区常德市武陵区武陵大道鑫泰大厦5-7楼",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德唯爱主题宾馆",
+    "hotel_address": "常德市武陵区文理学院西院长源路（后街中段）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德香柚宾馆",
+    "hotel_address": "武陵区常德武陵区常德大道3123号（火车站对面，月半弯旁）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德四季春金悦酒店(原金悦国际大酒店)",
+    "hotel_address": "武陵区沅安东路433号（武陵区）",
+    "start": "4.7"
+  },
+  {
+    "hotel_name": "常德步行者商务酒店",
+    "hotel_address": "武陵区步行街中段118号",
+    "start": "4.4"
+  },
+  {
+    "hotel_name": "中邮华庭商务酒店(常德桥南店)",
+    "hotel_address": "桥南市场南大门右侧",
+    "start": "4.5"
+  },
+  {
+    "hotel_name": "常德万美商务酒店",
+    "hotel_address": "武陵区人民东路与红庙街交汇处（武陵区）",
+    "start": "4.2"
+  },
+  {
+    "hotel_name": "常德东道汇大酒店",
+    "hotel_address": "鼎城区西洞庭管理区祝丰镇迎风南路祝丰汽车站商业区B栋（鼎城区）",
+    "start": "4.9"
+  },
+  {
+    "hotel_name": "常德假日大酒店",
+    "hotel_address": "武陵区柳叶大道东段1113号",
+    "start": "4.0"
+  },
+  {
+    "hotel_name": "常德中邮华庭连锁酒店(鼎城德山店)",
+    "hotel_address": "武陵区德山经开区莲池路与德山大道交叉口西北角（武陵区）",
+    "start": "4.2"
+  },
+  {
+    "hotel_name": "常德百分连锁主题酒店",
+    "hotel_address": "武陵区民主街吉春广场5楼",
+    "start": "4.4"
+  },
+  {
+    "hotel_name": "超越商务宾馆(常德三店)",
+    "hotel_address": "人民西路与老三岔路口",
+    "start": "4.1"
+  },
+  {
+    "hotel_name": "常德金瑞商务酒店水星楼店",
+    "hotel_address": "武陵区常德武陵区人民中路市政务中心斜对面啊（水星楼附近）",
+    "start": "4.2"
+  },
+  {
+    "hotel_name": "常德梦想公社之梦想公寓",
+    "hotel_address": "常德武陵区文理学院后街天成超市对面巷子内50米左侧",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德松桂园生态农庄",
+    "hotel_address": "柳叶湖区白鹤山乡",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "希岸酒店(常德柳叶湖度假区店)",
+    "hotel_address": "武陵区泰达润景园9号楼",
+    "start": "暂无评分"
+  }
+][
+  {
+    "hotel_name": "常德上也酒店",
+    "hotel_address": "武陵区和平街252号金合大厦三楼",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德德海大酒店",
+    "hotel_address": "鼎城区善卷路2784号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德美居宾馆火车站店",
+    "hotel_address": "火车站美居建材广场",
+    "start": "3.8"
+  },
+  {
+    "hotel_name": "常德悦翔酒店公寓",
+    "hotel_address": "武陵区三星路欢乐城3号楼609",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德阳光青年旅社",
+    "hotel_address": "武陵区常德大道北段泽云幸福里一栋一单元三楼",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德威尼思精品酒店步行街店",
+    "hotel_address": "武陵区朗洲路3号",
+    "start": "3.5"
+  },
+  {
+    "hotel_name": "常德卡慕雅致酒店(原鸿祥商务酒店)",
+    "hotel_address": "武陵区武陵大道泓鑫城市花园",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德天心宾馆",
+    "hotel_address": "长升街19号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德金帝商务宾馆",
+    "hotel_address": "武陵区常德武陵区朝阳路与三星路交汇处（农贸市场前500米工商银行旁）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "超越商务酒店（农资总店）",
+    "hotel_address": "人民路与常德大道交汇处(农资大市场）",
+    "start": "2.8"
+  },
+  {
+    "hotel_name": "常德霞飞宾馆",
+    "hotel_address": "武陵区306省道（武陵区）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德幸福里宾馆火车站店",
+    "hotel_address": "武陵区火车站斜对面",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德景虹宾馆",
+    "hotel_address": "鼎城区同德路1号(应用技术学院西校区入口处)",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德初见主题酒店",
+    "hotel_address": "常德武陵区常德文理学院西院后街长发巷",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德鹏飞宾馆",
+    "hotel_address": "武陵区文理学院西院后街",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德水星商务酒店",
+    "hotel_address": "武陵区人民中路水星楼商业广场",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德丽都宾馆",
+    "hotel_address": "武陵区常德武陵区文理学院长升路38号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德桃花源宾馆",
+    "hotel_address": "火车站美居广场1栋",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德雅萌旅社",
+    "hotel_address": "武陵区三岔路小学对面",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德文都宾馆",
+    "hotel_address": "武陵区文理学院西院后街长源路",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德正华商务宾馆",
+    "hotel_address": "武陵区汽车东站农贸大市场（武陵区）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德金都盛世商务酒店",
+    "hotel_address": "武陵区人民路3428号",
+    "start": "3.1"
+  },
+  {
+    "hotel_name": "常德嘉源宾馆",
+    "hotel_address": "鼎城区善卷路商贸城",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德左手商务宾馆",
+    "hotel_address": "武陵区常德武陵区长升街文理学院附近，天乐宾馆北走50米",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德恒盛商务宾馆",
+    "hotel_address": "常德市武陵区二轻路156号",
+    "start": "暂无评分"
+  }
+][
+  {
+    "hotel_name": "常德雅居创意酒店",
+    "hotel_address": "常德鼎城区玉霞街道临江社区桥南大圆盘国龙商业广场16楼（桥南市场东大门政务中心对面）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德巷左主题公寓东院店",
+    "hotel_address": "常德市武陵区竹山巷东院网吧对面三楼",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德华纳宾馆",
+    "hotel_address": "武陵区常德武陵区火车站泽云广场9栋12楼",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德市倩倩时尚酒店",
+    "hotel_address": "鼎城区阳明路仙女湖步行街5-12号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德桔子主题酒店",
+    "hotel_address": "武陵区常德大道泽云广场9栋9楼（火车站出口正对面福利彩票旁）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德市佳和大酒店",
+    "hotel_address": "武陵区常德大道1830号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德市民富宾馆",
+    "hotel_address": "武陵区洪江街8号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德市祺晨主题酒店",
+    "hotel_address": "鼎城区西洞庭管理区迎丰南路214号（地税局对面）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德市欣雅宾馆",
+    "hotel_address": "武陵区七里桥社区商业街18号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德市枫林晚主题宾馆",
+    "hotel_address": "武陵区文理学院西院后街长源路99号（文都宾馆巷内）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德市和生源六福楼酒店",
+    "hotel_address": "武陵区常德大道1953号",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德市朝夕宾馆",
+    "hotel_address": "武陵区常德大道泽云广场9栋1701房",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德市风吟小筑主题客栈",
+    "hotel_address": "武陵区人民路4253号（常德职业技术学院正对面彬彬商行旁）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德市雅彬客栈",
+    "hotel_address": "鼎城区中联大道巨人教育（虎森酒业斜对面）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德市阳光大酒店",
+    "hotel_address": "武陵区银牛路岩子堰社区1楼（距湘雅常德医院500米）",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德市金凌酒店",
+    "hotel_address": "武陵区紫菱路交警一大队旁",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德市建林宾馆",
+    "hotel_address": "武陵区常德大道汽车总站南门斜对面近火车站",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德市榴莲民宿",
+    "hotel_address": "武陵区三星路欢乐美寓3号楼5楼",
+    "start": "暂无评分"
+  },
+  {
+    "hotel_name": "常德华雅金凤酒店(原金凤宾馆)",
+    "hotel_address": "鼎城区善卷路56号",
+    "start": "4.4"
+  },
+  {
+    "hotel_name": "常德新世界酒店",
+    "hotel_address": "武陵区人民东路219号（武陵区）",
+    "start": "3.9"
+  },
+  {
+    "hotel_name": "常德觅觉精品酒店",
+    "hotel_address": "常德武陵区长源路中山外院旁",
+    "start": "暂无评分"
+  }
+][
+  {
+    "hotel_name": " 湖南泽云酒店",
+    "hotel_address": "武陵大道北段泽云广场",
+    "start": "4.8"
+  },
+  {
+    "hotel_name": "常德国际大酒店",
+    "hotel_address": "武陵区武陵大道686号",
+    "start": "4.5"
+  },
+  {
+    "hotel_name": "桃花源怡然酒店",
+    "hotel_address": "桃花源风景名胜区桃花源镇桃花源古镇9-89号",
+    "start": "4.6"
+  },
+  {
+    "hotel_name": "常德汤臣万豪酒店",
+    "hotel_address": "武陵区武陵大道103号",
+    "start": "4.7"
+  },
+  {
+    "hotel_name": "常德华邦国际大酒店",
+    "hotel_address": "鼎城区鼎城区桃花源路与花溪路交汇处",
+    "start": "4.8"
+  },
+  {
+    "hotel_name": "麗枫酒店(常德步行街店)",
+    "hotel_address": "武陵区武陵大道102号（原华天旁）",
+    "start": "4.8"
+  },
+  {
+    "hotel_name": "常德陌上花开酒店",
+    "hotel_address": "武陵区步行街113号紫艺商城8楼",
+    "start": "4.9"
+  },
+  {
+    "hotel_name": "OYO常德心驰酒店",
+    "hotel_address": "武陵区紫缘路390号",
+    "start": "4.5"
+  },
+  {
+    "hotel_name": "常德爱尚主题酒店",
+    "hotel_address": "武陵区汽车总站出口加油站对面",
+    "start": "4.5"
+  },
+  {
+    "hotel_name": "常德家逸鸿昌国际酒店公寓",
+    "hotel_address": "武陵区建设路1068号鸿昌国际A座1213室(近步行街)",
+    "start": "4.8"
+  },
+  {
+    "hotel_name": "常德Me度假酒店",
+    "hotel_address": "武陵区老西门商业街21栋102、201、501号",
+    "start": "4.9"
+  },
+  {
+    "hotel_name": "天连锁酒店(常德芙蓉广场店)",
+    "hotel_address": "武陵区洞庭大道芙蓉家园",
+    "start": "4.1"
+  },
+  {
+    "hotel_name": "常德奥斯顿酒店公寓",
+    "hotel_address": "武陵区武陵大道欢乐城欢乐美寓11楼1109室",
+    "start": "4.8"
+  },
+  {
+    "hotel_name": "常德托斯卡纳大酒店",
+    "hotel_address": "武陵区常德大道2689号",
+    "start": "4.4"
+  },
+  {
+    "hotel_name": "天连锁酒店(常德桥南大市场店)",
+    "hotel_address": "鼎城区桥头社区桥东巷（原东飞电脑学校大楼）",
+    "start": "4.3"
+  }
+]
